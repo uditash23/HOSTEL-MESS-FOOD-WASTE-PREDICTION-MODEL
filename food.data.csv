@@ -1,0 +1,2001 @@
+Date,Day,Meal_Type,Students,Attendance,Food_Prepared_kg,Menu,Weather,Special_Event,Holiday,Food_Waste_kg
+2025-04-19,Saturday,Lunch,543,404,165.2,Rice Sambar,Normal,No,No,46.2
+2025-05-24,Saturday,Lunch,506,405,199,Rice Sambar,Cloudy,No,No,84.7
+2025-12-12,Friday,Breakfast,560,445,178.7,Dosa,Normal,No,No,49.3
+2026-05-28,Thursday,Breakfast,539,472,196.2,Paratha,Normal,No,No,62.4
+2025-09-11,Thursday,Lunch,587,539,196.1,Rice Sambar,Normal,No,No,34.2
+2025-04-01,Tuesday,Dinner,537,422,190.9,Veg Pulao,Cloudy,No,No,69.8
+2026-08-12,Wednesday,Lunch,460,354,173.3,Rice Sambar,Normal,No,No,72.1
+2025-12-07,Sunday,Breakfast,459,390,150.3,Puri Bhaji,Rainy,No,No,39.5
+2026-10-21,Wednesday,Dinner,516,492,214.9,Roti Chole,Normal,No,No,75.3
+2025-02-11,Tuesday,Lunch,537,470,170.3,Veg Biryani,Normal,No,No,32.9
+2025-02-03,Monday,Dinner,587,424,180.8,Khichdi,Cloudy,No,Yes,64.6
+2025-02-06,Thursday,Breakfast,557,447,165.9,Upma,Rainy,No,No,38.8
+2026-03-26,Thursday,Breakfast,471,399,172.7,Paratha,,No,No,51.7
+2025-12-31,Wednesday,Breakfast,595,452,154.4,Paratha,Normal,No,No,22.1
+2025-01-22,Wednesday,Breakfast,501,410,169.7,Upma,Cloudy,No,No,49
+2025-08-23,Saturday,Dinner,522,448,207.9,Rice Dal,Normal,No,No,77.9
+2025-10-03,Friday,Breakfast,505,382,147.5,Idli Sambar,Rainy,No,Yes,41.6
+2025-01-15,Wednesday,Lunch,484,438,156.2,Rice Paneer,Normal,No,No,27.6
+2025-10-16,Thursday,Breakfast,551,415,153.4,Paratha,Normal,No,Yes,32.6
+2025-10-12,Sunday,Dinner,459,315,132,Roti Chole,Normal,Yes,No,41.4
+2025-08-30,Saturday,Lunch,583,439,190,Rice Chole,Normal,No,No,64
+2025-12-02,Tuesday,Dinner,527,489,192.7,Veg Pulao,Normal,No,No,50.9
+2025-01-03,Friday,Lunch,490,405,160.6,Rice Rajma,Normal,No,No,37.7
+2026-02-26,Thursday,Lunch,589,443,168.5,Rice Dal,Normal,No,No,40.1
+2026-07-15,Wednesday,Breakfast,583,401,159.7,Paratha,Normal,No,Yes,46.2
+2025-03-30,Sunday,Lunch,525,470,190.1,Rice Sambar,Normal,No,No,52.6
+2025-11-13,Thursday,Lunch,585,526,201.5,Rice Sambar,Cloudy,No,No,46.6
+2025-08-23,Saturday,Lunch,476,288,109.2,Rice Sambar,Normal,No,No,31
+2026-05-07,Thursday,Lunch,558,503,214.1,Rice Paneer,Rainy,No,No,69.9
+2026-01-26,Monday,Dinner,532,497,210.5,Veg Pulao,Hot,No,No,69
+2026-05-22,Friday,Lunch,525,507,197.1,Rice Chole,Normal,No,No,49.1
+2025-10-28,Tuesday,Breakfast,545,419,157.1,Idli Sambar,Normal,Yes,No,33.2
+2025-09-10,Wednesday,Lunch,511,418,168.4,Veg Biryani,Normal,No,No,47.4
+2025-03-25,Tuesday,Dinner,596,504,181.7,Roti Dal,Normal,No,No,33.2
+2026-03-04,Wednesday,Lunch,506,424,176.1,Rice Dal,Hot,No,No,56.6
+2025-11-20,Thursday,Lunch,454,367,161.6,Rice Sambar,Normal,No,No,49.2
+2026-09-05,Saturday,Breakfast,517,341,129.2,Puri Bhaji,Normal,Yes,No,28.4
+2026-03-31,Tuesday,Lunch,589,429,168.4,Rice Sambar,Normal,No,No,46.9
+2025-04-09,Wednesday,Breakfast,485,429,169.9,Poha,Hot,No,No,42.4
+2026-05-12,Tuesday,Breakfast,482,336,122.4,Puri Bhaji,Normal,No,No,26.1
+2026-05-19,Tuesday,Dinner,507,430,186,Veg Pulao,Normal,No,No,59.6
+2025-07-27,Sunday,Breakfast,483,412,178.2,Poha,Normal,No,No,58.2
+2026-02-23,Monday,Lunch,556,489,177.2,Rice Chole,Hot,No,No,30
+2026-09-07,Monday,Breakfast,523,425,179.9,Idli Sambar,Normal,No,No,56.8
+2025-02-16,Sunday,Breakfast,456,385,136.7,Upma,Rainy,No,No,33.5
+2026-04-26,Sunday,Dinner,475,341,143.9,Veg Pulao,Rainy,No,No,45.4
+2026-05-31,Sunday,Breakfast,516,337,135.4,Idli Sambar,Rainy,No,No,41.2
+2025-02-16,Sunday,Dinner,493,357,141.7,Roti Dal,Normal,No,No,35.3
+2026-02-06,Friday,Lunch,485,374,141.6,Rice Sambar,Hot,No,No,39
+2025-02-06,Thursday,Dinner,555,432,176,Rice Dal,Rainy,No,No,52.1
+2025-01-01,Wednesday,Lunch,578,519,199.1,Rice Rajma,Normal,No,No,45.3
+2025-03-25,Tuesday,Lunch,520,474,179.6,Rice Chole,Hot,No,No,41.3
+2026-01-22,Thursday,Lunch,451,380,143.7,Rice Dal,Rainy,No,No,39
+2026-01-04,Sunday,Dinner,566,463,190,Roti Dal,Rainy,No,No,60.7
+2026-08-15,Saturday,Dinner,511,375,157.2,Rice Dal,Normal,No,No,49.3
+2026-02-01,Sunday,Dinner,600,431,172.4,Veg Pulao,Normal,No,Yes,47.9
+2026-07-10,Friday,Breakfast,497,455,157.3,Poha,Hot,No,No,22.5
+2025-10-04,Saturday,Lunch,465,360,138,Veg Biryani,Normal,No,No,32.7
+2025-03-04,Tuesday,Lunch,475,417,160.9,Rice Sambar,Normal,No,No,41.9
+2026-09-05,Saturday,Breakfast,567,442,163.3,Idli Sambar,Rainy,No,No,32.4
+2026-01-25,Sunday,Breakfast,515,274,100.9,Dosa,Normal,No,Yes,23.5
+2025-02-27,Thursday,Dinner,551,464,196.5,Khichdi,Rainy,No,No,65.1
+2025-05-25,Sunday,Dinner,555,418,145.9,Rice Dal,Rainy,No,No,28
+2025-08-19,Tuesday,Breakfast,511,463,171.5,Upma,Normal,No,No,42.8
+2025-05-29,Thursday,Breakfast,497,487,198.3,Poha,Normal,Yes,No,49.6
+2026-04-19,Sunday,Lunch,592,495,193.6,Rice Rajma,Rainy,Yes,No,47.3
+2026-02-05,Thursday,Lunch,590,431,184.1,Rice Rajma,Hot,No,No,65.1
+2026-07-05,Sunday,Breakfast,519,343,137.9,Dosa,Rainy,No,No,37.2
+2026-02-11,Wednesday,Lunch,458,,138.2,Veg Biryani,Normal,No,No,24.5
+2025-01-20,Monday,Lunch,547,378,165.8,Rice Rajma,Normal,No,No,59.8
+2025-06-19,Thursday,Dinner,600,470,171.4,Rice Dal,Normal,No,No,32.4
+2025-01-21,Tuesday,Dinner,482,301,109.7,Veg Pulao,Rainy,No,Yes,31
+2026-10-21,Wednesday,Breakfast,488,444,168.2,Poha,Normal,No,No,39.9
+2025-03-11,Tuesday,Dinner,472,463,200.6,Khichdi,Cloudy,No,No,66.8
+2026-07-29,Wednesday,Lunch,565,493,177.2,Rice Sambar,Normal,No,No,36.6
+2026-08-30,Sunday,Dinner,516,363,120.8,Roti Dal,Rainy,No,No,19.9
+2025-05-21,Wednesday,Breakfast,570,501,213.8,Dosa,Normal,No,No,70.4
+2025-07-29,Tuesday,Dinner,590,476,166.3,Veg Pulao,Cloudy,No,No,27.9
+2026-07-08,Wednesday,Lunch,533,516,197.6,Rice Sambar,Normal,Yes,No,44.3
+2026-03-23,Monday,Dinner,594,548,213.6,Rice Dal,Rainy,No,No,49.7
+2026-09-25,Friday,Lunch,497,391,149.3,Veg Biryani,Normal,No,No,38.6
+2025-05-13,Tuesday,Dinner,481,411,206.6,Roti Dal,Normal,No,No,83.6
+2026-06-11,Thursday,Lunch,528,464,179.4,Veg Biryani,Normal,No,No,44
+2025-07-20,Sunday,Breakfast,516,408,184.2,Dosa,Cloudy,Yes,No,63.8
+2026-01-26,Monday,Lunch,525,461,191.4,Rice Paneer,Normal,No,No,58.2
+2026-02-06,Friday,Lunch,530,436,160,Rice Dal,Cloudy,No,Yes,39.2
+2026-04-11,Saturday,Dinner,575,440,182.9,Rice Dal,Normal,No,No,61.9
+2026-06-05,Friday,Dinner,489,441,148.4,Rice Dal,Rainy,No,No,16.6
+2025-10-28,Tuesday,Dinner,457,410,177.2,Veg Pulao,Normal,No,No,64
+2025-09-25,Thursday,Lunch,543,527,203.4,Veg Biryani,Normal,Yes,No,48
+2025-02-08,Saturday,Lunch,463,299,115,Rice Paneer,Cloudy,No,Yes,29.4
+2026-02-18,Wednesday,Breakfast,600,544,200.8,Poha,Hot,No,No,41
+2025-10-22,Wednesday,Dinner,518,357,120.4,Rice Dal,Hot,No,No,15.5
+2025-02-09,Sunday,Dinner,565,409,136.8,Roti Dal,Cloudy,No,No,20.4
+2026-04-01,Wednesday,Lunch,552,438,151.9,Veg Biryani,Normal,No,No,22.9
+2026-10-17,Saturday,Dinner,552,448,211.9,Roti Dal,Normal,No,No,86.9
+2026-10-07,Wednesday,Breakfast,454,350,128.9,Poha,Hot,No,No,28.2
+2025-04-10,Thursday,Dinner,491,400,158.8,Khichdi,Rainy,Yes,No,42.5
+2025-01-26,Sunday,Breakfast,500,398,174.8,Poha,Rainy,No,No,61.9
+2025-12-26,Friday,Dinner,506,427,166.5,Roti Paneer,Normal,No,No,45
+2025-08-24,Sunday,Breakfast,533,328,124.7,Idli Sambar,Normal,No,Yes,37.2
+2025-03-20,Thursday,Breakfast,557,441,211.9,Upma,Rainy,No,No,85.5
+2025-03-28,Friday,Dinner,542,437,196.9,Roti Chole,Normal,No,No,72
+2026-09-30,Wednesday,Dinner,587,430,133.1,Roti Chole,Cloudy,No,No,10.2
+2026-05-09,Saturday,Dinner,535,394,153.7,Khichdi,Normal,No,No,32.4
+2025-05-14,Wednesday,Dinner,574,540,222.5,Khichdi,Normal,No,No,64.3
+2026-04-02,Thursday,Dinner,470,385,145.1,Khichdi,Cloudy,No,No,37.4
+2025-08-29,Friday,Breakfast,459,389,125.5,Upma,Normal,No,No,8.3
+2025-05-26,Monday,Dinner,541,414,175.6,Roti Chole,Rainy,No,No,60.2
+2025-01-14,Tuesday,Breakfast,524,421,148.8,Puri Bhaji,Normal,No,No,19
+2026-01-07,Wednesday,Dinner,464,392,155.6,Roti Chole,Hot,No,No,44.5
+2026-08-04,Tuesday,Lunch,552,525,240.2,Veg Biryani,Normal,No,No,90.8
+2025-01-02,Thursday,Lunch,574,492,229.2,Rice Rajma,Normal,No,No,79.7
+2025-02-20,Thursday,Lunch,453,330,105,,Normal,No,No,13.5
+2025-04-23,Wednesday,Lunch,496,397,171.7,Veg Biryani,Rainy,No,No,56.9
+2025-12-29,Monday,Dinner,475,411,174.1,Roti Dal,Normal,No,No,55.1
+2025-04-30,Wednesday,Breakfast,561,486,212.3,Idli Sambar,Normal,No,No,64.1
+2026-09-02,Wednesday,Dinner,550,355,146.2,Khichdi,Cloudy,No,Yes,40.2
+2026-08-04,Tuesday,Breakfast,514,417,201.8,Upma,Rainy,No,No,89.2
+2025-09-10,Wednesday,Dinner,578,489,214.6,Roti Paneer,Normal,No,No,70.6
+2026-01-28,Wednesday,Lunch,532,432,173.2,Rice Rajma,Normal,No,No,47.4
+2025-10-18,Saturday,Lunch,582,436,186,Rice Rajma,Normal,No,No,63.9
+2025-05-13,Tuesday,Lunch,547,445,169.8,Rice Chole,Normal,No,No,38.8
+2026-09-14,Monday,Dinner,547,454,185.5,Roti Dal,Hot,No,No,59.3
+2026-05-22,Friday,Breakfast,529,389,157.2,Idli Sambar,Normal,No,No,44.3
+2025-10-21,Tuesday,Lunch,557,365,158,Veg Biryani,Cloudy,Yes,Yes,57
+2025-06-21,Saturday,Breakfast,502,355,130.1,Paratha,Rainy,No,No,30.8
+2026-03-25,Wednesday,Lunch,528,367,153.4,Rice Rajma,Cloudy,No,No,44.5
+2025-07-19,Saturday,Breakfast,506,393,139.7,Idli Sambar,Rainy,No,No,30.6
+2025-03-31,Monday,Lunch,452,361,149.1,Rice Sambar,Normal,No,No,49.9
+2026-09-24,Thursday,Lunch,586,566,240.8,Rice Sambar,Hot,No,No,75.6
+2025-10-25,Saturday,Dinner,479,406,144.1,Rice Dal,Normal,No,No,25.9
+2025-05-31,Saturday,Dinner,521,399,155,Roti Dal,Rainy,No,No,38
+2025-02-28,Friday,Lunch,571,460,197.3,Rice Dal,Rainy,No,No,66.7
+2025-01-29,Wednesday,Dinner,476,441,154,Roti Paneer,Hot,No,No,20.3
+2026-09-19,Saturday,Breakfast,494,339,122.7,Poha,Hot,No,No,28.7
+2025-02-11,Tuesday,Breakfast,570,460,219.9,Upma,Hot,No,No,84.5
+2025-12-26,Friday,Dinner,502,406,148.4,Roti Dal,Normal,Yes,No,32.4
+2026-09-12,Saturday,Lunch,453,377,155.1,Veg Biryani,Normal,No,No,47.6
+2025-01-15,Wednesday,Breakfast,544,497,174,Puri Bhaji,Normal,Yes,No,24.4
+2025-10-19,Sunday,Lunch,555,426,173.3,Rice Rajma,Hot,No,Yes,49.7
+2026-05-27,Wednesday,Dinner,458,374,165.9,Roti Paneer,Normal,No,No,47.1
+2026-04-26,Sunday,Lunch,493,393,143.8,Rice Chole,Rainy,No,No,29.6
+2026-10-29,Thursday,Breakfast,516,432,199.1,Puri Bhaji,Cloudy,No,No,73
+2026-01-22,Thursday,Lunch,528,396,158.4,Rice Chole,Normal,No,No,43.6
+2026-05-27,Wednesday,Lunch,553,480,200.7,Rice Paneer,Normal,No,No,56.2
+2026-07-21,Tuesday,Dinner,494,387,159.8,Roti Chole,Rainy,No,No,49.6
+2025-07-27,Sunday,Lunch,526,478,227.6,Rice Dal,Rainy,No,No,85.8
+2025-01-06,Monday,Dinner,566,480,204.4,Roti Paneer,Normal,No,No,64.3
+2026-10-26,Monday,Lunch,476,404,188.2,Rice Paneer,Normal,No,No,77.9
+2026-06-18,Thursday,Breakfast,513,481,156.5,Idli Sambar,Hot,No,No,20.2
+2026-02-02,Monday,Breakfast,472,367,156.6,Idli Sambar,Cloudy,No,No,47.8
+2026-01-06,Tuesday,Breakfast,573,456,170.3,Idli Sambar,Hot,No,No,38.5
+2025-01-25,Saturday,Dinner,579,481,215,Khichdi,Cloudy,Yes,No,79.2
+2025-11-25,Tuesday,Dinner,596,473,200.3,Rice Dal,Normal,No,No,51.7
+2026-05-18,Monday,Dinner,460,365,138.9,Khichdi,Hot,No,No,33.8
+2026-04-22,Wednesday,Lunch,533,485,195.8,Veg Biryani,Rainy,Yes,No,52.6
+2026-09-05,Saturday,Dinner,486,431,178.4,Roti Dal,Cloudy,No,No,54.2
+2026-02-19,Thursday,Dinner,587,499,209,Roti Paneer,Normal,No,No,60.6
+2025-08-25,Monday,Breakfast,585,483,212.8,Idli Sambar,Normal,No,No,75.9
+2025-04-17,Thursday,Lunch,578,527,221.2,Rice Paneer,Cloudy,No,No,62.1
+2025-06-20,Friday,Breakfast,571,437,157.1,Poha,Normal,No,No,27.7
+2026-05-26,Tuesday,Lunch,488,336,150.6,Rice Sambar,Normal,No,Yes,52.9
+2025-09-21,Sunday,Lunch,537,419,152.1,Rice Sambar,Normal,No,No,26.1
+2025-10-07,Tuesday,Dinner,518,415,149.5,Khichdi,Rainy,Yes,No,30.1
+2026-07-06,Monday,Dinner,580,439,,Rice Dal,Hot,No,No,76.8
+2025-06-01,Sunday,Dinner,467,396,179.6,Roti Paneer,Normal,No,No,65.4
+2025-01-12,Sunday,Breakfast,455,380,153.4,Upma,Cloudy,No,No,46.2
+2026-08-13,Thursday,Breakfast,574,534,200.7,Idli Sambar,Cloudy,Yes,No,47.3
+2025-02-17,Monday,Lunch,472,429,163.6,Rice Dal,Rainy,No,No,36.2
+2025-12-03,Wednesday,Breakfast,533,455,180.4,Idli Sambar,Normal,No,No,47.2
+2025-04-12,Saturday,Lunch,534,408,167.3,Veg Biryani,Rainy,No,No,53.8
+2025-01-16,Thursday,Breakfast,591,548,210.2,Dosa,Normal,Yes,No,47.5
+2026-07-26,Sunday,Breakfast,489,423,157,Idli Sambar,Normal,No,No,36
+2025-05-10,Saturday,Lunch,564,440,230.6,Rice Paneer,Normal,No,No,101.2
+2025-05-31,Saturday,Breakfast,511,467,147.5,Poha,Hot,No,No,6.8
+2025-11-08,Saturday,Breakfast,515,454,143.9,Poha,Rainy,No,No,18.2
+2026-09-01,Tuesday,Lunch,481,363,159,Rice Paneer,Normal,No,No,57.9
+2025-11-30,Sunday,Dinner,555,399,175.7,Roti Chole,Normal,No,No,59.7
+2025-05-17,Saturday,Lunch,498,352,128.7,Rice Paneer,Normal,No,No,22.4
+2025-08-31,Sunday,Lunch,591,451,185.8,Rice Rajma,Normal,No,No,50.3
+2026-10-18,Sunday,Dinner,595,499,203,Veg Pulao,Normal,No,No,59.6
+2025-02-05,Wednesday,Breakfast,474,431,153.3,Poha,Normal,No,No,25.4
+2025-03-30,Sunday,Dinner,536,420,175.3,Roti Chole,Normal,No,No,53.1
+2025-09-25,Thursday,Breakfast,535,399,135.6,Poha,Normal,No,No,17.6
+2025-06-25,Wednesday,Breakfast,459,426,153.5,Poha,Cloudy,No,No,25.9
+2025-04-23,Wednesday,Lunch,506,398,148,Rice Sambar,Normal,No,No,33.5
+2026-10-02,Friday,Breakfast,454,385,154.1,Idli Sambar,Normal,No,No,38.8
+2026-08-03,Monday,Dinner,589,518,170.8,Rice Dal,Rainy,No,No,20.7
+2025-04-19,Saturday,Lunch,479,371,142.1,Rice Rajma,Normal,No,No,36.4
+2026-06-08,Monday,Lunch,551,412,154.5,Rice Dal,Cloudy,No,No,32.6
+2026-02-26,Thursday,Lunch,556,445,215.5,Rice Chole,Hot,No,No,87.3
+2026-04-04,Saturday,Lunch,490,366,127.5,Rice Paneer,Normal,No,No,15.5
+2026-03-15,Sunday,Dinner,486,418,158.9,Roti Paneer,Normal,No,No,40.9
+2025-05-24,Saturday,Lunch,559,484,199.1,Rice Rajma,Hot,No,No,60.4
+2026-05-21,Thursday,Breakfast,485,404,150.1,Poha,Cloudy,No,No,37
+2025-07-10,Thursday,Lunch,558,498,225.6,Rice Chole,Normal,No,No,75.9
+2025-12-19,Friday,Dinner,564,484,216.6,Roti Chole,Normal,No,No,74.1
+2026-06-01,Monday,Lunch,561,503,227.7,Rice Sambar,Rainy,No,No,82.3
+2025-08-31,Sunday,Dinner,577,447,165.2,Rice Dal,Hot,No,No,39.2
+2025-11-16,Sunday,Lunch,536,465,190.8,Rice Paneer,Normal,No,No,54.2
+2025-06-15,Sunday,Lunch,572,382,155.3,Rice Chole,Rainy,Yes,Yes,54
+2025-01-14,Tuesday,Lunch,512,474,212.5,Rice Sambar,Normal,No,No,75.5
+2026-05-26,Tuesday,Dinner,523,408,179.1,Rice Dal,Rainy,No,No,63.2
+2026-02-18,Wednesday,Lunch,467,427,176.5,Rice Sambar,Hot,No,No,54.9
+2025-01-29,Wednesday,Breakfast,483,449,163.8,Paratha,Normal,No,No,32.3
+2026-01-20,Tuesday,Lunch,540,470,186.9,Rice Sambar,Rainy,No,No,45.3
+2025-01-10,Friday,Breakfast,560,477,222.4,Paratha,,No,No,78.6
+2025-09-21,Sunday,Dinner,469,356,144.2,Roti Chole,Rainy,No,No,41.5
+2026-07-23,Thursday,Dinner,579,482,172.4,Roti Paneer,Cloudy,No,No,29.8
+2026-08-31,Monday,Lunch,555,427,151.7,Rice Dal,Rainy,No,No,25.8
+2025-12-31,Wednesday,Breakfast,456,415,157.3,Dosa,Rainy,No,No,37.2
+2026-10-01,Thursday,Dinner,459,402,171.3,Veg Pulao,Hot,Yes,No,63.5
+2025-01-09,Thursday,Lunch,503,431,174.6,Rice Chole,Normal,No,No,49.5
+2025-12-12,Friday,Lunch,588,459,189.5,Rice Rajma,Normal,No,No,50.8
+2025-05-20,Tuesday,Lunch,566,371,169.6,Rice Rajma,Hot,No,Yes,67.9
+2025-05-28,Wednesday,Breakfast,504,450,188.1,Paratha,Normal,Yes,No,54.6
+2026-03-13,Friday,Dinner,591,437,190.3,Veg Pulao,Normal,No,No,67.9
+2025-07-11,Friday,Dinner,456,355,134.4,Roti Chole,Cloudy,No,Yes,31.3
+2025-09-13,Saturday,Lunch,591,335,162.3,Rice Dal,Hot,No,Yes,67.6
+2026-01-23,Friday,Breakfast,598,476,178,Poha,Normal,No,No,43.9
+2025-07-03,Thursday,Lunch,587,551,227.1,Rice Dal,Normal,No,No,70
+2025-04-23,Wednesday,Lunch,568,376,166.6,Rice Sambar,Cloudy,No,No,50.2
+2025-09-19,Friday,Dinner,590,540,266.5,Veg Pulao,Normal,No,No,103.9
+2026-09-11,Friday,Dinner,541,487,199.6,Roti Dal,Normal,No,No,54.7
+2026-04-23,Thursday,Breakfast,582,504,182.7,Dosa,Normal,No,No,35.6
+2026-03-26,Thursday,Lunch,597,550,184.8,Rice Paneer,Normal,No,No,21.9
+2025-04-16,Wednesday,Dinner,598,533,199,Roti Paneer,Normal,No,No,40.3
+2025-09-10,Wednesday,Dinner,458,384,129.5,Veg Pulao,Cloudy,No,No,21.5
+2026-07-18,Saturday,Lunch,466,350,146.6,Rice Sambar,Hot,No,No,49.5
+2026-09-30,Wednesday,Lunch,569,558,268,Rice Sambar,Rainy,Yes,No,103.6
+2026-08-28,Friday,Breakfast,529,500,198.6,Puri Bhaji,Hot,No,No,56.6
+2025-03-30,Sunday,Dinner,507,343,127.9,Rice Dal,Normal,No,No,26.1
+2026-09-08,Tuesday,Lunch,580,348,163.6,Veg Biryani,Normal,No,Yes,65.3
+2025-12-04,Thursday,Lunch,451,373,142,Rice Dal,Hot,No,No,31.9
+2025-06-29,Sunday,Breakfast,585,423,145.2,Upma,Cloudy,No,No,20.1
+2025-10-16,Thursday,Dinner,550,456,160,Roti Chole,Hot,No,No,23.2
+2026-07-07,Tuesday,Breakfast,567,455,172.9,Puri Bhaji,Normal,No,No,40.4
+2025-11-02,Sunday,Dinner,456,376,153.8,Khichdi,Normal,No,No,42.3
+2026-02-24,Tuesday,Lunch,567,490,209.7,Veg Biryani,Hot,No,Yes,73.9
+2026-02-07,Saturday,Lunch,480,372,158,Rice Dal,Rainy,No,No,55.5
+2025-05-30,Friday,Lunch,565,500,192.8,Veg Biryani,Hot,No,No,56.3
+2025-06-15,Sunday,Dinner,564,417,170.1,Roti Chole,Cloudy,Yes,No,43.9
+2025-06-03,Tuesday,Dinner,534,445,195.5,Rice Dal,Normal,No,No,65.6
+2026-08-25,Tuesday,Breakfast,452,400,,Paratha,Normal,No,No,70.8
+2026-04-07,Tuesday,Breakfast,568,556,225.6,Puri Bhaji,Rainy,Yes,No,64.5
+2026-07-24,Friday,Dinner,547,481,202.3,Khichdi,Cloudy,Yes,No,58.1
+2026-06-16,Tuesday,Lunch,525,469,208.9,Veg Biryani,Normal,Yes,No,69.7
+2025-03-02,Sunday,Breakfast,460,337,127.9,Upma,Normal,No,No,26.9
+2026-09-02,Wednesday,Lunch,590,482,201.4,Rice Sambar,Normal,No,No,64.6
+2026-06-04,Thursday,Lunch,487,452,227.1,Veg Biryani,Rainy,No,No,98.1
+2025-01-17,Friday,Breakfast,529,430,171.2,Poha,Rainy,No,Yes,47
+2026-02-24,Tuesday,Breakfast,577,489,210.6,Dosa,Hot,No,No,65.9
+2026-07-10,Friday,Dinner,464,408,151.1,Veg Pulao,Cloudy,No,No,35.4
+2025-12-25,Thursday,Lunch,562,482,225.9,Rice Chole,Rainy,No,No,88.9
+2026-09-05,Saturday,Breakfast,466,350,123.1,Puri Bhaji,Rainy,No,No,24
+2025-12-05,Friday,Dinner,454,369,179.9,Roti Dal,Hot,No,No,78.7
+2025-11-11,Tuesday,Breakfast,542,486,189.1,Paratha,Rainy,No,No,57.4
+2026-01-11,Sunday,Breakfast,468,284,101.4,Poha,Normal,No,Yes,24.7
+2026-05-10,Sunday,Breakfast,548,475,202.4,Upma,Hot,No,No,67.5
+2026-07-08,Wednesday,Breakfast,488,360,103.6,Upma,Cloudy,No,No,3.5
+2026-01-09,Friday,Breakfast,502,371,159.8,Poha,Normal,No,No,53.9
+2025-04-05,Saturday,Breakfast,518,384,131.4,Paratha,Normal,No,No,22.9
+2025-06-21,Saturday,Breakfast,470,362,124.8,Puri Bhaji,Cloudy,No,No,19.4
+2025-10-23,Thursday,Breakfast,489,361,167.1,Dosa,Normal,No,No,61
+2025-08-14,Thursday,Breakfast,591,531,197.8,Paratha,Cloudy,No,No,49.1
+2025-02-28,Friday,Lunch,474,461,207.4,Rice Rajma,Cloudy,No,No,68.4
+2025-04-27,Sunday,Dinner,507,411,169.7,Veg Pulao,Normal,No,No,53.1
+2025-10-18,Saturday,Lunch,477,391,169.1,Rice Rajma,Normal,No,No,55.3
+2025-02-16,Sunday,Dinner,517,357,125,Roti Chole,Normal,No,No,25.7
+2025-12-24,Wednesday,Dinner,453,415,181.2,Veg Pulao,Hot,No,No,66.4
+2025-09-16,Tuesday,Lunch,522,462,213.3,Veg Biryani,Normal,No,No,80.8
+2025-07-03,Thursday,Dinner,482,326,123.7,Veg Pulao,Rainy,No,Yes,40.8
+2025-12-01,Monday,Lunch,566,513,222.9,Rice Paneer,Normal,No,No,75.1
+2025-09-08,Monday,Dinner,591,507,180.9,Roti Paneer,Normal,No,No,31.6
+2026-08-11,Tuesday,dinner,475,435,193.1,Roti Chole,Rainy,No,No,70.9
+2026-02-19,Thursday,Dinner,597,461,161.3,Veg Pulao,Normal,No,No,29.5
+2025-06-28,Saturday,Breakfast,513,453,158.4,Paratha,Rainy,No,No,29.5
+2026-07-13,Monday,Dinner,526,420,141.8,Roti Dal,Normal,No,No,17.4
+2026-10-08,Thursday,Lunch,592,469,205.6,Rice Sambar,Rainy,No,No,74.6
+2025-06-14,Saturday,Lunch,566,421,191.4,Rice Sambar,Rainy,No,No,72.6
+2026-09-01,Tuesday,Lunch,521,456,209.6,Rice Sambar,Hot,No,No,82.5
+2025-05-20,Tuesday,Dinner,541,428,179.5,Veg Pulao,Hot,No,No,55
+2025-12-15,Monday,Breakfast,575,486,195.2,Idli Sambar,Normal,No,No,56.6
+2026-07-18,Saturday,Dinner,594,435,179.6,Roti Dal,Normal,Yes,No,45.8
+2025-02-09,Sunday,Lunch,495,305,116.4,Veg Biryani,Normal,No,Yes,28.4
+2025-05-13,Tuesday,Lunch,545,423,174.2,Rice Sambar,Normal,No,No,47
+2025-11-17,Monday,Lunch,550,510,205.8,Rice Sambar,Normal,No,No,54.3
+2026-03-11,Wednesday,Lunch,471,446,189,Veg Biryani,Normal,Yes,No,56.8
+2025-02-04,Tuesday,Lunch,527,466,206.5,Rice Rajma,Normal,No,No,71.6
+2026-03-11,Wednesday,Dinner,491,382,151,Khichdi,Rainy,No,No,34.8
+2025-10-11,Saturday,Breakfast,557,515,217,Dosa,Cloudy,No,No,57.1
+2025-09-27,Saturday,Dinner,533,447,181.8,Roti Paneer,Normal,No,No,53.3
+2026-09-20,Sunday,Dinner,589,465,180.2,Roti Chole,Normal,No,No,41.1
+2025-11-01,Saturday,Lunch,495,421,159.4,Rice Rajma,Rainy,No,No,31.2
+2025-11-10,Monday,Dinner,536,421,177.8,Roti Chole,Normal,No,No,56.1
+2026-09-26,Saturday,Breakfast,535,439,,Dosa,Normal,No,No,75.8
+2025-11-07,Friday,Lunch,526,427,191.9,Rice Chole,Rainy,No,Yes,71.6
+2025-07-09,Wednesday,Breakfast,466,357,125.6,Poha,Normal,No,No,20.6
+2026-10-16,Friday,Lunch,486,447,179.2,Rice Paneer,Normal,No,No,44.1
+2025-10-01,Wednesday,Lunch,527,425,180.2,Rice Chole,Rainy,No,No,58.5
+2025-03-16,Sunday,Lunch,507,433,186.7,Veg Biryani,Normal,No,No,67.3
+2026-05-31,Sunday,Lunch,470,336,126.9,Rice Paneer,Cloudy,No,No,37.2
+2025-10-16,Thursday,Lunch,571,480,173.7,Veg Biryani,Normal,No,No,31.2
+2025-01-17,Friday,Breakfast,579,453,167.9,Upma,Normal,No,No,35.8
+2026-04-07,Tuesday,Breakfast,580,486,195,Upma,Normal,No,No,56.6
+2026-03-03,Tuesday,Dinner,455,379,152.2,Roti Chole,Normal,No,No,46.1
+2025-04-30,Wednesday,Breakfast,549,454,180.5,Idli Sambar,Normal,No,No,47.9
+2025-10-20,Monday,Lunch,490,376,153.3,Veg Biryani,Normal,No,No,43.6
+2026-09-18,Friday,Dinner,470,400,176.2,Khichdi,Normal,No,No,65.1
+2026-06-29,Monday,Lunch,596,496,199.9,,Normal,No,No,55.2
+2026-10-18,Sunday,Breakfast,579,487,236.8,Paratha,Cloudy,No,No,95.2
+2026-06-20,Saturday,Breakfast,550,460,208.6,Puri Bhaji,Cloudy,No,No,65.7
+2026-07-15,Wednesday,Lunch,578,403,152.9,Rice Dal,Normal,No,No,37.9
+2025-11-01,Saturday,Dinner,595,475,199.7,Veg Pulao,Normal,No,No,58.9
+2026-09-29,Tuesday,Dinner,461,356,132,Roti Paneer,Hot,No,No,21.1
+2025-06-06,Friday,Breakfast,530,489,193.4,Puri Bhaji,Normal,No,No,51.7
+2025-02-16,Sunday,Dinner,555,470,176,Roti Dal,Cloudy,No,No,37.6
+2025-07-11,Friday,Lunch,462,363,156.5,Veg Biryani,Normal,No,No,50.8
+2026-10-06,Tuesday,Breakfast,564,539,198.3,Paratha,Normal,No,No,37.9
+2026-10-26,Monday,Lunch,491,435,203.9,Rice Paneer,Hot,No,No,79.6
+2025-06-06,Friday,Lunch,596,502,201.4,Veg Biryani,Normal,No,No,59.3
+2025-06-24,Tuesday,Lunch,531,388,161.7,Veg Biryani,Normal,No,No,100
+2025-01-11,Saturday,Dinner,475,309,134.7,Roti Dal,Normal,No,No,45
+2025-09-28,Sunday,Dinner,572,393,141.9,Khichdi,Normal,Yes,No,26.1
+2025-06-16,Monday,Lunch,539,502,173.8,Rice Sambar,Cloudy,No,No,19.5
+2025-02-06,Thursday,Lunch,564,509,208.2,Rice Paneer,Normal,No,No,52.1
+2025-11-14,Friday,Breakfast,502,423,150.2,Puri Bhaji,Normal,No,No,30.6
+2025-07-11,Friday,Dinner,593,476,202.9,Roti Paneer,Normal,No,Yes,63.4
+2025-06-16,Monday,Breakfast,492,461,196.9,Poha,Hot,No,No,61.5
+2025-08-08,Friday,Breakfast,468,427,179.6,Dosa,Cloudy,No,No,55.7
+2025-02-20,Thursday,Breakfast,501,475,186.4,Paratha,Cloudy,No,No,44.3
+2025-01-22,Wednesday,Dinner,564,518,197.5,Roti Paneer,Cloudy,No,No,44.4
+2026-04-12,Sunday,Lunch,576,469,163.9,Rice Rajma,Normal,No,No,25
+2025-08-16,Saturday,Dinner,458,374,158.9,Roti Chole,Normal,No,No,50.9
+2025-08-11,Monday,Lunch,587,472,206.2,Rice Rajma,Rainy,No,No,71.2
+2026-09-30,Wednesday,Dinner,491,379,155.4,Rice Dal,Normal,No,No,47.1
+2026-01-26,Monday,Lunch,552,460,200.8,Rice Chole,Cloudy,No,No,60.9
+2025-12-29,Monday,Breakfast,450,383,146.2,Upma,Normal,No,No,38
+2026-01-30,Friday,Lunch,595,513,201.5,Rice Sambar,Normal,No,No,58.3
+2026-06-16,Tuesday,Lunch,589,518,189.3,Rice Rajma,Hot,No,No,34.2
+2025-03-17,Monday,Dinner,596,435,177.9,Rice Dal,Rainy,No,Yes,51.4
+2026-09-05,Saturday,Lunch,535,424,206.6,Rice Dal,Rainy,No,No,89.1
+2025-08-24,Sunday,Lunch,482,342,160.4,Rice Dal,Cloudy,No,No,61.1
+2026-04-04,Saturday,Dinner,461,342,154.9,Roti Chole,Cloudy,No,No,55.8
+2026-08-22,Saturday,Lunch,599,448,173.5,Veg Biryani,Rainy,No,No,45.2
+2026-10-21,Wednesday,Breakfast,534,437,164.2,Puri Bhaji,Normal,No,No,43.1
+2026-07-04,Saturday,Breakfast,451,373,147.6,Dosa,Hot,No,No,38.3
+2025-03-08,Saturday,Lunch,457,393,167.2,Rice Sambar,Cloudy,No,No,50.5
+2026-04-22,Wednesday,Dinner,549,467,174.4,Veg Pulao,Normal,No,No,43.4
+2025-11-06,Thursday,Dinner,576,509,173.4,Khichdi,Hot,No,No,31
+2026-05-28,Thursday,Breakfast,537,407,144.1,Dosa,Cloudy,No,No,19.1
+2026-06-23,Tuesday,Breakfast,451,347,126.8,Paratha,Normal,No,Yes,29.9
+2025-11-20,Thursday,Lunch,466,273,124,Rice Rajma,Cloudy,No,Yes,42.6
+2025-12-30,Tuesday,Dinner,534,439,171.9,Khichdi,Normal,No,No,43.9
+2025-08-21,Thursday,Lunch,535,471,179.2,Rice Chole,Normal,No,No,37.5
+2026-03-02,Monday,Dinner,469,360,163.8,Roti Dal,Normal,No,No,54.5
+2025-03-13,Thursday,Dinner,594,506,225.8,Veg Pulao,Normal,No,No,74
+2025-12-04,Thursday,Breakfast,503,442,174.9,Dosa,Cloudy,No,No,49.9
+2025-07-26,Saturday,Lunch,574,466,194.3,Rice Chole,Normal,No,No,59.4
+2025-11-10,Monday,Breakfast,518,414,158,Poha,Hot,No,No,38.5
+2025-09-14,Sunday,Lunch,579,388,174.2,Rice Sambar,Rainy,No,No,59.7
+2026-03-16,Monday,Dinner,565,467,151.7,Roti Paneer,Cloudy,No,No,15.8
+2025-05-07,Wednesday,Dinner,551,,178.8,Roti Paneer,Hot,No,No,45.2
+2025-04-12,Saturday,Lunch,488,399,146.4,Rice Sambar,Rainy,No,No,38.2
+2025-05-06,Tuesday,Breakfast,544,518,199.8,Puri Bhaji,Normal,No,No,50.1
+2026-07-20,Monday,Dinner,482,394,182.5,Roti Chole,Cloudy,No,No,70.7
+2026-03-19,Thursday,Breakfast,512,454,162.8,Poha,Normal,No,No,27.1
+2026-01-20,Tuesday,Lunch,500,389,173,Rice Paneer,Normal,No,No,60.7
+2026-07-23,Thursday,Breakfast,461,412,157.1,Poha,Normal,No,No,34.1
+2026-01-21,Wednesday,Lunch,519,484,203.7,Rice Sambar,Rainy,Yes,No,71.8
+2025-09-07,Sunday,Breakfast,492,338,145,Idli Sambar,Normal,No,No,53.5
+2025-04-09,Wednesday,Dinner,552,478,221.6,Roti Dal,Rainy,No,No,82.3
+2025-10-12,Sunday,Lunch,553,498,191.4,Rice Chole,Cloudy,No,No,46
+2026-05-25,Monday,Lunch,579,518,218.5,Rice Rajma,Normal,No,No,65.1
+2026-07-02,Thursday,Dinner,477,378,149.8,Rice Dal,Normal,No,No,40.6
+2026-04-08,Wednesday,Dinner,508,479,203.3,Roti Dal,Cloudy,Yes,No,68.7
+2025-04-16,Wednesday,Dinner,528,494,183,Khichdi,Normal,No,No,38.2
+2026-06-28,Sunday,Breakfast,471,371,134.8,Dosa,Rainy,No,No,27.1
+2025-06-17,Tuesday,Breakfast,458,419,191.8,Idli Sambar,Cloudy,No,No,73.4
+2026-04-03,Friday,Lunch,566,481,206.2,Rice Rajma,Normal,Yes,No,65.1
+2026-01-29,Thursday,Lunch,580,526,212,Rice Paneer,Cloudy,No,No,57.1
+2025-03-16,Sunday,Breakfast,506,328,120.5,Idli Sambar,Rainy,No,No,27.3
+2025-08-04,Monday,Lunch,548,495,209.5,Rice Chole,Normal,No,No,60
+2026-09-16,Wednesday,Dinner,562,469,226.8,Roti Dal,Normal,No,No,87.9
+2025-08-08,Friday,Lunch,557,396,156.2,Rice Chole,Hot,No,Yes,45.6
+2025-04-18,Friday,Breakfast,468,331,127.7,Poha,Normal,No,Yes,33.6
+2026-04-19,Sunday,Breakfast,518,407,142.3,Upma,Cloudy,No,No,27.2
+2025-01-02,Thursday,Breakfast,458,430,148.4,Idli Sambar,Hot,No,No,27
+2026-05-16,Saturday,Breakfast,526,371,182.4,Upma,Cloudy,No,No,79.8
+2026-05-08,Friday,Lunch,467,429,163.2,Rice Rajma,Rainy,No,No,37.1
+2026-04-20,Monday,Lunch,501,320,149.3,Rice Paneer,Rainy,No,No,59
+2025-08-31,Sunday,Lunch,476,371,156.1,Veg Biryani,Normal,No,No,52.9
+2025-09-30,Tuesday,Dinner,539,459,195.3,Veg Pulao,Normal,No,No,69.3
+2026-01-16,Friday,Breakfast,465,417,158.8,Dosa,Normal,No,No,33.1
+2026-03-06,Friday,Lunch,550,470,172.3,Rice Sambar,Hot,Yes,No,35.8
+2025-03-25,Tuesday,Breakfast,553,441,205.1,Puri Bhaji,Normal,No,No,81.1
+2025-05-12,Monday,Lunch,503,465,208.9,Rice Chole,Normal,No,No,69.6
+2025-04-08,Tuesday,Breakfast,509,429,161.6,Upma,Normal,No,No,35.9
+2025-03-29,Saturday,Lunch,582,434,159,Rice Paneer,Normal,No,No,33.2
+2026-02-24,Tuesday,Lunch,582,450,164.8,Rice Rajma,Cloudy,No,No,35.7
+2025-01-05,Sunday,Dinner,589,494,211.8,Veg Pulao,Normal,Yes,No,71.1
+2025-11-14,Friday,Lunch,490,418,157,Veg Biryani,Hot,No,No,40
+2026-02-26,Thursday,Lunch,452,359,159.7,Rice Sambar,Hot,No,No,54.1
+2025-07-22,Tuesday,Breakfast,535,457,185.9,Dosa,Cloudy,No,No,50.9
+2025-09-01,Monday,Dinner,572,540,215.1,Khichdi,,No,No,60.3
+2025-01-02,Thursday,Lunch,538,419,156.5,Rice Paneer,Hot,Yes,No,32.9
+2026-06-21,Sunday,Lunch,546,423,175.1,Veg Biryani,Rainy,No,No,57.6
+2025-06-03,Tuesday,Dinner,588,467,197.9,Khichdi,Normal,No,No,65.7
+2025-04-05,Saturday,Dinner,496,335,124.7,Roti Paneer,Hot,No,No,24
+2025-12-08,Monday,Lunch,588,576,214,Rice Chole,Hot,Yes,No,44.8
+2025-06-27,Friday,Dinner,517,333,124.3,Rice Dal,Cloudy,No,Yes,30.8
+2025-05-05,Monday,Lunch,525,442,195.7,Rice Rajma,Normal,No,No,67.6
+2025-02-12,Wednesday,Breakfast,510,488,200,Idli Sambar,Normal,No,No,60.2
+2026-10-23,Friday,Breakfast,462,362,141.5,Paratha,Rainy,No,No,38.4
+2025-01-01,Wednesday,Dinner,523,401,161,Rice Dal,Normal,No,No,41.7
+2025-03-01,Saturday,Lunch,452,371,149.2,Veg Biryani,Rainy,No,No,48.4
+2026-10-10,Saturday,Lunch,453,289,117.8,Rice Rajma,Rainy,No,No,37.1
+2026-10-15,Thursday,Dinner,582,494,187.4,Rice Dal,Normal,No,No,43.2
+2025-06-11,Wednesday,Breakfast,573,470,158.4,Puri Bhaji,Normal,No,No,23.3
+2025-03-25,Tuesday,Lunch,497,397,169.3,Rice Rajma,Rainy,No,No,61.5
+2026-09-17,Thursday,Lunch,532,448,190.1,Rice Paneer,Hot,No,No,56.2
+2025-12-12,Friday,Dinner,451,442,188.1,Khichdi,Normal,No,No,61.4
+2025-02-22,Saturday,Lunch,519,358,164,Rice Dal,Normal,No,No,57.6
+2025-05-08,Thursday,Lunch,579,462,199.3,Rice Sambar,Rainy,No,No,64.2
+2026-04-30,Thursday,Breakfast,589,434,157.9,Paratha,Rainy,No,No,30.7
+2026-07-24,Friday,Breakfast,520,464,187.5,Paratha,Cloudy,No,No,54.1
+2026-01-24,Saturday,Breakfast,456,351,142.5,Paratha,Hot,No,No,44.5
+2025-04-23,Wednesday,Dinner,595,474,222.3,Roti Dal,Rainy,No,No,84.9
+2025-10-31,Friday,Lunch,473,423,189.4,Rice Sambar,Normal,No,No,68.2
+2025-11-06,Thursday,Dinner,466,377,163.8,Khichdi,Normal,No,No,58.4
+2025-11-14,Friday,Lunch,563,495,253.3,Veg Biryani,Rainy,No,No,111.8
+2025-01-07,Tuesday,Breakfast,557,495,220.6,Puri Bhaji,Normal,No,No,70.5
+2025-01-28,Tuesday,Dinner,549,454,196.6,Roti Paneer,Normal,No,No,62.8
+2025-08-09,Saturday,Lunch,556,472,184.3,Rice Rajma,Normal,No,No,45.1
+2025-08-06,Wednesday,Breakfast,483,338,140.6,Paratha,Hot,No,No,50.1
+2025-08-05,Tuesday,Breakfast,591,458,156.5,Dosa,Hot,No,No,14.4
+2026-01-08,Thursday,Breakfast,517,419,154.6,Puri Bhaji,Hot,No,No,33.3
+2026-10-20,Tuesday,Lunch,538,429,167.6,Rice Dal,Hot,No,No,39.4
+2026-09-27,Sunday,Dinner,593,464,178.7,Veg Pulao,Normal,No,No,49
+2026-08-07,Friday,Lunch,594,433,162.2,Veg Biryani,Normal,No,Yes,45.6
+2025-06-22,Sunday,Breakfast,555,401,146.1,Idli Sambar,Normal,No,No,38.7
+2026-09-12,Saturday,Lunch,457,350,141,Rice Sambar,Rainy,No,No,37.5
+2026-10-03,Saturday,Lunch,563,450,200,Rice Chole,Cloudy,No,No,70.3
+2026-02-14,Saturday,Breakfast,561,398,134,Upma,Normal,No,No,22.4
+2026-06-06,Saturday,Breakfast,577,412,156,Upma,Cloudy,No,No,34.9
+2026-07-20,Monday,Dinner,500,474,181.4,Roti Chole,Hot,No,No,36.7
+2026-06-08,Monday,Lunch,552,401,151.8,Rice Rajma,Cloudy,No,No,29.5
+2025-10-01,Wednesday,Lunch,569,456,180.2,Rice Rajma,Cloudy,No,No,49.6
+2025-10-10,Friday,Breakfast,592,481,177.5,Paratha,Rainy,No,No,45.2
+2026-03-26,Thursday,Breakfast,552,387,149.3,Puri Bhaji,Rainy,No,No,41.3
+2025-02-24,Monday,Dinner,474,419,140.8,Roti Paneer,Rainy,No,No,20.8
+2026-09-23,Wednesday,Lunch,569,444,170.3,Rice Paneer,Normal,No,No,34.7
+2025-06-29,Sunday,Dinner,545,420,165.9,Roti Paneer,Rainy,No,No,46.1
+2026-01-31,Saturday,Lunch,466,404,174,Veg Biryani,Cloudy,No,No,59.2
+2025-03-27,Thursday,Breakfast,552,506,217,Idli Sambar,Normal,No,No,71.5
+2026-03-24,Tuesday,Breakfast,478,385,162.7,Poha,Normal,No,No,42.1
+2025-09-28,Sunday,Lunch,464,263,95.6,Rice Dal,Normal,No,Yes,20.9
+2025-03-22,Saturday,Dinner,596,464,184.5,Rice Dal,Normal,No,No,47
+2026-05-09,Saturday,Lunch,537,420,148.2,Rice Sambar,Normal,No,No,31.3
+2025-04-29,Tuesday,Dinner,455,411,174.4,Veg Pulao,Hot,No,No,50.6
+2026-05-05,Tuesday,Lunch,592,497,211.1,Rice Dal,Hot,No,No,69.1
+2025-06-21,Saturday,Dinner,590,415,191.4,Roti Dal,Normal,No,No,75.4
+2025-04-23,Wednesday,Dinner,578,505,195.6,Roti Dal,Normal,No,No,47.1
+2026-07-24,Friday,Dinner,597,451,166.7,Rice Dal,Normal,No,No,29.4
+2025-04-22,Tuesday,Breakfast,525,418,164.2,Paratha,Normal,No,No,45.5
+2026-07-26,Sunday,Dinner,498,378,177.6,Roti Chole,Hot,No,No,70.3
+2025-12-15,Monday,Dinner,594,527,214.6,Khichdi,Cloudy,No,No,62.8
+2025-10-28,Tuesday,Lunch,456,380,141.5,Rice Dal,Normal,No,No,29.4
+2025-08-11,Monday,Lunch,541,490,198.3,Veg Biryani,Hot,No,No,56.7
+2025-06-12,Thursday,Breakfast,576,468,171,Upma,Rainy,No,No,43
+2025-04-23,Wednesday,Breakfast,493,343,126.1,Paratha,Rainy,No,No,23.7
+2026-02-06,Friday,Breakfast,532,432,169.2,Idli Sambar,Normal,No,No,42.2
+2026-03-29,Sunday,Dinner,543,388,136.2,Roti Chole,Rainy,No,No,26.4
+2026-10-15,Thursday,Dinner,508,353,126.6,Rice Dal,Normal,No,Yes,31
+2025-01-16,Thursday,Breakfast,458,395,145.3,Puri Bhaji,Rainy,No,No,30.7
+2026-02-06,Friday,Dinner,594,437,172.1,Rice Dal,Cloudy,No,Yes,50.2
+2026-06-16,Tuesday,Dinner,514,490,187.8,Roti Dal,Rainy,No,No,44.6
+2025-06-05,Thursday,Lunch,495,402,188.4,Rice Dal,Normal,No,No,66
+2025-04-05,Saturday,Dinner,524,394,138.9,Rice Dal,Normal,No,No,26.2
+2026-05-05,Tuesday,Dinner,518,434,183,Roti Chole,Normal,No,No,58
+2026-06-21,Sunday,Lunch,511,420,163.3,Rice Paneer,Cloudy,No,No,34.7
+2025-06-03,Tuesday,Dinner,494,398,148.6,Veg Pulao,Rainy,No,No,36.5
+2026-08-03,Monday,Dinner,475,436,151.8,Roti Chole,Normal,Yes,No,24.3
+2025-03-10,Monday,Dinner,568,501,227.3,Veg Pulao,Cloudy,No,No,77.7
+2025-03-23,Sunday,Lunch,564,395,177.3,Rice Paneer,Normal,No,No,60.7
+2026-07-22,Wednesday,Breakfast,598,532,204.1,Upma,Normal,No,No,45.2
+2026-10-21,Wednesday,Breakfast,473,402,157,Upma,Normal,No,No,41.4
+2025-09-04,Thursday,Breakfast,526,405,149.5,Paratha,Normal,No,No,22.8
+2025-05-23,Friday,Lunch,453,444,184.8,Veg Biryani,Rainy,No,No,55.5
+2026-04-22,Wednesday,Lunch,586,486,214,Rice Paneer,Rainy,No,No,75
+2026-01-22,Thursday,Dinner,557,433,164.2,Roti Dal,Normal,No,No,37.7
+2026-04-22,Wednesday,Dinner,589,460,197.8,Roti Paneer,Normal,No,Yes,64.7
+2025-11-24,Monday,Lunch,499,423,191.1,Rice Chole,Hot,No,No,72.8
+2025-12-16,Tuesday,Dinner,508,409,161.2,Roti Dal,Normal,No,No,43.9
+2026-04-27,Monday,Dinner,518,417,168.6,Veg Pulao,Normal,No,No,53.5
+2025-07-23,Wednesday,Breakfast,517,479,196,Poha,Normal,No,No,59.9
+2026-04-27,Monday,Lunch,524,492,194.3,Rice Dal,Hot,No,No,52.8
+2026-09-26,Saturday,Lunch,528,392,160.8,Rice Rajma,Normal,No,No,50.1
+2025-06-06,Friday,Breakfast,461,431,154.5,Idli Sambar,Normal,No,No,29.8
+2026-06-30,Tuesday,Lunch,551,508,206.2,Rice Dal,Normal,No,No,60.4
+2025-09-23,Tuesday,Lunch,576,520,222.2,Rice Paneer,Normal,No,No,66.7
+2025-08-25,Monday,Lunch,600,559,221.4,Rice Chole,Normal,No,No,57
+2025-06-15,Sunday,Dinner,495,421,146.9,Rice Dal,Hot,Yes,No,23.5
+2025-08-12,Tuesday,Breakfast,470,393,162.4,Upma,Normal,No,No,48.9
+2026-10-25,Sunday,Breakfast,577,529,176.9,Idli Sambar,Hot,No,No,25
+2025-09-18,Thursday,Breakfast,524,456,181.3,Puri Bhaji,Rainy,No,No,45.9
+2026-08-24,Monday,Breakfast,485,408,164.1,Upma,Cloudy,No,No,45.5
+2025-02-24,Monday,Dinner,489,386,181.4,Roti Dal,Normal,No,No,75.1
+2026-04-15,Wednesday,Dinner,559,472,194.8,Khichdi,Normal,Yes,No,59.7
+2025-10-14,Tuesday,Lunch,552,417,159.4,Rice Paneer,Normal,No,No,36.4
+2026-06-11,Thursday,Dinner,455,372,170.3,Rice Dal,Rainy,No,No,58.8
+2026-01-21,Wednesday,Breakfast,578,525,234.8,Paratha,Normal,No,No,80.5
+2025-08-22,Friday,Dinner,561,501,216.6,Roti Chole,Rainy,No,No,75.8
+2025-01-14,Tuesday,Lunch,468,421,204.6,Rice Dal,Rainy,Yes,No,81.9
+2025-04-03,Thursday,Dinner,469,370,145,Roti Chole,Cloudy,No,No,38.2
+2026-02-01,Sunday,Breakfast,590,389,160.8,Dosa,Rainy,No,No,48
+2025-12-25,Thursday,Lunch,461,421,162.2,Veg Biryani,Rainy,No,No,47.8
+2026-02-20,Friday,Breakfast,460,290,103.1,Idli Sambar,Normal,No,Yes,24.4
+2025-06-10,Tuesday,Breakfast,584,463,179,Puri Bhaji,Rainy,No,No,47.3
+2025-09-28,Sunday,Breakfast,555,375,138.2,Poha,Normal,No,Yes,32.2
+2026-07-05,Sunday,Lunch,494,296,103.2,Rice Dal,Normal,No,No,20.1
+2026-10-04,Sunday,Lunch,464,367,168.5,Rice Paneer,Hot,No,No,60.5
+2025-02-23,Sunday,Breakfast,466,288,109.4,Dosa,Rainy,No,No,33.1
+2025-03-19,Wednesday,Dinner,471,350,157.3,Khichdi,Hot,No,No,61.6
+2025-08-04,Monday,Breakfast,584,479,196.4,Poha,Cloudy,No,No,56
+2025-03-13,Thursday,Dinner,586,407,153.8,Roti Dal,Normal,No,No,33.6
+2026-08-11,Tuesday,Lunch,559,509,215.3,Veg Biryani,Normal,No,No,72.5
+2025-03-10,Monday,Lunch,488,,169.6,Rice Chole,Rainy,No,No,54.9
+2026-09-18,Friday,Dinner,554,508,165.1,Roti Chole,Normal,No,No,13.4
+2025-09-16,Tuesday,Breakfast,559,450,142.2,Upma,Cloudy,No,No,12.5
+2026-05-21,Thursday,Dinner,553,433,171.8,Veg Pulao,Hot,No,No,46.2
+2025-03-16,Sunday,Breakfast,517,381,168.7,Puri Bhaji,Normal,No,Yes,63.9
+2026-06-08,Monday,Breakfast,477,406,173.8,Paratha,Rainy,Yes,No,54.2
+2026-10-26,Monday,Lunch,556,470,178,Rice Dal,Rainy,No,No,44.3
+2025-03-24,Monday,Breakfast,587,423,170.6,Puri Bhaji,Normal,No,Yes,49.7
+2026-06-05,Friday,Lunch,586,550,260,Rice Sambar,Cloudy,No,No,102.1
+2025-11-05,Wednesday,Dinner,526,401,138.7,Roti Paneer,Normal,No,No,21.6
+2026-08-09,Sunday,Breakfast,537,463,182.1,Puri Bhaji,Normal,No,No,49.1
+2026-08-19,Wednesday,Breakfast,460,400,146.3,Poha,Rainy,No,No,32.4
+2026-08-30,Sunday,Dinner,506,443,170.9,Roti Paneer,Normal,No,No,37.1
+2025-02-16,Sunday,Dinner,560,483,185.2,Veg Pulao,Hot,No,No,45.8
+2026-02-20,Friday,Dinner,534,426,175.2,Rice Dal,Normal,No,No,48.6
+2025-02-18,Tuesday,Breakfast,534,468,195.4,Idli Sambar,Normal,No,No,56.1
+2026-04-20,Monday,Dinner,493,422,199.4,Roti Dal,Normal,No,No,78
+2025-09-21,Sunday,Breakfast,555,479,179.8,Idli Sambar,Normal,No,No,43.2
+2025-09-07,Sunday,Dinner,565,416,146.4,Veg Pulao,Normal,No,No,24.8
+2026-08-05,Wednesday,Lunch,540,590,165.2,Rice Dal,Normal,Yes,No,26.2
+2025-05-23,Friday,Breakfast,465,358,137.6,Idli Sambar,Cloudy,No,No,30.1
+2026-06-01,Monday,Dinner,595,404,154.7,Roti Chole,Normal,No,No,31.4
+2025-07-10,Thursday,Lunch,455,340,147.6,Rice Chole,Normal,No,No,49.6
+2026-01-20,Tuesday,Breakfast,577,488,216.4,Upma,Normal,No,No,75.5
+2025-12-01,Monday,Lunch,473,382,145.6,Rice Rajma,Normal,No,No,29.2
+2025-01-21,Tuesday,Breakfast,492,447,162.7,Dosa,Normal,No,No,29.8
+2026-02-02,Monday,lunch,537,489,226.6,Rice Sambar,Rainy,No,No,83.1
+2025-11-19,Wednesday,Dinner,535,434,171.7,Roti Paneer,Normal,No,No,41
+2026-01-14,Wednesday,Breakfast,497,451,150.1,Dosa,Normal,No,No,23.7
+2025-05-02,Friday,Lunch,504,432,179.5,Rice Dal,Normal,No,No,52.1
+2025-10-14,Tuesday,Dinner,478,390,158.6,Veg Pulao,Normal,No,No,43.7
+2025-06-28,Saturday,Lunch,496,430,175.7,Veg Biryani,Normal,No,No,52.4
+2025-07-20,Sunday,Breakfast,571,472,177.2,Puri Bhaji,Rainy,No,No,42.6
+2026-09-15,Tuesday,Dinner,534,482,188.5,Khichdi,Hot,No,No,50.8
+2025-10-06,Monday,Dinner,530,420,148.7,Rice Dal,Rainy,No,No,24.3
+2025-10-20,Monday,Dinner,536,393,172,Veg Pulao,Cloudy,No,No,55.8
+2025-02-11,Tuesday,Breakfast,529,427,148.2,Puri Bhaji,Normal,No,No,26.9
+2025-02-20,Thursday,Dinner,561,512,226.1,Veg Pulao,Cloudy,No,No,76.4
+2025-02-25,Tuesday,Dinner,563,496,182.5,Veg Pulao,Hot,No,No,42.3
+2025-11-14,Friday,Lunch,587,492,169.5,Rice Dal,Normal,No,No,33.4
+2025-09-27,Saturday,Lunch,565,391,152.4,Rice Rajma,Cloudy,Yes,No,39.2
+2026-06-10,Wednesday,Dinner,515,390,147.4,Rice Dal,Normal,No,No,42.9
+2026-05-23,Saturday,Breakfast,490,324,113.9,Dosa,Normal,No,Yes,22
+2025-07-21,Monday,Dinner,579,475,182.9,Roti Chole,Cloudy,Yes,No,44.9
+2026-02-07,Saturday,Dinner,488,324,113.8,Roti Paneer,Normal,No,No,18.2
+2026-01-30,Friday,Dinner,491,407,138.9,Roti Paneer,Normal,No,No,17.6
+2025-12-30,Tuesday,Lunch,538,445,-10,Rice Paneer,Normal,No,No,54.6
+2025-04-21,Monday,Dinner,505,443,169.3,Rice Dal,Normal,No,No,44.6
+2026-02-17,Tuesday,Lunch,542,487,187.1,Rice Rajma,Normal,No,No,43.8
+2026-06-22,Monday,Breakfast,589,572,236.9,Poha,Hot,No,No,64.1
+2026-09-04,Friday,Dinner,522,425,165,Rice Dal,Normal,No,No,44.2
+2025-01-05,Sunday,Breakfast,453,426,158.6,Paratha,Cloudy,No,No,31.3
+2025-05-01,Thursday,Lunch,531,474,172.5,Rice Paneer,Normal,No,No,32.2
+2025-05-26,Monday,Lunch,472,463,201.7,Rice Paneer,Rainy,No,No,66.5
+2025-07-04,Friday,Lunch,557,423,186.7,Rice Sambar,Cloudy,No,No,61.9
+2026-03-03,Tuesday,Lunch,533,453,145.6,Rice Rajma,Rainy,No,No,11.4
+2025-10-15,Wednesday,Dinner,568,477,151.7,Khichdi,Hot,No,No,13.2
+2025-02-15,Saturday,Lunch,539,442,174.8,Veg Biryani,Hot,No,No,53.6
+2025-11-23,Sunday,Dinner,502,357,135.7,Veg Pulao,Hot,No,Yes,40.8
+2026-07-14,Tuesday,Breakfast,493,352,114.4,Puri Bhaji,Hot,No,Yes,17.9
+2025-10-05,Sunday,Lunch,567,395,167.4,Rice Rajma,Normal,No,No,50.7
+2026-04-14,Tuesday,Lunch,475,388,160.7,Rice Rajma,Hot,No,No,54.7
+2025-06-07,Saturday,Lunch,493,306,115.2,Veg Biryani,Normal,No,No,30.7
+2026-10-02,Friday,Breakfast,484,403,177.7,Paratha,Hot,No,No,62.5
+2025-07-26,Saturday,Lunch,589,409,158.5,Rice Rajma,Normal,No,No,44.6
+2026-02-26,Thursday,Breakfast,582,502,214.8,Idli Sambar,Normal,No,No,67.4
+2025-09-27,Saturday,Dinner,576,524,231.3,Roti Dal,Normal,Yes,No,76.5
+2025-11-14,Friday,dinner,516,454,185.1,Veg Pulao,Rainy,No,No,59.6
+2026-04-04,Saturday,Lunch,560,445,182.2,Rice Sambar,Normal,No,No,56.2
+2026-07-10,Friday,Breakfast,581,495,201.9,Poha,Normal,No,No,54.8
+2026-09-27,Sunday,Dinner,459,322,136.3,Veg Pulao,Hot,No,Yes,49.4
+2025-04-25,Friday,Dinner,462,432,132.2,Roti Chole,Rainy,No,No,10.3
+2026-01-04,Sunday,Dinner,529,375,155.9,Roti Dal,Rainy,No,No,51.4
+2026-06-09,Tuesday,breakfast,513,461,212.3,Paratha,Normal,Yes,No,75.8
+2025-01-13,Monday,Breakfast,508,431,168,Upma,Normal,No,No,41.4
+2025-06-16,Monday,Breakfast,517,472,192.7,Upma,Hot,No,No,58
+2026-02-26,Thursday,Lunch,531,438,180.2,Rice Dal,Rainy,No,No,54.4
+2025-06-11,Wednesday,Dinner,517,507,190.1,Veg Pulao,Normal,No,No,40.7
+2025-03-29,Saturday,Lunch,585,445,150.5,Veg Biryani,Normal,No,No,23.2
+2025-02-08,Saturday,Breakfast,550,427,165,Poha,Rainy,No,No,39.6
+2025-09-18,Thursday,Lunch,548,370,180.2,Rice Dal,Rainy,No,Yes,78.9
+2025-03-27,Thursday,Lunch,516,488,193.8,Rice Chole,Cloudy,No,No,54
+2025-01-22,Wednesday,Dinner,592,486,222.1,Roti Chole,Cloudy,No,No,76.4
+2026-08-07,Friday,Lunch,506,419,156.5,Rice Chole,Normal,No,No,36.2
+2025-01-10,Friday,Dinner,455,373,139.6,Roti Dal,Rainy,No,No,35.7
+2026-02-13,Friday,Breakfast,494,434,138.3,Upma,Hot,No,No,12
+2025-09-15,Monday,Lunch,455,364,150.7,Rice Rajma,Normal,No,No,42.7
+2025-07-14,Monday,Breakfast,464,355,158.9,Idli Sambar,Normal,No,Yes,55.2
+2025-04-26,Saturday,Dinner,598,458,194.8,Khichdi,Normal,No,No,63.4
+2026-04-04,Saturday,Breakfast,465,368,161.3,Poha,Normal,No,No,54.6
+2026-03-07,Saturday,Dinner,482,384,172.5,Rice Dal,Hot,No,No,63.7
+2025-11-06,Thursday,Dinner,536,460,203.5,Roti Paneer,Rainy,No,No,66.6
+2026-04-30,Thursday,Lunch,504,435,164.1,Rice Dal,Normal,No,No,37.1
+2025-11-17,Monday,Dinner,528,481,206.6,Veg Pulao,Normal,No,No,66.7
+2025-10-30,Thursday,Breakfast,542,515,214.9,Poha,Normal,No,No,58
+2025-04-27,Sunday,Breakfast,538,401,171,Poha,Rainy,No,Yes,59.9
+2025-06-01,Sunday,Lunch,489,375,146.8,Rice Dal,Cloudy,No,No,32.3
+2025-08-15,Friday,Breakfast,500,376,158.8,Upma,Rainy,No,No,48.5
+2026-03-12,Thursday,Lunch,563,452,154.8,Rice Paneer,Normal,No,No,22.8
+2026-04-03,Friday,Dinner,454,386,157,Roti Chole,Normal,No,No,46.3
+2025-11-19,Wednesday,Lunch,556,455,189.8,Rice Dal,Normal,No,No,55.7
+2025-08-06,Wednesday,Lunch,542,383,168.2,Rice Chole,Rainy,No,Yes,57.9
+2025-07-09,Wednesday,Lunch,561,459,211.2,Rice Paneer,Cloudy,No,No,74
+2025-07-07,Monday,Lunch,539,477,206.4,Rice Sambar,Cloudy,No,No,66.3
+2026-01-27,Tuesday,Dinner,522,504,252,Veg Pulao,Hot,No,No,103.9
+2025-12-11,Thursday,Breakfast,504,352,153.9,Upma,Normal,No,No,55.1
+2025-05-23,Friday,Breakfast,512,402,135.6,Puri Bhaji,Rainy,No,No,20.2
+2026-10-05,Monday,Dinner,468,354,126.8,Khichdi,Hot,No,Yes,32.5
+2025-05-24,Saturday,Lunch,536,368,176.8,Rice Sambar,Hot,No,No,77.3
+2026-01-28,Wednesday,Lunch,573,548,241.4,Rice Sambar,Normal,No,No,84.7
+2026-01-16,Friday,Lunch,472,409,180.2,Veg Biryani,Cloudy,No,No,61.9
+2025-09-18,Thursday,Lunch,473,437,168.9,Rice Chole,Hot,No,No,44.7
+2026-09-02,Wednesday,Breakfast,491,395,173.5,Upma,Cloudy,No,No,63.6
+2026-07-25,Saturday,Breakfast,480,339,141.8,Puri Bhaji,Normal,No,No,46.3
+2025-01-21,Tuesday,Lunch,557,505,220.1,Veg Biryani,Hot,No,No,75.7
+2026-05-24,Sunday,Breakfast,462,327,132.1,Paratha,Normal,No,No,34.2
+2025-01-08,Wednesday,Lunch,550,491,201.9,Rice Rajma,Normal,No,No,59.2
+2026-08-14,Friday,Dinner,556,462,192.8,Khichdi,Normal,No,No,61.2
+2025-06-10,Tuesday,Lunch,520,474,198,Veg Biryani,Normal,No,No,60.3
+2026-08-07,Friday,Dinner,471,339,137,Roti Paneer,Rainy,No,Yes,43.2
+2026-07-29,Wednesday,Lunch,477,398,182.4,Rice Dal,Cloudy,No,No,62.3
+2025-06-26,Thursday,Lunch,469,429,194.2,Rice Sambar,Normal,No,No,72.4
+2025-11-08,Saturday,Dinner,493,360,161.2,Khichdi,Normal,No,No,54.4
+2025-11-09,Sunday,Dinner,546,436,160.4,Rice Dal,Rainy,No,No,34.9
+2025-12-10,Wednesday,Dinner,457,365,139,Rice Dal,Hot,No,No,32.1
+2025-06-02,Monday,Breakfast,495,394,156,Poha,Rainy,No,No,44.4
+2026-08-24,Monday,Lunch,483,399,150.7,Rice Chole,Normal,No,No,31.3
+2025-06-08,Sunday,Breakfast,589,390,167.4,Upma,Cloudy,No,No,50.7
+2025-05-25,Sunday,Lunch,566,412,180.1,Rice Chole,Normal,No,No,68.2
+2025-01-05,Sunday,Lunch,598,473,195.6,Rice Chole,Normal,No,No,61.3
+2026-02-28,Saturday,Lunch,522,432,197.5,Rice Sambar,Rainy,No,No,72.9
+2025-03-19,Wednesday,Lunch,519,484,191.2,Rice Sambar,Normal,No,No,52.3
+2026-04-14,Tuesday,Lunch,500,395,163.2,Rice Chole,Cloudy,No,No,45.9
+2026-01-19,Monday,Dinner,468,399,157.4,Veg Pulao,Normal,No,Yes,43
+2025-08-05,Tuesday,Lunch,527,413,158.3,Rice Dal,Normal,No,No,35.2
+2025-08-17,Sunday,Dinner,525,424,158.7,Rice Dal,Hot,No,No,39.7
+2026-10-22,Thursday,Breakfast,478,407,157.2,Dosa,Normal,No,No,38.8
+2025-07-15,Tuesday,Dinner,581,525,197.6,Roti Chole,Cloudy,No,No,44.3
+2026-06-10,Wednesday,Dinner,498,362,156.8,Roti Paneer,Rainy,No,Yes,55
+2026-08-17,Monday,Dinner,538,406,168.7,Roti Dal,Normal,No,No,53.6
+2026-05-08,Friday,Lunch,493,446,167.4,Veg Biryani,Normal,No,No,40.1
+2026-06-21,Sunday,Dinner,589,370,147.7,Roti Paneer,Hot,No,No,32.9
+2025-05-08,Thursday,Dinner,491,468,179.9,Veg Pulao,Rainy,No,No,48.1
+2026-09-07,Monday,Breakfast,541,499,197.1,Dosa,Normal,No,No,54.9
+2026-01-06,Tuesday,Breakfast,586,504,190.9,Idli Sambar,Rainy,No,No,45.3
+2026-07-25,Saturday,Lunch,598,463,210.2,Rice Paneer,Hot,No,No,73.1
+2025-09-27,Saturday,Dinner,481,342,149.9,Rice Dal,Hot,No,No,54
+2025-11-14,Friday,Dinner,523,458,173.1,Veg Pulao,Normal,No,No,41
+2026-10-26,Monday,Dinner,489,346,151.8,Rice Dal,Hot,No,No,51.8
+2025-04-06,Sunday,Lunch,504,411,151,Rice Chole,Normal,No,No,30.8
+2026-03-02,Monday,Breakfast,600,584,232.3,Dosa,Cloudy,No,No,59.1
+2025-02-07,Friday,lunch,555,509,198.8,Rice Dal,Normal,No,No,51
+2026-08-12,Wednesday,Lunch,562,364,136.2,Rice Chole,Normal,No,Yes,32.8
+2026-09-04,Friday,Breakfast,573,464,187.3,Poha,Normal,No,No,54
+2025-07-23,Wednesday,Lunch,519,428,172.7,Rice Paneer,Rainy,No,Yes,57.1
+2025-12-12,Friday,Breakfast,470,377,139.7,Upma,Hot,No,No,32.7
+2025-08-17,Sunday,Dinner,498,319,134.2,Veg Pulao,Hot,No,No,42.6
+2026-04-21,Tuesday,Lunch,452,404,175.7,,Normal,No,No,60.4
+2025-10-25,Saturday,Breakfast,573,449,157.7,Poha,Normal,No,No,23.3
+2025-03-07,Friday,Breakfast,539,457,146.3,Idli Sambar,Cloudy,No,No,8
+2025-10-27,Monday,Breakfast,599,522,194.8,Upma,Normal,No,No,38.6
+2026-07-01,Wednesday,Lunch,550,384,154,Veg Biryani,Normal,No,Yes,47.6
+2025-11-14,Friday,Dinner,460,421,168.6,Rice Dal,Rainy,No,No,52.3
+2025-03-14,Friday,Breakfast,588,476,193.9,Poha,Cloudy,No,No,53.9
+2025-09-13,Saturday,Lunch,527,395,151.9,Rice Paneer,Normal,No,No,39.7
+2026-08-31,Monday,Lunch,534,420,190.7,Veg Biryani,Normal,No,No,65.6
+2026-10-27,Tuesday,Lunch,549,530,240.3,Rice Paneer,Normal,No,No,89.2
+2025-03-25,Tuesday,Lunch,495,342,149.6,Rice Dal,Normal,No,Yes,49.8
+2026-03-29,Sunday,Dinner,568,444,183.6,Khichdi,Cloudy,No,No,56.2
+2025-12-12,Friday,Dinner,592,525,205.4,Rice Dal,Normal,No,No,49.7
+2026-05-12,Tuesday,Breakfast,499,411,154.7,Paratha,Cloudy,No,No,27.9
+2025-08-15,Friday,Dinner,487,432,162.8,Veg Pulao,Hot,No,No,43.5
+2025-07-26,Saturday,Lunch,521,441,200.5,Rice Chole,Rainy,Yes,No,69.5
+2025-06-06,Friday,Breakfast,549,473,193.1,Puri Bhaji,Cloudy,No,No,56.6
+2025-12-09,Tuesday,Breakfast,541,439,198,Idli Sambar,Normal,No,No,74.1
+2025-11-24,Monday,Dinner,475,385,177.2,Roti Dal,Rainy,No,No,72.8
+2026-07-31,Friday,Dinner,546,489,209.7,Roti Paneer,Normal,No,No,64
+2025-12-18,Thursday,Lunch,594,560,227.5,Rice Chole,Cloudy,No,No,64.9
+2025-04-02,Wednesday,Breakfast,479,469,205.4,Puri Bhaji,Cloudy,No,No,66.1
+2025-09-30,Tuesday,Breakfast,450,435,154.7,Paratha,Cloudy,No,No,32.4
+2026-04-06,Monday,Lunch,548,487,180.4,Veg Biryani,Cloudy,No,No,44
+2026-07-19,Sunday,Dinner,520,431,163.5,Rice Dal,Hot,No,No,36.5
+2025-12-12,Friday,Breakfast,513,475,180.6,Upma,Hot,No,No,41.6
+2025-04-09,Wednesday,Lunch,580,509,197.1,Veg Biryani,Normal,No,No,54.2
+2025-04-28,Monday,Dinner,581,477,210.7,Khichdi,Hot,No,No,70.5
+2025-07-06,Sunday,Lunch,586,427,161.2,Rice Dal,Normal,No,No,37.4
+2026-08-12,Wednesday,Lunch,505,459,176.9,Rice Sambar,Cloudy,No,No,39.7
+2026-04-17,Friday,Dinner,463,383,142.6,Roti Dal,Normal,No,No,23.5
+2026-07-06,Monday,Breakfast,540,456,164.4,Upma,Normal,No,No,30.8
+2025-12-27,Saturday,Lunch,595,393,177.3,Rice Sambar,Normal,No,No,65.4
+2026-08-27,Thursday,Lunch,527,446,171.8,Rice Sambar,Cloudy,No,No,43.5
+2025-11-05,Wednesday,Breakfast,548,373,157.2,Upma,Rainy,No,Yes,50
+2025-04-04,Friday,Lunch,456,353,138.6,Rice Chole,Normal,No,No,32.2
+2026-06-23,Tuesday,Lunch,497,362,158.3,Rice Dal,Cloudy,No,No,53.5
+2026-01-10,Saturday,Dinner,559,447,158.7,Roti Dal,Normal,No,No,27.1
+2026-06-04,Thursday,Lunch,455,399,144.7,Rice Paneer,Cloudy,No,No,27.1
+2026-03-08,Sunday,Breakfast,504,373,141.2,Dosa,Cloudy,Yes,No,34
+2026-02-16,Monday,Lunch,477,398,167.5,Rice Rajma,Normal,No,No,56.3
+2025-03-02,Sunday,dinner,513,453,168.6,Khichdi,Normal,No,No,41.8
+2026-05-26,Tuesday,Lunch,529,491,198.3,Veg Biryani,Normal,Yes,No,57.4
+2026-04-20,Monday,Lunch,498,370,141.9,Rice Paneer,Normal,No,No,29.6
+2025-10-23,Thursday,Dinner,514,504,202.3,Roti Paneer,Normal,No,No,51.7
+2025-12-01,Monday,Dinner,531,426,192.5,Roti Chole,Rainy,No,No,70
+2026-07-04,Saturday,Lunch,478,349,148.5,Rice Paneer,Normal,No,No,45.8
+2025-05-04,Sunday,Breakfast,474,326,128.4,Puri Bhaji,Normal,No,No,36.6
+2026-05-13,Wednesday,Breakfast,496,297,113.8,Paratha,Normal,No,Yes,25.2
+2025-06-10,Tuesday,Lunch,507,394,167.6,Rice Chole,Normal,No,Yes,54
+2026-05-11,Monday,Breakfast,520,438,159.2,Puri Bhaji,Normal,No,No,34.2
+2026-02-05,Thursday,Lunch,521,420,175.4,Rice Sambar,Rainy,No,No,51.9
+2025-02-23,Sunday,Dinner,579,359,144.1,Veg Pulao,Normal,No,Yes,41.2
+2025-01-11,Saturday,Dinner,516,458,153.6,Roti Paneer,Normal,No,No,13.9
+2025-01-29,Wednesday,Lunch,570,467,206.1,Rice Chole,Normal,No,No,72.9
+2025-04-14,Monday,Lunch,454,414,185.5,Veg Biryani,Cloudy,Yes,No,66.9
+2026-02-12,Thursday,Lunch,452,344,129.6,Rice Rajma,Normal,No,No,23.9
+2026-09-12,Saturday,Breakfast,570,363,147.4,Poha,Normal,No,Yes,40.8
+2025-02-10,Monday,Dinner,526,476,224.4,Roti Paneer,Cloudy,No,No,90.7
+2025-12-20,Saturday,Breakfast,554,390,166.1,Dosa,Hot,No,No,55.5
+2026-01-15,Thursday,Breakfast,532,387,163.1,Upma,Cloudy,No,No,50.5
+2025-11-12,Wednesday,Lunch,494,424,148.5,Veg Biryani,Normal,No,No,29.5
+2026-05-14,Thursday,Dinner,470,301,124,Roti Chole,,No,No,39.9
+2025-08-19,Tuesday,Breakfast,547,508,233.7,Puri Bhaji,Normal,No,No,84.7
+2025-08-27,Wednesday,Lunch,548,439,201.9,Rice Dal,Rainy,Yes,No,76.5
+2026-02-09,Monday,Dinner,457,448,166.3,Roti Paneer,Rainy,No,No,26.6
+2026-10-11,Sunday,Lunch,533,386,135.8,Rice Dal,Normal,No,No,35.6
+2025-02-16,Sunday,Dinner,475,378,144.8,Rice Dal,Rainy,No,No,42.8
+2025-10-18,Saturday,Dinner,468,340,145.4,Roti Paneer,Cloudy,No,No,52.1
+2026-06-16,Tuesday,Lunch,480,339,123.4,Rice Rajma,Normal,No,No,19.8
+2025-03-03,Monday,Breakfast,584,465,199.4,Puri Bhaji,Normal,No,No,65.7
+2026-08-28,Friday,Lunch,593,498,206.2,Veg Biryani,Normal,No,No,64
+2026-07-18,Saturday,Lunch,536,391,162.2,Veg Biryani,Cloudy,No,Yes,58.8
+2026-10-28,Wednesday,Lunch,479,405,182.1,Rice Rajma,Rainy,No,No,70.6
+2025-09-18,Thursday,Lunch,594,494,180.4,Rice Rajma,Cloudy,Yes,No,36.1
+2026-04-16,Thursday,Lunch,599,400,164.5,Rice Rajma,Rainy,No,No,49.5
+2026-03-11,Wednesday,Dinner,536,468,181.8,Roti Paneer,Cloudy,No,No,41.6
+2026-03-01,Sunday,Lunch,498,412,184.8,Rice Chole,Normal,No,No,61.3
+2025-02-08,Saturday,Dinner,466,372,181.2,Veg Pulao,Normal,No,No,71
+2026-04-22,Wednesday,Lunch,453,371,152.5,Rice Dal,Normal,No,No,42.1
+2026-02-03,Tuesday,Dinner,533,453,167,Roti Paneer,Normal,No,No,30.9
+2026-03-28,Saturday,Lunch,562,442,185.5,Rice Paneer,Rainy,No,No,61.3
+2026-05-17,Sunday,Dinner,547,401,156.7,Khichdi,Normal,No,No,37
+2025-01-10,Friday,Lunch,562,496,178.6,Veg Biryani,Normal,No,No,35.6
+2026-08-03,Monday,Lunch,533,458,194.4,Veg Biryani,Normal,No,No,58.7
+2025-02-27,Thursday,Lunch,493,457,185.7,Veg Biryani,Hot,No,No,61.2
+2025-09-01,Monday,Dinner,579,439,169.6,Roti Dal,Hot,No,No,40.3
+2026-10-14,Wednesday,Dinner,596,549,201.3,Rice Dal,Rainy,No,No,41.1
+2025-04-07,Monday,Breakfast,508,326,130.8,Dosa,Normal,No,Yes,38.6
+2026-08-16,Sunday,Breakfast,527,403,177.9,Upma,Normal,No,No,63.2
+2025-04-27,Sunday,Lunch,526,413,,Rice Rajma,Normal,No,No,51.3
+2026-01-08,Thursday,Breakfast,550,490,221.4,Dosa,Hot,No,No,79.7
+2025-01-23,Thursday,Breakfast,551,419,155.1,Paratha,Normal,No,No,31.6
+2025-03-26,Wednesday,Dinner,510,450,157.1,Roti Dal,Rainy,No,No,28.5
+2026-07-28,Tuesday,Breakfast,479,351,137.4,Paratha,Rainy,No,No,40.4
+2025-08-08,Friday,Breakfast,555,425,172,Dosa,Cloudy,No,No,45
+2026-07-05,Sunday,Dinner,491,316,107.2,Roti Paneer,Hot,No,Yes,16.9
+2025-08-27,Wednesday,Dinner,490,479,196.6,Roti Paneer,Hot,No,No,57.6
+2025-11-01,Saturday,Dinner,545,387,145.7,Khichdi,Normal,No,No,38.8
+2025-11-23,Sunday,Lunch,582,466,206.9,Rice Chole,Rainy,No,No,69.4
+2026-06-06,Saturday,Breakfast,572,381,162.1,Puri Bhaji,Normal,No,No,54.6
+2026-05-25,Monday,Lunch,586,558,224.9,Rice Rajma,Hot,No,No,57.4
+2025-01-04,Saturday,Breakfast,574,409,181.4,Paratha,Normal,No,No,66.5
+2026-01-08,Thursday,Breakfast,466,457,175.4,Dosa,Normal,No,No,36.8
+2025-10-20,Monday,Dinner,513,421,140,Roti Chole,Normal,No,No,18.8
+2026-06-04,Thursday,Lunch,530,447,176.2,Rice Sambar,Rainy,No,No,43.9
+2025-05-04,Sunday,Dinner,550,495,222.6,Rice Dal,Normal,Yes,No,78.4
+2026-09-09,Wednesday,Lunch,563,494,196.3,Rice Dal,Rainy,No,No,53.4
+2026-10-27,Tuesday,Lunch,552,485,204.8,Rice Dal,Cloudy,Yes,No,61.5
+2025-10-23,Thursday,Dinner,451,379,150.9,Rice Dal,Normal,No,No,40.7
+2026-03-24,Tuesday,Breakfast,525,409,170.9,Poha,Hot,No,No,60.6
+2026-09-01,Tuesday,Dinner,460,390,160.5,Roti Paneer,Cloudy,No,No,40.1
+2025-06-17,Tuesday,Dinner,593,559,219.5,Roti Chole,Normal,No,No,59.3
+2026-07-10,Friday,Dinner,557,439,165.9,Roti Chole,Normal,No,No,39.6
+2025-12-01,Monday,Breakfast,558,491,210.2,Upma,Normal,No,No,68.6
+2026-06-10,Wednesday,Lunch,483,423,187.7,Rice Rajma,Normal,No,No,60.6
+2026-09-12,Saturday,Breakfast,487,434,186.9,Puri Bhaji,Normal,No,No,55.8
+2025-11-08,Saturday,Breakfast,454,349,133.5,Idli Sambar,Rainy,Yes,No,40.9
+2025-07-13,Sunday,Dinner,457,326,117.2,Roti Chole,Normal,No,No,20.9
+2025-01-28,Tuesday,Breakfast,592,491,183.4,Dosa,Cloudy,Yes,Yes,40.2
+2026-04-06,Monday,Breakfast,463,342,143.2,Upma,Hot,No,No,43.7
+2025-08-12,Tuesday,Dinner,569,410,153.5,Roti Paneer,Normal,No,No,34.1
+2026-08-27,Thursday,Lunch,582,430,146.7,Veg Biryani,Normal,No,Yes,32.7
+2025-12-16,Tuesday,Lunch,491,408,143,Veg Biryani,Normal,Yes,No,28.3
+2026-02-04,Wednesday,Lunch,510,427,157.1,Veg Biryani,Normal,No,No,37
+2025-01-11,Saturday,Dinner,588,552,215,Rice Dal,Normal,No,No,59.8
+2025-03-19,Wednesday,Dinner,516,398,137.5,Roti Chole,Cloudy,No,No,24.3
+2026-10-04,Sunday,Breakfast,527,423,180.2,Paratha,Normal,No,No,59.4
+2026-07-28,Tuesday,Dinner,519,432,175.7,Rice Dal,Hot,No,No,46.7
+2025-07-17,Thursday,Dinner,476,346,151.3,Khichdi,Hot,No,No,52.8
+2025-08-13,Wednesday,Breakfast,561,494,183.4,Dosa,Cloudy,No,No,38.1
+2025-08-31,Sunday,Breakfast,461,377,157.3,Paratha,Rainy,Yes,No,54.7
+2025-02-07,Friday,Breakfast,467,406,156.6,Poha,Normal,No,No,37.5
+2025-06-19,Thursday,Dinner,600,470,171.4,Rice Dal,Normal,No,No,32.4
+2025-06-10,Tuesday,Breakfast,506,461,197,Idli Sambar,Hot,No,No,61.1
+2025-06-27,Friday,Dinner,595,558,221.1,Rice Dal,Normal,No,No,53.3
+2025-03-03,Monday,Lunch,570,519,209.7,Rice Sambar,Hot,No,No,58.2
+2025-10-20,Monday,Lunch,562,512,184.7,Rice Paneer,Normal,Yes,No,33.6
+2025-01-12,Sunday,Dinner,475,402,143,Roti Paneer,Cloudy,Yes,No,30.7
+2025-04-13,Sunday,Dinner,563,402,148.7,Roti Paneer,Normal,No,No,26.2
+2026-03-11,Wednesday,Breakfast,507,391,143.5,Dosa,Rainy,No,No,30.2
+2025-06-06,Friday,Dinner,550,430,144.3,Roti Chole,Rainy,No,No,20.6
+2025-08-17,Sunday,Breakfast,515,340,140.8,Puri Bhaji,Rainy,No,No,44.3
+2025-11-27,Thursday,Breakfast,468,434,169,Upma,Normal,No,No,50.2
+2025-04-12,Saturday,Dinner,532,357,121.4,Roti Paneer,Normal,No,No,21.5
+2026-04-27,Monday,Dinner,573,423,178.2,Roti Dal,Rainy,No,No,55.9
+2025-02-02,Sunday,Lunch,523,400,158.4,Rice Sambar,Normal,No,No,44.9
+2025-01-28,Tuesday,Dinner,598,513,223.5,Roti Dal,Normal,No,Yes,75.6
+2025-11-03,Monday,Lunch,485,334,129.2,Rice Sambar,Normal,No,Yes,33.5
+2026-03-14,Saturday,Dinner,548,392,162.6,Roti Dal,Cloudy,No,Yes,60.5
+2025-02-20,Thursday,Dinner,574,384,150.2,Veg Pulao,Hot,No,Yes,45.3
+2025-01-12,Sunday,Breakfast,470,375,154,Poha,Normal,No,No,42.6
+2025-09-11,Thursday,Breakfast,511,501,204,Poha,Normal,No,No,56.1
+2026-07-07,Tuesday,Dinner,503,441,172.3,Roti Chole,Normal,No,No,41.5
+2026-07-18,Saturday,Lunch,589,383,192.4,Veg Biryani,Normal,No,No,86.6
+2025-07-28,Monday,Breakfast,500,417,164.6,Dosa,Cloudy,No,No,32.1
+2025-04-26,Saturday,Dinner,555,389,170.4,Veg Pulao,Normal,No,No,56.6
+2025-02-16,Sunday,Dinner,573,460,225.3,Rice Dal,Rainy,No,No,95.2
+2025-10-10,Friday,Dinner,586,471,203.9,Roti Dal,Normal,No,No,70.8
+2026-05-15,Friday,Dinner,503,340,139.4,Veg Pulao,Normal,No,Yes,43.5
+2026-05-04,Monday,Lunch,461,388,169,Rice Paneer,Normal,No,No,52.8
+2025-04-08,Tuesday,Lunch,598,485,202.8,Rice Sambar,Rainy,No,No,61.3
+2025-05-27,Tuesday,Dinner,453,397,169.7,Roti Chole,Normal,Yes,No,54.6
+2025-09-07,Sunday,Lunch,519,430,181.4,Veg Biryani,Normal,No,No,61.3
+2025-07-06,Sunday,Dinner,524,343,142,Rice Dal,Normal,No,Yes,49.4
+2026-05-10,Sunday,Breakfast,474,395,161.3,Paratha,Normal,No,No,51.7
+2025-11-02,Sunday,Dinner,577,424,185.2,Khichdi,Normal,No,No,62.6
+2026-01-20,Tuesday,Breakfast,574,484,153.2,Paratha,Cloudy,No,No,17.2
+2026-06-13,Saturday,Breakfast,579,472,157.2,Poha,Rainy,No,No,16.6
+2025-04-13,Sunday,Lunch,459,332,150.8,Rice Dal,Cloudy,No,No,59.4
+2025-11-16,Sunday,Dinner,520,386,178.3,Rice Dal,Normal,No,No,63.1
+2025-03-31,Monday,Breakfast,505,388,134.8,Upma,Hot,No,No,23.9
+2026-01-02,Friday,Lunch,566,459,181.4,Rice Rajma,Cloudy,No,Yes,52.5
+2025-06-19,Thursday,Dinner,499,436,159,Roti Paneer,Cloudy,No,No,35.8
+2025-01-17,Friday,Breakfast,547,447,172.7,Dosa,Hot,No,No,40.6
+2026-01-04,Sunday,Lunch,568,523,184.4,Rice Rajma,Normal,No,No,33.8
+2026-02-07,Saturday,Dinner,459,365,118.8,Veg Pulao,Rainy,No,No,13.6
+2025-05-02,Friday,Lunch,590,552,243.1,Rice Paneer,,No,No,81.7
+2025-10-19,Sunday,Breakfast,478,347,132,Idli Sambar,Rainy,No,No,40.2
+2025-07-08,Tuesday,Dinner,598,530,245.2,Veg Pulao,Rainy,No,No,96
+2026-05-14,Thursday,Lunch,455,396,164,Rice Sambar,Normal,No,No,50.8
+2025-08-11,Monday,Breakfast,493,380,129.9,Dosa,Rainy,No,No,19.9
+2025-01-23,Thursday,Lunch,558,477,204.5,Rice Chole,Normal,No,No,68.5
+2025-07-09,Wednesday,Breakfast,455,387,140.4,Paratha,Normal,No,No,30.4
+2025-10-12,Sunday,Breakfast,501,391,143.3,Upma,Hot,No,No,31.4
+2026-05-05,Tuesday,Dinner,495,362,140.2,Khichdi,Normal,No,No,37.9
+2026-05-16,Saturday,Breakfast,569,284,103.6,Dosa,Normal,No,Yes,19.6
+2026-08-25,Tuesday,Dinner,584,514,208.4,Roti Paneer,Normal,No,No,56.7
+2025-04-09,Wednesday,Breakfast,567,413,166.8,Upma,Rainy,No,Yes,56.6
+2025-08-27,Wednesday,Lunch,540,366,148.8,Rice Rajma,Normal,No,No,42.6
+2026-09-06,Sunday,Lunch,546,477,222.2,Rice Rajma,Normal,No,No,82.6
+2025-03-27,Thursday,Dinner,465,373,151.7,Roti Paneer,Normal,No,No,39.3
+2025-09-15,Monday,Lunch,518,400,164.3,Rice Dal,Cloudy,No,No,48.3
+2025-07-13,Sunday,Dinner,595,370,134.4,Roti Dal,Normal,No,Yes,26.8
+2026-03-18,Wednesday,Lunch,469,354,139.6,Rice Dal,Normal,No,No,38.4
+2025-04-30,Wednesday,Dinner,547,,180.6,Roti Dal,Rainy,No,No,58.8
+2025-02-08,Saturday,Lunch,584,409,158.8,Rice Paneer,Normal,No,No,29.8
+2026-08-25,Tuesday,Dinner,586,503,197.6,Khichdi,Normal,No,No,50.5
+2026-01-17,Saturday,Lunch,558,419,195,Rice Sambar,Normal,No,No,76.6
+2026-06-21,Sunday,Lunch,564,439,173.9,Rice Sambar,Normal,No,No,49
+2025-05-23,Friday,Dinner,514,467,223,Roti Dal,Normal,Yes,No,86.1
+2026-07-29,Wednesday,Breakfast,555,507,197.1,Paratha,Normal,No,No,49.6
+2025-07-31,Thursday,Lunch,470,410,154.4,Veg Biryani,Normal,No,No,37.3
+2026-01-10,Saturday,Dinner,519,386,172.2,Roti Chole,Normal,No,No,56.7
+2025-08-16,Saturday,Dinner,478,329,157.7,Rice Dal,Hot,No,No,58.8
+2026-01-02,Friday,Lunch,471,428,167.1,Rice Chole,Cloudy,No,No,44.1
+2025-08-05,Tuesday,Dinner,569,407,128.5,Rice Dal,Cloudy,No,Yes,17.4
+2026-08-01,Saturday,Lunch,453,298,101.2,Rice Dal,Rainy,No,No,17.1
+2026-04-29,Wednesday,Breakfast,581,528,195.1,Idli Sambar,Rainy,No,No,40.7
+2026-06-05,Friday,Dinner,472,425,153.4,Roti Paneer,Normal,No,No,25.9
+2025-08-11,Monday,Dinner,522,416,171.3,Khichdi,Rainy,No,No,53.1
+2025-03-10,Monday,Lunch,558,351,155.3,Veg Biryani,Rainy,No,Yes,51.9
+2025-11-12,Wednesday,Dinner,489,429,183.4,Roti Chole,Rainy,No,No,53.3
+2025-02-08,Saturday,Lunch,483,383,161.7,Rice Rajma,Rainy,No,No,45.3
+2025-01-07,Tuesday,Lunch,464,393,145.2,Rice Paneer,Rainy,No,No,23.4
+2025-09-30,Tuesday,Dinner,473,523,142.3,Rice Dal,Normal,No,No,43.5
+2025-08-21,Thursday,Dinner,462,341,129,Khichdi,Cloudy,No,No,35.6
+2025-08-14,Thursday,Dinner,514,399,135.6,Veg Pulao,Hot,No,No,21.7
+2025-11-16,Sunday,Lunch,576,321,134.3,Rice Chole,Normal,No,Yes,42.4
+2025-06-14,Saturday,Dinner,526,441,172.4,Rice Dal,Normal,No,No,40.3
+2026-09-21,Monday,Dinner,519,437,173.2,Roti Paneer,Rainy,No,No,47.1
+2025-03-06,Thursday,Dinner,467,395,157.3,Roti Dal,Normal,No,No,45.9
+2026-04-30,Thursday,Lunch,520,481,205,Rice Sambar,Rainy,No,No,70.3
+2026-08-06,Thursday,Breakfast,546,454,188.2,Puri Bhaji,Normal,No,No,56.3
+2025-06-05,Thursday,Lunch,535,454,198.3,Rice Rajma,Normal,No,No,67.8
+2026-04-30,Thursday,Dinner,557,484,228.5,Khichdi,Normal,No,No,83.4
+2025-01-11,Saturday,Breakfast,458,294,110.9,Paratha,Normal,No,Yes,32.6
+2025-11-22,Saturday,Lunch,556,504,226.1,Rice Paneer,Normal,No,No,82.5
+2025-12-15,Monday,Lunch,542,531,178.8,Veg Biryani,Hot,No,No,23.2
+2025-12-27,Saturday,Lunch,474,295,147.1,Rice Rajma,Rainy,No,Yes,57.7
+2025-10-01,Wednesday,Dinner,468,402,152.4,Roti Paneer,Rainy,No,No,38.2
+2025-12-26,Friday,Breakfast,467,421,151.8,Paratha,Normal,No,No,26.1
+2025-12-25,Thursday,Lunch,451,396,156.5,Veg Biryani,Rainy,No,No,49.7
+2025-04-16,Wednesday,Dinner,465,403,169,Veg Pulao,Hot,No,No,58.1
+2026-07-17,Friday,Lunch,489,395,171.9,Rice Sambar,Normal,No,No,60.3
+2025-01-08,Wednesday,Dinner,572,521,209.5,Roti Dal,Hot,No,No,54.9
+2025-02-02,Sunday,Lunch,456,355,167.3,Rice Chole,Rainy,No,No,71.3
+2026-09-14,Monday,Lunch,526,471,190.6,Veg Biryani,Normal,No,No,57.3
+2025-05-13,Tuesday,Dinner,513,409,159.6,Khichdi,Normal,No,No,42.3
+2025-01-03,Friday,Lunch,465,389,142.6,Veg Biryani,Rainy,No,No,29
+2025-02-17,Monday,Breakfast,474,413,151.8,Puri Bhaji,Rainy,No,No,31.2
+2026-06-02,Tuesday,Dinner,486,467,198.7,Roti Chole,Normal,No,No,58
+2026-02-12,Thursday,Breakfast,595,488,204.9,Dosa,Cloudy,No,No,64.7
+2025-12-11,Thursday,Breakfast,495,472,191.5,Paratha,Rainy,No,No,52.2
+2025-09-09,Tuesday,Dinner,497,445,197.5,Roti Dal,Normal,No,No,75.6
+2025-08-24,Sunday,Lunch,508,418,201.3,Rice Paneer,Normal,No,No,72.3
+2025-09-11,Thursday,Lunch,552,521,209.7,Rice Dal,Normal,No,No,59.6
+2025-03-17,Monday,Lunch,478,396,156.9,Veg Biryani,Normal,No,No,42.5
+2026-07-11,Saturday,Lunch,546,355,143.1,Veg Biryani,Normal,No,Yes,42.9
+2026-01-13,Tuesday,Breakfast,546,535,211.2,Upma,Cloudy,No,No,57.9
+2025-06-08,Sunday,Lunch,595,474,190.1,Rice Chole,Cloudy,No,No,54.4
+2025-10-30,Thursday,Dinner,520,446,206.6,Veg Pulao,Cloudy,No,No,74.9
+2026-06-25,Thursday,Lunch,594,582,225.7,Rice Sambar,Rainy,No,No,61.8
+2026-02-21,Saturday,Breakfast,492,389,158.6,Puri Bhaji,Normal,No,No,45.2
+2025-02-22,Saturday,Breakfast,539,428,162.1,Puri Bhaji,Rainy,No,No,37.5
+2025-09-08,Monday,Dinner,522,317,118.6,Roti Chole,Normal,No,Yes,24.8
+2025-11-19,Wednesday,Dinner,505,316,147,Roti Chole,Cloudy,No,Yes,53.9
+2026-08-08,Saturday,Lunch,473,372,161.4,Rice Sambar,Rainy,No,No,56.8
+2025-10-30,Thursday,Breakfast,538,437,167,Poha,Normal,No,No,39.5
+2025-10-16,Thursday,Lunch,600,511,230.4,Rice Dal,Hot,No,No,74
+2025-05-06,Tuesday,Lunch,457,381,157,Rice Chole,Normal,No,No,49
+2025-03-28,Friday,Lunch,521,419,174.4,Rice Rajma,Normal,No,No,46.2
+2026-07-10,Friday,Dinner,507,427,166.2,Roti Dal,Hot,No,No,43.7
+2025-08-08,Friday,Lunch,576,538,224.1,Rice Rajma,Normal,No,No,66.8
+2025-10-16,Thursday,Lunch,548,387,125.6,Veg Biryani,Cloudy,No,No,13.5
+2025-11-15,Saturday,Dinner,450,383,162.2,Roti Dal,Rainy,No,No,55.3
+2025-11-25,Tuesday,Dinner,492,398,151.3,Rice Dal,Rainy,No,No,34.9
+2026-01-08,Thursday,Lunch,502,393,179.6,Rice Paneer,Normal,No,Yes,67.6
+2025-08-27,Wednesday,Breakfast,584,565,207,Upma,Hot,No,No,48.2
+2025-11-19,Wednesday,Lunch,524,411,155.3,Rice Paneer,Normal,No,No,33.3
+2026-04-30,Thursday,Dinner,483,425,147.9,Rice Dal,Cloudy,No,No,25.1
+2026-05-12,Tuesday,Breakfast,505,460,163.3,Dosa,Rainy,No,No,31.7
+2025-10-12,Sunday,Dinner,541,375,161.1,Veg Pulao,Cloudy,No,No,58.1
+2025-12-06,Saturday,Dinner,529,416,158,Khichdi,Rainy,No,No,38.7
+2026-04-23,Thursday,Lunch,561,425,193.4,Rice Rajma,Rainy,No,No,75.7
+2026-10-11,Sunday,Lunch,573,478,199.6,Rice Rajma,Cloudy,No,No,54.9
+2025-03-29,Saturday,Breakfast,525,457,162.3,Puri Bhaji,Normal,No,No,28.8
+2025-05-21,Wednesday,Breakfast,594,453,189.8,Poha,Cloudy,No,No,64.6
+2026-10-26,Monday,Breakfast,457,369,146.8,Paratha,Normal,No,No,37.7
+2025-09-13,Saturday,Breakfast,541,424,,Poha,Normal,No,No,41.3
+2026-03-30,Monday,Dinner,483,379,149.2,Roti Chole,Normal,No,Yes,36.2
+2026-02-24,Tuesday,Dinner,478,399,151,Roti Dal,Rainy,No,No,41.7
+2026-02-05,Thursday,Lunch,523,443,189.4,Rice Rajma,Cloudy,No,No,55.7
+2025-03-03,Monday,Lunch,502,402,186.8,Rice Paneer,Normal,No,No,69.8
+2026-10-12,Monday,Lunch,477,467,181.9,Rice Paneer,Rainy,No,No,44.3
+2026-06-02,Tuesday,Lunch,452,396,185,Veg Biryani,Rainy,No,No,75.8
+2026-08-10,Monday,Breakfast,462,360,116.4,Upma,Normal,Yes,No,11
+2026-01-12,Monday,Breakfast,529,504,216.8,Puri Bhaji,Normal,No,No,73.9
+2026-04-13,Monday,Lunch,536,420,172.4,Veg Biryani,Rainy,No,No,51.7
+2026-06-21,Sunday,Breakfast,564,503,216.3,Dosa,Rainy,No,No,63.4
+2026-06-09,Tuesday,Lunch,564,447,173.3,Rice Paneer,Normal,No,No,39.4
+2026-10-16,Friday,Dinner,495,413,181.6,Roti Chole,Rainy,No,No,70
+2025-01-02,Thursday,Dinner,463,342,150.7,Veg Pulao,Normal,No,No,50.9
+2025-06-17,Tuesday,Lunch,545,477,201.7,Veg Biryani,Normal,No,No,61.8
+2025-10-29,Wednesday,Dinner,548,456,212.9,Roti Dal,Rainy,Yes,No,81.5
+2025-01-29,Wednesday,Lunch,561,507,211,Rice Dal,Normal,Yes,No,63.4
+2025-03-10,Monday,Lunch,572,432,203.7,Rice Chole,Normal,No,No,76.2
+2025-01-19,Sunday,Dinner,589,382,154,Khichdi,Rainy,No,No,49.5
+2025-12-05,Friday,Breakfast,521,430,145.3,Idli Sambar,Cloudy,No,Yes,16.2
+2025-06-09,Monday,Lunch,450,330,143,Rice Chole,Normal,No,No,40.6
+2025-10-25,Saturday,Breakfast,585,452,161.6,Idli Sambar,Normal,No,No,31
+2025-07-05,Saturday,Lunch,548,473,173.6,Rice Dal,Normal,No,No,29.8
+2025-05-28,Wednesday,Lunch,467,433,175.1,Rice Sambar,Cloudy,No,No,45.1
+2026-06-26,Friday,Breakfast,536,335,153.4,Paratha,Normal,No,No,54.2
+2025-10-30,Thursday,Dinner,451,364,148.6,Roti Chole,Normal,No,No,38
+2025-12-01,Monday,Dinner,496,421,178.3,Veg Pulao,Rainy,No,No,55.9
+2025-10-29,Wednesday,Dinner,583,471,194,Khichdi,Rainy,No,Yes,63.7
+2025-09-29,Monday,Lunch,465,456,193,Rice Chole,Normal,No,No,59.8
+2025-09-10,Wednesday,Dinner,561,452,184.9,Khichdi,Cloudy,Yes,No,51.9
+2025-08-25,Monday,Lunch,569,448,163.7,Rice Rajma,Hot,No,No,34.9
+2026-03-29,Sunday,Lunch,600,524,214.5,Rice Chole,Normal,No,No,66.6
+2026-05-13,Wednesday,Lunch,451,426,165.3,Rice Chole,,No,No,48.6
+2025-01-09,Thursday,Dinner,562,446,164.4,Khichdi,Rainy,No,No,40.8
+2025-06-10,Tuesday,Breakfast,495,385,158.6,Poha,Normal,No,No,47.2
+2026-08-08,Saturday,Lunch,543,452,189.7,Rice Dal,Hot,No,No,59
+2025-04-08,Tuesday,Lunch,567,438,186.2,Rice Paneer,Normal,No,No,55.9
+2025-12-22,Monday,Breakfast,544,427,178.8,Poha,Normal,No,No,56
+2025-08-13,Wednesday,Breakfast,487,377,168.9,Paratha,Cloudy,No,No,59.6
+2026-10-21,Wednesday,Lunch,562,515,247.1,Rice Rajma,Rainy,No,No,91.9
+2026-03-21,Saturday,Lunch,574,400,166.4,Rice Chole,Normal,No,Yes,54.3
+2026-06-10,Wednesday,Breakfast,500,483,171.7,Puri Bhaji,Normal,No,No,29.5
+2026-02-15,Sunday,Breakfast,530,402,146.4,Upma,Normal,No,No,31.1
+2026-02-01,Sunday,Breakfast,491,439,175.4,Poha,Normal,No,No,48.7
+2025-03-21,Friday,Lunch,550,459,173.5,Rice Sambar,Hot,No,No,43
+2025-02-28,Friday,Dinner,501,400,148.2,Roti Chole,Hot,No,No,29.7
+2025-05-01,Thursday,Dinner,525,392,155,Rice Dal,Rainy,No,No,42.7
+2025-09-08,Monday,Lunch,572,443,234.8,Rice Dal,Cloudy,No,No,105.7
+2026-03-13,Friday,Dinner,463,368,167.9,Roti Dal,Normal,Yes,No,57.2
+2025-04-17,Thursday,Breakfast,468,393,163.3,Upma,Cloudy,Yes,No,50.1
+2025-11-20,Thursday,Lunch,484,376,139,Rice Dal,Normal,No,No,25.7
+2025-01-29,Wednesday,Breakfast,474,465,193.7,Puri Bhaji,Hot,No,No,58.5
+2025-09-10,Wednesday,Breakfast,520,392,162.3,Puri Bhaji,Normal,No,Yes,52
+2026-08-30,Sunday,Lunch,526,322,118.4,Rice Rajma,Cloudy,No,Yes,30.1
+2025-01-21,Tuesday,Breakfast,475,335,130,Paratha,Normal,No,No,26.9
+2026-05-26,Tuesday,Breakfast,482,410,149.3,Idli Sambar,Cloudy,No,No,26.8
+2026-06-08,Monday,Lunch,479,415,140.8,Rice Chole,Cloudy,No,No,15.2
+2025-06-23,Monday,Breakfast,572,450,181.5,Paratha,Normal,No,No,50.4
+2025-12-04,Thursday,Lunch,595,506,175.8,Rice Paneer,Normal,No,No,28.4
+2026-05-20,Wednesday,Dinner,597,537,242,Rice Dal,Normal,No,No,81.4
+2025-03-15,Saturday,Dinner,514,374,148.1,Rice Dal,Hot,No,No,39.7
+2025-09-11,Thursday,Lunch,491,439,164.6,Rice Chole,Normal,No,No,29.8
+2025-09-16,Tuesday,Breakfast,473,405,157.9,Paratha,Hot,No,No,41.9
+2026-07-07,Tuesday,Lunch,572,499,196.5,Rice Dal,Rainy,No,No,52.2
+2025-06-10,Tuesday,Dinner,562,473,172.9,Roti Paneer,Rainy,No,No,34.2
+2025-08-03,Sunday,Lunch,498,352,145.6,Rice Sambar,Rainy,No,No,44.7
+2026-03-19,Thursday,Lunch,600,565,257.1,Rice Paneer,Normal,No,No,91.9
+2025-12-23,Tuesday,Breakfast,464,351,145.4,Poha,Normal,Yes,No,44
+2026-05-29,Friday,Lunch,523,408,165.3,Rice Rajma,Hot,No,Yes,52.7
+2025-08-08,Friday,Breakfast,516,383,126.5,Idli Sambar,Rainy,No,No,19.1
+2025-06-26,Thursday,Dinner,506,409,185.6,Roti Chole,Normal,No,No,66.4
+2026-07-11,Saturday,Lunch,515,401,153.4,Rice Chole,Normal,No,No,37.9
+2025-04-09,Wednesday,Dinner,458,333,96.9,Rice Dal,Hot,No,No,1
+2025-04-05,Saturday,Breakfast,488,466,199.1,Idli Sambar,Cloudy,No,No,57.3
+2026-04-12,Sunday,Lunch,573,351,104.7,Rice Paneer,Normal,No,Yes,7.5
+2026-03-29,Sunday,Breakfast,566,454,189.9,Idli Sambar,Cloudy,No,No,61
+2026-05-20,Wednesday,Breakfast,520,467,176.1,Upma,Cloudy,No,No,40.7
+2026-01-11,Sunday,Breakfast,482,385,148.8,Upma,Hot,No,No,41.9
+2026-07-20,Monday,Lunch,501,402,162.5,Rice Chole,Normal,No,No,49.3
+2025-06-07,Saturday,Lunch,458,367,163.1,Rice Dal,Normal,No,No,53.7
+2025-01-04,Saturday,Lunch,582,433,186,Rice Rajma,Normal,No,Yes,60.8
+2026-07-05,Sunday,Breakfast,563,503,174.4,Poha,Rainy,No,No,29
+2025-06-27,Friday,Dinner,476,405,152.5,Roti Chole,Cloudy,No,No,30.7
+2026-02-01,Sunday,Breakfast,472,420,168.9,Dosa,Normal,Yes,No,48.9
+2025-01-19,Sunday,Lunch,471,286,116,Veg Biryani,Rainy,No,No,31.7
+2026-07-20,Monday,Dinner,536,353,119.3,Roti Chole,Cloudy,No,Yes,24.6
+2025-10-04,Saturday,Dinner,495,327,137.1,Roti Dal,Normal,No,Yes,47.7
+2026-07-28,Tuesday,Lunch,547,417,193.9,Rice Dal,Normal,No,No,70.1
+2025-06-12,Thursday,Breakfast,458,413,137,Puri Bhaji,Cloudy,No,No,12.4
+2025-02-08,Saturday,Breakfast,515,334,159.2,Dosa,Rainy,No,Yes,68.9
+2025-02-11,Tuesday,Lunch,478,388,154,Rice Chole,Normal,No,No,43.1
+2025-02-10,Monday,Dinner,583,499,207.3,Roti Dal,Rainy,No,No,66.2
+2025-06-20,Friday,Dinner,465,421,162,Khichdi,Normal,No,No,41.3
+2026-10-24,Saturday,Lunch,493,439,198.8,Rice Dal,Hot,No,No,74
+2025-08-30,Saturday,Breakfast,584,359,138.7,Idli Sambar,Cloudy,No,Yes,38.5
+2026-03-04,Wednesday,Lunch,494,404,168.4,Rice Rajma,Rainy,No,No,52.4
+2025-12-10,Wednesday,Breakfast,586,445,199.3,Dosa,Hot,No,No,68.5
+2025-12-19,Friday,Dinner,550,465,142.6,Roti Dal,Normal,No,No,3.1
+2026-10-27,Tuesday,Lunch,542,461,230.9,Rice Dal,Cloudy,No,No,97
+2026-01-01,Thursday,Dinner,533,495,187.8,Roti Dal,Normal,No,No,44.6
+2025-10-15,Wednesday,Dinner,502,450,162.3,Khichdi,Cloudy,No,No,30.7
+2026-01-13,Tuesday,Dinner,507,446,176.8,Khichdi,Normal,No,No,48.2
+2025-10-23,Thursday,Lunch,546,496,182.3,Rice Dal,Normal,No,No,41.9
+2026-07-30,Thursday,Breakfast,480,440,170.3,Dosa,Normal,No,No,44.1
+2026-01-12,Monday,Breakfast,593,559,206.8,Idli Sambar,Hot,No,No,42
+2025-06-05,Thursday,Dinner,505,355,135.1,Veg Pulao,Normal,No,No,32.2
+2026-04-06,Monday,Lunch,546,466,167.4,Veg Biryani,Hot,No,No,36.4
+2025-07-09,Wednesday,Breakfast,529,432,157.2,Puri Bhaji,Normal,No,No,32.2
+2025-09-09,Tuesday,Breakfast,461,318,122.4,Dosa,Normal,No,No,25.6
+2025-11-10,Monday,Lunch,593,459,189,Rice Sambar,Rainy,No,No,58.1
+2025-10-22,Wednesday,Lunch,516,474,199.7,Veg Biryani,Rainy,No,No,64
+2025-05-31,Saturday,Lunch,595,538,241.7,Rice Paneer,Normal,No,No,82.3
+2025-07-12,Saturday,Dinner,513,450,181,Khichdi,Rainy,No,No,51.3
+2026-01-02,Friday,Lunch,498,475,205,Rice Dal,Rainy,No,No,68.2
+2026-06-24,Wednesday,Dinner,495,434,164.4,Roti Paneer,Normal,Yes,No,34.6
+2026-07-01,Wednesday,Lunch,572,460,183.5,Rice Rajma,Normal,No,No,50.3
+2025-11-04,Tuesday,Lunch,587,463,158,Rice Chole,Hot,No,No,23.6
+2026-10-18,Sunday,Breakfast,518,337,118,Dosa,Normal,No,Yes,27.6
+2025-05-02,Friday,Lunch,531,470,211.2,Rice Rajma,Normal,No,No,71.9
+2026-05-23,Saturday,Lunch,593,419,162.6,Veg Biryani,Rainy,No,No,45.8
+2025-04-27,Sunday,Dinner,580,434,196.7,Veg Pulao,Hot,Yes,No,74.2
+2026-10-25,Sunday,Dinner,500,424,134.5,Veg Pulao,Cloudy,Yes,No,10.8
+2026-08-24,Monday,Lunch,570,426,175.3,Rice Chole,Hot,No,No,54.8
+2025-03-01,Saturday,Lunch,549,365,149.3,Rice Sambar,Normal,No,No,53
+2025-05-15,Thursday,Breakfast,580,505,208.4,Idli Sambar,Hot,No,No,54
+2026-06-09,Tuesday,Breakfast,529,380,145.6,Poha,Normal,No,No,35.1
+2025-12-27,Saturday,Dinner,567,392,151.9,Rice Dal,Normal,No,No,42.4
+2026-09-16,Wednesday,Dinner,462,384,167.3,Roti Dal,Hot,Yes,No,54.9
+2025-07-20,Sunday,Lunch,475,338,144.6,Rice Chole,Hot,No,No,50.7
+2025-10-23,Thursday,Breakfast,540,519,210.2,Paratha,Cloudy,Yes,No,54.3
+2026-07-25,Saturday,Breakfast,550,374,140.1,Dosa,Cloudy,No,Yes,39.6
+2025-08-04,Monday,Dinner,580,442,175.6,Khichdi,Hot,No,No,45.1
+2026-03-19,Thursday,Lunch,560,453,176.8,Rice Dal,Hot,No,No,46.2
+2026-05-13,Wednesday,Lunch,576,498,199.1,Rice Sambar,Normal,No,No,58.8
+2026-05-30,Saturday,Lunch,584,355,150.7,Veg Biryani,Normal,No,Yes,50.6
+2026-04-29,Wednesday,Dinner,463,391,158.7,Roti Chole,Normal,No,No,46.3
+2026-02-19,Thursday,Dinner,574,496,191.4,Roti Paneer,Hot,No,No,49
+2026-07-12,Sunday,Lunch,530,403,167.1,Rice Paneer,Normal,No,No,45.7
+2025-08-21,Thursday,Dinner,542,417,165.6,Roti Dal,Normal,No,No,45.6
+2025-08-11,Monday,Lunch,578,427,147.4,Rice Sambar,Cloudy,No,No,28.6
+2025-08-12,Tuesday,Lunch,491,391,167.2,Veg Biryani,Normal,No,No,54.5
+2025-06-22,Sunday,Breakfast,527,400,151.8,Dosa,Hot,No,No,32.8
+2026-08-01,Saturday,Breakfast,548,402,141.5,Poha,Normal,No,No,23.8
+2026-10-28,Wednesday,Lunch,523,370,123,Rice Rajma,Normal,No,Yes,23.9
+2026-06-03,Wednesday,Breakfast,538,463,197,Paratha,Normal,No,No,55.1
+2025-07-25,Friday,Dinner,575,506,173.2,Rice Dal,Normal,No,No,21.5
+2025-01-01,Wednesday,Lunch,553,451,168.7,Rice Chole,Rainy,No,No,34.5
+2026-10-10,Saturday,Lunch,500,384,129.5,Rice Rajma,Normal,No,No,9
+2026-09-02,Wednesday,Lunch,506,409,180.1,Rice Sambar,Normal,No,No,59.3
+2026-02-05,Thursday,Dinner,590,412,164.2,Roti Paneer,Normal,No,No,44
+2026-01-15,Thursday,Dinner,577,535,222,Roti Dal,Normal,No,No,72.1
+2025-04-02,Wednesday,Dinner,570,559,234.4,Rice Dal,Cloudy,No,No,75.8
+2025-02-20,Thursday,Breakfast,461,382,164.4,Paratha,Cloudy,No,No,44.1
+2025-02-08,Saturday,Dinner,554,435,172.8,Roti Dal,Normal,No,No,40.8
+2026-10-24,Saturday,Lunch,566,382,148.8,Veg Biryani,Normal,No,Yes,46.2
+2026-03-16,Monday,Breakfast,504,466,160.8,Idli Sambar,Normal,No,No,19.5
+2026-05-18,Monday,Dinner,486,388,173.7,Khichdi,Cloudy,No,No,65.5
+2026-10-09,Friday,Breakfast,527,419,151.5,Upma,Normal,No,No,32.9
+2026-07-08,Wednesday,Breakfast,568,557,222.7,Poha,Rainy,No,No,57.5
+2025-05-03,Saturday,Dinner,467,332,126.1,Roti Paneer,Hot,No,No,32.3
+2026-07-19,Sunday,Lunch,591,485,205.5,Veg Biryani,Normal,No,No,59.5
+2025-08-18,Monday,Dinner,459,397,156.6,Roti Paneer,Cloudy,No,No,39.2
+2026-04-22,Wednesday,Breakfast,472,345,148.8,Upma,Cloudy,No,No,53.1
+2026-07-24,Friday,Lunch,553,378,150.9,Rice Sambar,Hot,No,No,42
+2026-05-04,Monday,Lunch,559,548,250.9,Rice Chole,Hot,No,No,90
+2026-01-22,Thursday,Breakfast,487,438,168.5,Upma,Rainy,No,No,47.7
+2025-02-05,Wednesday,Lunch,594,561,211.6,Rice Dal,Cloudy,Yes,No,42.2
+2025-01-10,Friday,Lunch,484,410,168.9,Veg Biryani,Normal,No,No,59.6
+2026-10-28,Wednesday,Lunch,475,368,157.6,Rice Sambar,Normal,No,No,52
+2026-02-11,Wednesday,Breakfast,568,523,221.9,Poha,Normal,Yes,No,66.6
+2025-02-22,Saturday,Lunch,549,447,198.4,Rice Rajma,Rainy,No,No,65.2
+2025-12-24,Wednesday,Breakfast,553,498,205.2,Dosa,Rainy,No,No,62.7
+2026-06-22,Monday,Breakfast,532,459,165.5,Poha,Rainy,Yes,No,32.3
+2025-01-09,Thursday,Dinner,597,453,173,Khichdi,Normal,No,No,39.8
+2025-08-11,Monday,Dinner,508,447,189.1,Rice Dal,Cloudy,No,No,56.6
+2026-06-01,Monday,Breakfast,531,420,158,Poha,Normal,No,No,32.2
+2026-04-01,Wednesday,Lunch,457,402,154.3,Rice Sambar,Normal,No,No,34
+2025-08-21,Thursday,Breakfast,514,394,162.9,Poha,Normal,Yes,Yes,45.7
+2025-12-02,Tuesday,Dinner,594,405,141.4,Rice Dal,Normal,No,No,23
+2025-05-27,Tuesday,Breakfast,583,521,202.2,Paratha,Normal,Yes,No,49.9
+2025-05-17,Saturday,Dinner,554,418,178.4,Rice Dal,Hot,No,No,60
+2026-09-05,Saturday,Dinner,510,405,130.7,Khichdi,Cloudy,No,Yes,15.1
+2026-08-16,Sunday,Lunch,533,381,137.1,Rice Chole,Normal,No,No,28
+2026-01-13,Tuesday,Breakfast,543,414,159.7,Idli Sambar,Normal,No,No,38.1
+2025-07-24,Thursday,Dinner,473,397,114.9,Khichdi,Hot,No,No,1
+2025-08-05,Tuesday,Dinner,480,386,177.4,Veg Pulao,Normal,No,No,71
+2026-05-05,Tuesday,Breakfast,584,507,228.1,Poha,Rainy,No,No,87.2
+2025-12-23,Tuesday,Dinner,459,450,218.3,Veg Pulao,Normal,No,No,91.1
+2025-09-28,Sunday,Lunch,469,340,135.2,Rice Paneer,Normal,No,No,29.7
+2025-03-10,Monday,Breakfast,504,494,196.7,Paratha,Normal,Yes,No,54.5
+2026-01-13,Tuesday,Lunch,473,390,176.8,Veg Biryani,Hot,No,No,69.4
+2025-11-30,Sunday,Lunch,488,412,198.7,Rice Dal,Normal,No,No,79
+2025-05-10,Saturday,Lunch,542,456,188.7,Rice Sambar,Normal,No,No,56.6
+2026-02-14,Saturday,Lunch,529,447,169.5,Veg Biryani,Normal,No,No,43.5
+2026-01-27,Tuesday,Breakfast,495,432,168.6,Upma,Normal,No,No,37.4
+2026-10-07,Wednesday,Lunch,460,383,143.2,Rice Rajma,Normal,No,No,31
+2025-01-15,Wednesday,Lunch,463,347,147.1,Rice Sambar,Normal,No,No,45.6
+2026-10-21,Wednesday,Dinner,500,,139.2,Roti Paneer,Rainy,No,No,14.8
+2025-09-20,Saturday,Lunch,587,489,191.2,Rice Sambar,Normal,No,No,49.5
+2026-08-09,Sunday,Breakfast,565,408,158.5,Idli Sambar,Rainy,No,No,44.6
+2026-04-18,Saturday,Breakfast,557,370,128.8,Dosa,Normal,No,No,22.5
+2026-10-28,Wednesday,Breakfast,516,432,179.4,Upma,Normal,No,No,55.4
+2026-10-05,Monday,Dinner,521,469,169.8,Roti Chole,Cloudy,No,No,31
+2025-03-05,Wednesday,Breakfast,547,490,174.7,Dosa,Rainy,No,No,30
+2026-04-21,Tuesday,Lunch,569,513,236.5,Rice Rajma,Rainy,No,No,85.5
+2025-04-09,Wednesday,Breakfast,589,483,171.5,Paratha,Normal,No,No,31.6
+2025-04-25,Friday,Dinner,497,339,126.1,Roti Dal,Normal,No,Yes,28.9
+2026-04-28,Tuesday,Breakfast,471,461,201.5,Upma,Normal,No,No,63
+2025-03-04,Tuesday,Lunch,497,416,184.1,Rice Chole,Normal,No,No,61.6
+2026-05-26,Tuesday,Dinner,459,280,83.2,Khichdi,Hot,No,Yes,6.7
+2025-04-02,Wednesday,Lunch,570,466,188.7,Rice Rajma,Normal,No,No,48.9
+2026-01-25,Sunday,Lunch,551,442,192.1,Rice Sambar,Normal,No,No,59
+2026-05-12,Tuesday,Breakfast,507,412,166.7,Dosa,Cloudy,No,No,46.5
+2026-03-11,Wednesday,Lunch,486,400,180.8,Rice Chole,Rainy,No,No,65.2
+2025-12-16,Tuesday,Dinner,593,514,182,Roti Paneer,Rainy,No,No,29.5
+2026-03-03,Tuesday,Breakfast,465,455,178.7,Upma,Normal,No,No,51.7
+2025-04-13,Sunday,Dinner,458,400,169.2,Roti Chole,Normal,Yes,No,52.3
+2025-03-02,Sunday,Breakfast,452,360,135.6,Upma,Normal,No,No,38.8
+2025-01-18,Saturday,Lunch,563,461,185.6,Rice Dal,Normal,No,No,47.5
+2025-04-24,Thursday,Breakfast,560,508,211.6,Upma,Normal,No,No,66.8
+2026-05-27,Wednesday,Lunch,539,499,198.5,Rice Paneer,Normal,No,No,52.7
+2025-07-07,Monday,Lunch,465,396,153,Rice Paneer,Rainy,Yes,No,37
+2025-11-09,Sunday,Lunch,535,335,114.1,Rice Paneer,Cloudy,No,No,12
+2025-01-23,Thursday,Lunch,575,551,225.4,Rice Paneer,Cloudy,No,No,62.8
+2025-12-15,Monday,Dinner,464,402,169.7,Roti Chole,Hot,No,No,56.3
+2025-07-21,Monday,Dinner,479,400,156.1,Roti Dal,Rainy,No,No,43
+2025-09-06,Saturday,Lunch,540,403,149.7,Rice Rajma,Cloudy,No,No,27.5
+2025-08-02,Saturday,Breakfast,487,395,169.4,Puri Bhaji,Rainy,No,No,53.8
+2025-08-04,Monday,Dinner,500,443,183.9,Roti Paneer,Normal,No,No,51.5
+2026-10-19,Monday,Breakfast,554,428,178,Puri Bhaji,Normal,No,No,52.6
+2026-08-12,Wednesday,Breakfast,476,372,125.2,Upma,Rainy,No,No,14.7
+2025-04-28,Monday,Dinner,544,408,183.2,Khichdi,Cloudy,No,No,65.2
+2026-06-14,Sunday,Lunch,501,392,155.7,Rice Dal,Rainy,No,No,46.6
+2026-02-05,Thursday,Dinner,553,425,191.5,Rice Dal,Hot,No,No,64.4
+2026-06-30,Tuesday,Lunch,482,387,174.8,Rice Chole,Hot,No,No,61.3
+2025-02-10,Monday,Lunch,460,405,144,Rice Dal,Normal,No,No,21.7
+2026-05-03,Sunday,Breakfast,490,352,144,Upma,Rainy,No,No,46.3
+2025-12-02,Tuesday,Dinner,588,490,196.1,Roti Dal,Normal,No,No,58.9
+2025-04-19,Saturday,Lunch,495,376,132.2,Rice Sambar,Hot,No,No,28.5
+2026-07-16,Thursday,Lunch,475,345,148.1,Rice Paneer,Normal,No,No,50.7
+2026-05-31,Sunday,Breakfast,498,369,127.9,Puri Bhaji,Normal,No,No,22
+2026-03-16,Monday,Dinner,460,451,185.1,Rice Dal,Normal,No,No,53.2
+2025-05-27,Tuesday,Dinner,451,442,181.5,Veg Pulao,Normal,No,No,53.6
+2026-10-08,Thursday,Breakfast,555,500,212.3,Dosa,Rainy,No,No,65.5
+2025-05-21,Wednesday,Dinner,492,449,178.9,Khichdi,Rainy,No,No,52.8
+2026-09-05,Saturday,Lunch,540,516,235.6,Rice Chole,Normal,No,No,83.7
+2025-09-24,Wednesday,Dinner,478,375,173,Rice Dal,Rainy,No,No,66.2
+2026-03-28,Saturday,Lunch,546,406,159.8,Rice Rajma,Normal,No,No,43.8
+2025-12-07,Sunday,Dinner,483,365,168.6,Rice Dal,Hot,No,Yes,66
+2026-10-29,Thursday,Lunch,483,424,162.8,Veg Biryani,Normal,No,No,35.9
+2025-04-27,Sunday,Dinner,466,349,127.5,Veg Pulao,Normal,No,No,35.5
+2025-10-02,Thursday,Lunch,469,422,177.6,Rice Paneer,Normal,No,No,46.4
+2025-08-03,Sunday,Lunch,491,377,126.7,Rice Dal,Normal,No,No,15.6
+2025-06-09,Monday,Dinner,511,401,146.4,Roti Paneer,Rainy,No,No,26.6
+2026-08-01,Saturday,Breakfast,501,419,163.6,Poha,Cloudy,No,No,42.3
+2025-02-23,Sunday,Lunch,506,360,164.1,Rice Rajma,Hot,No,No,61
+2026-10-07,Wednesday,Lunch,486,437,198.8,Rice Sambar,Normal,No,No,75.5
+2026-10-19,Monday,Dinner,492,355,145,Roti Dal,Rainy,No,Yes,48.1
+2025-11-15,Saturday,Lunch,564,439,194.3,Rice Chole,Normal,Yes,No,72.6
+2026-05-28,Thursday,Dinner,528,455,155,Khichdi,Normal,No,Yes,26.4
+2025-09-03,Wednesday,Lunch,486,429,135.9,Rice Chole,Normal,No,No,7.4
+2025-02-24,Monday,Dinner,514,458,160.3,Khichdi,Normal,No,No,30.4
+2025-02-12,Wednesday,Lunch,571,445,221.4,Rice Rajma,Normal,No,No,90.2
+2026-06-08,Monday,Breakfast,542,503,203.1,Poha,Rainy,No,No,55.7
+2025-11-28,Friday,Breakfast,472,431,198,Idli Sambar,Normal,No,No,75.1
+2026-05-15,Friday,Breakfast,600,415,155.2,Puri Bhaji,Normal,No,Yes,32.6
+2025-02-08,Saturday,Dinner,470,334,130.1,Rice Dal,Rainy,No,No,38.6
+2026-08-19,Wednesday,Lunch,567,402,153.1,Rice Chole,Normal,No,No,29.1
+2025-02-12,Wednesday,Breakfast,543,464,177.9,Poha,Normal,No,No,40.3
+2025-10-14,Tuesday,Dinner,470,413,151,Roti Chole,Cloudy,Yes,No,30.4
+2025-03-16,Sunday,Lunch,523,,186.7,Rice Paneer,Normal,No,No,60.9
+2025-11-26,Wednesday,Breakfast,508,431,186.2,Poha,Normal,Yes,No,53.3
+2026-10-20,Tuesday,Breakfast,558,382,142.8,Poha,Rainy,No,Yes,35
+2025-02-03,Monday,Lunch,490,359,153.2,Rice Paneer,Cloudy,No,No,46.6
+2025-04-28,Monday,Breakfast,600,554,192.1,Poha,Rainy,Yes,No,26.4
+2026-05-08,Friday,Lunch,473,435,195.8,Rice Chole,Normal,No,No,70.1
+2026-01-15,Thursday,Breakfast,552,525,184.2,Poha,Normal,Yes,No,25.7
+2025-07-01,Tuesday,Dinner,479,390,136.7,Roti Chole,Rainy,No,No,23.7
+2025-10-24,Friday,Breakfast,541,515,216.1,Idli Sambar,Rainy,No,No,72.5
+2026-03-20,Friday,Dinner,561,498,192,Khichdi,Rainy,No,No,48.5
+2025-04-15,Tuesday,Dinner,489,356,138.5,Roti Paneer,Normal,No,Yes,38
+2025-03-31,Monday,Lunch,598,544,217.3,Rice Dal,Normal,Yes,No,54.6
+2026-04-16,Thursday,Breakfast,595,428,153.5,Puri Bhaji,Cloudy,No,No,31.9
+2025-01-15,Wednesday,Dinner,539,468,171.1,Roti Paneer,Normal,No,No,30.4
+2025-01-08,Wednesday,Dinner,575,515,218.3,Roti Paneer,Rainy,No,No,65.7
+2025-02-22,Saturday,Dinner,494,353,138.4,Khichdi,Normal,No,No,41.9
+2025-12-12,Friday,Lunch,493,400,164.3,Rice Dal,Normal,No,No,57.8
+2026-04-23,Thursday,Dinner,529,462,197.4,Veg Pulao,Hot,No,No,60.5
+2026-02-05,Thursday,Breakfast,541,490,213,Poha,Normal,No,No,69.1
+2025-12-22,Monday,Dinner,537,461,178.3,Roti Chole,Cloudy,No,No,39.5
+2025-01-22,Wednesday,Dinner,552,471,184.1,Rice Dal,Hot,No,No,46.7
+2025-10-22,Wednesday,Lunch,537,484,200.9,Rice Paneer,Normal,Yes,No,58.2
+2025-03-31,Monday,Dinner,570,380,161.1,Khichdi,Normal,No,Yes,52
+2026-03-26,Thursday,Breakfast,460,365,167,Upma,Normal,No,Yes,71.7
+2025-02-28,Friday,Dinner,563,456,157.1,Rice Dal,Normal,No,No,24.3
+2026-05-27,Wednesday,Lunch,564,479,176.3,Rice Dal,Normal,No,No,33.8
+2026-09-15,Tuesday,Dinner,598,370,147.2,Roti Dal,Normal,No,Yes,49.7
+2025-04-28,Monday,Dinner,473,464,164.1,Roti Paneer,Normal,Yes,No,26.9
+2025-12-04,Thursday,Breakfast,515,421,139.1,Idli Sambar,Normal,No,No,19.7
+2026-08-16,Sunday,Dinner,587,438,201.8,Roti Dal,Normal,No,No,73.4
+2025-03-27,Thursday,Lunch,551,483,183.9,Rice Rajma,Cloudy,No,No,37.9
+2026-01-09,Friday,Lunch,497,450,182.4,Veg Biryani,Rainy,No,No,56.8
+2026-02-09,Monday,Dinner,484,410,138.4,Roti Paneer,Normal,No,No,20
+2026-10-24,Saturday,Lunch,594,476,187.4,Rice Dal,Hot,Yes,No,50.2
+2026-03-04,Wednesday,Dinner,493,387,163.7,Khichdi,Normal,No,No,49.8
+2025-08-19,Tuesday,Dinner,483,348,120.7,Roti Dal,Hot,No,No,22.1
+2025-04-30,Wednesday,Lunch,556,390,168,Rice Chole,Normal,No,No,55.6
+2025-01-05,Sunday,Breakfast,450,342,130,Dosa,Normal,Yes,No,26.2
+2026-09-23,Wednesday,Dinner,547,341,129.4,Roti Chole,Cloudy,No,Yes,31.5
+2026-01-29,Thursday,Dinner,469,421,158.6,Rice Dal,Hot,No,No,35
+2025-09-25,Thursday,Breakfast,491,439,197.4,Poha,Rainy,No,No,63.7
+2025-01-19,Sunday,Dinner,508,373,141.5,Veg Pulao,Cloudy,No,No,35.7
+2025-10-11,Saturday,Dinner,570,475,178.6,Rice Dal,Normal,No,No,41.5
+2026-06-22,Monday,Breakfast,544,385,178.1,Puri Bhaji,Cloudy,No,No,63.3
+2026-09-28,Monday,Lunch,560,549,256.1,Veg Biryani,Rainy,No,No,102.4
+2025-04-16,Wednesday,Lunch,555,423,175.6,Rice Chole,Normal,No,No,53.8
+2025-11-16,Sunday,Breakfast,504,388,174.9,Paratha,Normal,No,No,61.1
+2025-04-21,Monday,Lunch,542,431,166.3,Rice Dal,Normal,No,No,37.9
+2026-05-12,Tuesday,Breakfast,573,512,182.1,Dosa,Normal,No,No,29.5
+2026-09-09,Wednesday,Lunch,474,400,170.4,Rice Paneer,Normal,No,No,53.3
+2025-06-19,Thursday,Lunch,492,324,160.7,Veg Biryani,Normal,No,No,70.8
+2025-02-09,Sunday,Lunch,488,374,133.5,Veg Biryani,Normal,No,No,25.1
+2025-08-14,Thursday,Lunch,481,428,166.9,Rice Chole,Cloudy,No,No,36.3
+2025-08-30,Saturday,Lunch,556,496,206.7,Rice Sambar,Hot,No,No,64.3
+2026-01-09,Friday,Breakfast,485,296,117.9,Puri Bhaji,,No,Yes,36.1
+2025-05-31,Saturday,Lunch,579,413,175.2,Rice Chole,Hot,No,No,52.4
+2025-09-01,Monday,Lunch,593,415,159.5,Veg Biryani,Normal,No,No,43.1
+2025-11-02,Sunday,Lunch,467,368,172.6,Rice Rajma,Normal,No,No,58.2
+2025-12-10,Wednesday,Dinner,572,540,180.9,Roti Chole,Cloudy,Yes,No,19.1
+2025-05-24,Saturday,Lunch,455,396,166.5,Rice Paneer,Cloudy,No,No,49.9
+2026-08-11,Tuesday,Dinner,548,433,211,Rice Dal,Hot,No,Yes,88.4
+2026-03-17,Tuesday,Breakfast,502,400,146.9,Puri Bhaji,Normal,No,No,31.9
+2026-05-12,Tuesday,Lunch,472,429,169.7,Rice Dal,Cloudy,No,No,48.3
+2026-04-18,Saturday,Lunch,486,400,178.4,Rice Dal,Cloudy,No,No,59.7
+2025-10-12,Sunday,Lunch,547,328,143.6,Rice Paneer,Normal,No,Yes,51.5
+2025-10-12,Sunday,Dinner,595,483,205.4,Veg Pulao,Normal,No,No,59.7
+2025-05-22,Thursday,Lunch,484,437,193.6,Rice Dal,Cloudy,No,No,75
+2025-02-05,Wednesday,Dinner,599,533,197.1,Roti Paneer,Normal,No,No,42.8
+2025-09-30,Tuesday,Breakfast,468,409,173.2,Puri Bhaji,Normal,Yes,No,57
+2025-06-04,Wednesday,Lunch,570,464,158,Rice Sambar,Rainy,No,No,24
+2026-05-09,Saturday,Dinner,565,454,206.6,Rice Dal,Hot,No,No,82
+2025-01-22,Wednesday,Lunch,503,375,163.4,Rice Chole,Normal,No,No,50.8
+2026-04-21,Tuesday,Lunch,513,429,153.2,Rice Dal,Rainy,No,No,31.6
+2025-12-30,Tuesday,Lunch,600,475,183.6,Rice Chole,Normal,No,No,40.2
+2026-01-19,Monday,Dinner,508,446,162.7,Veg Pulao,Rainy,No,No,38.4
+2026-09-08,Tuesday,Dinner,577,,180,Rice Dal,Rainy,No,No,47.3
+2025-08-13,Wednesday,Lunch,459,363,156.3,Veg Biryani,Normal,No,No,49.7
+2025-04-09,Wednesday,Dinner,513,417,151.6,Roti Dal,Cloudy,No,No,24.7
+2025-05-08,Thursday,Dinner,512,502,225.9,Roti Chole,Normal,No,No,73.8
+2026-05-16,Saturday,Lunch,518,401,158.6,Rice Dal,Normal,No,No,46.8
+2026-05-21,Thursday,Dinner,531,420,152.3,Roti Dal,Normal,No,No,28.7
+2026-02-23,Monday,Lunch,590,525,226.3,Rice Chole,Cloudy,No,No,73.9
+2026-10-26,Monday,Dinner,558,443,180.7,Rice Dal,Rainy,No,No,58
+2025-05-25,Sunday,Dinner,517,416,149.9,Khichdi,Normal,No,No,32.2
+2025-10-13,Monday,Dinner,553,449,172.2,Roti Paneer,Normal,No,No,32.8
+2026-02-11,Wednesday,Breakfast,501,410,151.8,Puri Bhaji,Rainy,No,No,35.8
+2026-04-21,Tuesday,Lunch,589,574,231.3,Rice Paneer,Normal,No,No,64.2
+2026-10-29,Thursday,Lunch,596,540,203.2,Rice Sambar,,No,No,49.5
+2025-03-06,Thursday,Dinner,552,450,177.9,Roti Dal,Normal,No,No,53.7
+2026-09-03,Thursday,Dinner,502,449,188.8,Roti Paneer,Normal,No,No,57.3
+2026-05-23,Saturday,Breakfast,518,409,165.1,Idli Sambar,Normal,No,No,44.5
+2025-07-21,Monday,Lunch,568,474,200.7,Veg Biryani,Rainy,No,Yes,67.3
+2026-10-22,Thursday,Lunch,501,412,160.5,Rice Sambar,Hot,No,No,39.4
+2025-03-23,Sunday,Lunch,521,446,172.2,Rice Dal,Cloudy,Yes,No,39.6
+2025-12-11,Thursday,Breakfast,530,427,151.4,Idli Sambar,Rainy,No,No,28
+2026-06-25,Thursday,Dinner,579,533,214.4,Rice Dal,Hot,Yes,No,62
+2026-04-08,Wednesday,Lunch,545,515,199.7,Rice Rajma,Cloudy,No,No,49.9
+2026-01-14,Wednesday,Breakfast,505,494,211.1,Upma,Normal,No,No,72.6
+2025-01-27,Monday,Breakfast,507,441,166.1,Poha,Normal,No,No,36.3
+2026-10-26,Monday,Breakfast,496,422,147.7,Paratha,Cloudy,No,No,22.3
+2025-02-02,Sunday,Dinner,518,398,136.2,Roti Paneer,Normal,No,No,15.7
+2026-03-06,Friday,Breakfast,588,448,146.4,Puri Bhaji,Normal,No,No,15.9
+2025-10-28,Tuesday,Dinner,453,415,167.9,Rice Dal,Normal,No,No,51.1
+2025-02-22,Saturday,Dinner,500,337,146,Rice Dal,Normal,No,No,52.5
+2026-09-24,Thursday,Breakfast,528,471,189.7,Idli Sambar,Normal,No,No,53.2
+2026-07-13,Monday,Lunch,565,486,207.4,Veg Biryani,Normal,No,No,70.1
+2026-09-29,Tuesday,Dinner,471,437,167.3,Roti Paneer,Normal,No,No,37.2
+2025-11-09,Sunday,Dinner,478,362,143.9,Roti Chole,Normal,No,No,38
+2025-09-29,Monday,Breakfast,534,437,166.6,Paratha,Rainy,No,No,44.8
+2026-02-03,Tuesday,Dinner,515,386,172.3,Khichdi,Normal,No,No,63.6
+2025-04-24,Thursday,Lunch,524,350,149.9,Rice Paneer,Rainy,No,No,47
+2026-02-14,Saturday,Breakfast,552,392,168.1,Poha,Rainy,No,Yes,56.6
+2025-05-07,Wednesday,Lunch,471,375,168.6,Veg Biryani,Normal,No,Yes,61.6
+2026-05-18,Monday,Breakfast,539,442,189.8,Upma,Rainy,No,No,65
+2026-06-30,Tuesday,Breakfast,541,461,191,Puri Bhaji,Normal,No,No,50.8
+2026-03-23,Monday,Lunch,513,472,173.2,Rice Rajma,Hot,No,No,36.2
+2026-03-03,Tuesday,Lunch,499,404,143.1,Rice Dal,Rainy,No,No,32.4
+2025-08-15,Friday,Breakfast,572,536,222.2,Puri Bhaji,Rainy,No,No,72.3
+2026-04-01,Wednesday,Lunch,495,390,180.4,Rice Sambar,Normal,No,No,72.5
+2026-10-05,Monday,Dinner,575,,178.9,Veg Pulao,Hot,No,No,48.6
+2026-05-31,Sunday,Breakfast,498,405,165.7,Paratha,Normal,Yes,No,46.4
+2025-04-27,Sunday,Dinner,476,354,155.2,Veg Pulao,Cloudy,No,No,50.8
+2025-04-23,Wednesday,Dinner,598,466,188.2,Rice Dal,Normal,No,No,46.5
+2026-10-23,Friday,Dinner,481,378,163.1,Khichdi,Rainy,No,No,51.1
+2026-06-10,Wednesday,Lunch,600,538,228.8,Rice Dal,Rainy,No,No,71.6
+2025-02-23,Sunday,Breakfast,486,405,152.4,Dosa,Hot,No,No,34.1
+2025-12-10,Wednesday,Breakfast,494,351,133.2,Idli Sambar,Normal,No,No,37
+2025-07-10,Thursday,Dinner,511,389,150.9,Roti Chole,Normal,No,No,39.3
+2025-03-22,Saturday,Lunch,547,383,137.1,Rice Chole,Rainy,No,Yes,29.6
+2026-05-04,Monday,Breakfast,552,421,162.8,Poha,Normal,No,No,36
+2026-08-29,Saturday,Lunch,574,478,206.7,Rice Paneer,Rainy,No,No,64.9
+2026-06-08,Monday,Lunch,531,485,219.3,Rice Dal,Hot,No,No,79.6
+2025-12-31,Wednesday,Lunch,579,450,167.3,Rice Chole,Normal,No,No,40.1
+2025-05-15,Thursday,Lunch,481,374,135.4,Rice Sambar,Normal,No,No,24.8
+2026-07-17,Friday,Lunch,541,459,183.5,Rice Paneer,Normal,No,No,47.2
+2025-07-15,Tuesday,Dinner,502,377,141.2,Rice Dal,Normal,No,No,30.8
+2025-10-09,Thursday,Lunch,461,302,109.5,Rice Paneer,Normal,No,Yes,27.5
+2025-09-08,Monday,Breakfast,580,500,217.3,Puri Bhaji,Normal,No,No,71
+2025-11-12,Wednesday,Lunch,516,449,182.6,Rice Rajma,Rainy,No,No,50
+2026-02-15,Sunday,Lunch,546,427,192.2,Rice Dal,Rainy,No,No,73.2
+2025-06-12,Thursday,Dinner,596,520,205.2,Rice Dal,Normal,No,No,48.4
+2025-05-06,Tuesday,Lunch,540,391,168.1,Rice Paneer,Rainy,No,No,57.4
+2025-08-08,Friday,Breakfast,594,545,207.6,Puri Bhaji,Normal,No,No,43.2
+2026-01-11,Sunday,Lunch,452,309,118.2,Rice Sambar,Hot,No,No,29.8
+2025-09-25,Thursday,Breakfast,527,472,184.4,Puri Bhaji,Normal,No,No,47.2
+2026-03-13,Friday,Breakfast,460,346,121.2,Idli Sambar,Hot,No,No,25.2
+2026-02-09,Monday,Dinner,478,433,173.1,Roti Paneer,Normal,No,No,48.1
+2025-05-06,Tuesday,Lunch,562,407,173,Rice Sambar,Hot,No,Yes,60.4
+2026-01-21,Wednesday,Dinner,575,415,170.9,Roti Dal,Normal,No,Yes,54
+2025-05-18,Sunday,Lunch,451,338,151.9,Rice Dal,Normal,No,No,52.6
+2026-08-04,Tuesday,Lunch,486,476,207.5,Rice Dal,Normal,No,No,73.7
+2025-05-24,Saturday,Breakfast,495,315,123.4,Idli Sambar,Rainy,No,Yes,37.9
+2025-08-21,Thursday,Lunch,507,322,,Rice Sambar,Cloudy,No,Yes,47.6
+2026-03-21,Saturday,Breakfast,535,462,197.5,Dosa,Normal,No,No,59.5
+2025-11-01,Saturday,Breakfast,569,454,170.7,Upma,Normal,Yes,No,46.5
+2026-07-01,Wednesday,Lunch,542,439,150.1,Rice Sambar,Rainy,No,No,24.2
+2026-03-11,Wednesday,Breakfast,511,439,207.7,Paratha,Cloudy,No,No,84.9
+2025-10-27,Monday,Dinner,506,453,185.1,Khichdi,Cloudy,No,No,48.3
+2025-10-16,Thursday,Dinner,466,407,156.7,Khichdi,Normal,No,No,37.1
+2025-05-29,Thursday,Breakfast,519,435,166.3,Puri Bhaji,Normal,No,No,46.3
+2026-02-11,Wednesday,Lunch,459,303,129.9,Rice Paneer,Rainy,No,Yes,40.6
+2026-06-05,Friday,Breakfast,461,372,158.4,Poha,Cloudy,No,No,49.4
+2025-10-04,Saturday,Lunch,522,464,215.1,Rice Chole,Normal,Yes,No,74.4
+2025-03-30,Sunday,Dinner,571,402,143.5,,Rainy,No,Yes,40.5
+2025-01-21,Tuesday,Lunch,467,399,148.8,Rice Sambar,Normal,No,No,37
+2026-09-26,Saturday,Dinner,542,456,194.3,Roti Dal,Cloudy,No,No,61.9
+2025-08-05,Tuesday,Dinner,515,387,172.4,Roti Chole,Normal,No,No,58.5
+2025-01-17,Friday,Lunch,597,560,203.5,Rice Rajma,Normal,No,No,41.4
+2025-05-11,Sunday,Breakfast,504,394,153.9,Puri Bhaji,Hot,No,No,41
+2026-04-04,Saturday,Breakfast,466,338,130,Upma,Cloudy,No,No,38.2
+2025-05-07,Wednesday,Breakfast,562,429,149.8,Puri Bhaji,Normal,No,No,21.9
+2026-04-15,Wednesday,Breakfast,526,464,189.8,Puri Bhaji,Rainy,No,No,50.3
+2025-01-25,Saturday,Lunch,579,,181.3,Rice Paneer,Normal,No,No,45.5
+2026-03-18,Wednesday,Breakfast,588,489,188.4,,Hot,No,No,45.2
+2025-03-06,Thursday,Dinner,524,396,188.4,Roti Chole,Normal,No,Yes,71.5
+2025-12-14,Sunday,Breakfast,589,463,176.8,Idli Sambar,Normal,No,No,49.4
+2025-07-25,Friday,Dinner,511,439,192.1,Roti Paneer,Normal,No,No,62.5
+2026-08-17,Monday,Dinner,577,410,184.2,Roti Paneer,Hot,No,No,66.7
+2025-02-03,Monday,Lunch,469,371,-10,Rice Rajma,Normal,No,No,41.9
+2026-09-16,Wednesday,Lunch,478,418,191.4,Rice Chole,Cloudy,No,No,67.7
+2026-01-12,Monday,Lunch,500,469,208.2,Rice Dal,Hot,No,No,72
+2026-07-04,Saturday,Dinner,524,370,146.2,Roti Dal,Rainy,No,No,39.8
+2025-07-27,Sunday,Dinner,532,460,176.3,Khichdi,Normal,No,No,38.4
+2026-09-20,Sunday,Lunch,454,328,118.2,Rice Paneer,Normal,No,Yes,26
+2025-10-15,Wednesday,Lunch,550,457,226.8,Rice Sambar,Cloudy,No,No,92
+2025-11-27,Thursday,Breakfast,552,541,222.2,Idli Sambar,Normal,No,No,58.7
+2025-01-01,Wednesday,Lunch,518,394,159.5,Rice Dal,Cloudy,No,No,37.5
+2026-05-21,Thursday,Lunch,518,440,199,Rice Dal,Normal,No,No,70.6
+2026-02-20,Friday,Dinner,519,455,214,Roti Dal,Hot,No,No,81.2
+2026-09-08,Tuesday,Lunch,531,515,192.8,Rice Sambar,Normal,No,No,42.5
+2025-03-19,Wednesday,Dinner,495,439,217.3,Roti Paneer,Hot,No,No,88
+2025-11-22,Saturday,Dinner,479,419,177.8,Roti Paneer,Hot,Yes,No,47.4
+2026-05-28,Thursday,Breakfast,565,521,176,Poha,Cloudy,No,No,23.3
+2026-05-06,Wednesday,Dinner,580,528,220.5,Roti Chole,Normal,Yes,No,64.3
+2025-06-02,Monday,Lunch,486,464,215.4,Rice Chole,Hot,No,No,80.3
+2025-12-29,Monday,Dinner,595,547,266.6,Roti Paneer,Normal,No,No,105.7
+2026-10-26,Monday,Lunch,523,407,157.4,Rice Rajma,Hot,No,No,45.6
+2025-01-25,Saturday,Breakfast,478,381,153.7,Idli Sambar,Cloudy,Yes,No,43.9
+2026-01-21,Wednesday,Lunch,567,540,209,Veg Biryani,Rainy,No,No,49
+2026-10-16,Friday,Dinner,502,404,152.5,Roti Dal,Normal,No,No,37.5
+2025-11-26,Wednesday,Lunch,474,359,150,Rice Rajma,Cloudy,No,No,46.8
+2025-08-11,Monday,Breakfast,526,488,225.6,Upma,Rainy,No,No,88.1
+2026-07-21,Tuesday,Dinner,511,501,190.6,Roti Paneer,Normal,Yes,No,45.2
+2026-01-21,Wednesday,Breakfast,592,540,209.8,Idli Sambar,Normal,No,No,49.8
+2026-09-04,Friday,Dinner,490,416,165.5,Khichdi,Cloudy,No,No,41.7
+2026-02-22,Sunday,Lunch,565,474,192.1,Veg Biryani,Normal,Yes,No,52
+2026-04-09,Thursday,Dinner,506,420,174.2,Roti Dal,Rainy,No,No,54.8
+2026-07-04,Saturday,Dinner,518,432,156.4,Khichdi,Hot,No,No,30.7
+2025-10-23,Thursday,Dinner,514,429,173.1,Roti Dal,Rainy,No,No,55
+2026-03-31,Tuesday,Dinner,596,463,209.8,Roti Chole,Normal,No,No,69.8
+2025-12-29,Monday,Lunch,569,503,189.4,Rice Paneer,Rainy,Yes,No,44.2
+2025-04-18,Friday,Dinner,457,419,173.8,Roti Chole,Hot,No,No,50.7
+2026-04-17,Friday,Lunch,520,449,169.3,Rice Rajma,Cloudy,Yes,No,37
+2025-01-23,Thursday,Breakfast,563,404,143.9,Puri Bhaji,Hot,No,Yes,28
+2025-06-26,Thursday,Lunch,518,452,203.6,Rice Chole,Normal,No,No,71.2
+2025-02-01,Saturday,Breakfast,552,423,166.1,Idli Sambar,Hot,No,No,50.5
+2025-01-27,Monday,Lunch,572,499,204.3,Rice Chole,Rainy,No,No,56.8
+2025-05-17,Saturday,Lunch,561,357,172.2,Rice Dal,Rainy,No,No,66.4
+2026-03-14,Saturday,Lunch,574,402,178.4,Rice Chole,Rainy,No,No,60.9
+2025-10-09,Thursday,Breakfast,567,533,176,Puri Bhaji,Rainy,No,No,22.9
+2025-05-10,Saturday,Breakfast,523,406,156.6,Idli Sambar,Cloudy,No,No,40.8
+2025-12-14,Sunday,Lunch,530,420,169.8,Rice Chole,Normal,No,No,46.9
+2026-02-28,Saturday,Dinner,493,435,178.2,Roti Chole,Hot,Yes,No,52.1
+2025-04-29,Tuesday,Dinner,480,379,157.1,Veg Pulao,Hot,No,No,50.1
+2025-01-02,Thursday,Breakfast,571,487,193.3,Upma,Normal,No,No,50.8
+2026-06-10,Wednesday,Lunch,525,404,158.9,Veg Biryani,Rainy,No,No,42.7
+2026-03-27,Friday,Breakfast,589,520,203.2,Idli Sambar,Cloudy,No,No,52.7
+2026-02-05,Thursday,Lunch,528,443,193.3,Rice Paneer,Normal,No,No,60.1
+2025-06-17,Tuesday,Lunch,509,406,156.4,Veg Biryani,Cloudy,No,No,41.1
+2026-07-25,Saturday,Dinner,471,365,151.9,Roti Dal,Rainy,No,No,47.8
+2025-03-25,Tuesday,Dinner,484,406,162.9,Khichdi,Rainy,No,No,48.3
+2026-09-08,Tuesday,Dinner,536,413,157.4,Roti Dal,Cloudy,No,No,42.3
+2025-07-11,Friday,Breakfast,489,381,158.4,Paratha,Cloudy,No,Yes,54.8
+2026-10-10,Saturday,Dinner,503,467,164.3,Roti Paneer,Rainy,No,No,29.6
+2026-05-06,Wednesday,Lunch,472,354,136.3,Rice Chole,Hot,No,No,33
+2026-04-21,Tuesday,Breakfast,475,371,146.1,Idli Sambar,Normal,No,Yes,46.3
+2026-09-15,Tuesday,Lunch,593,501,203.1,Rice Sambar,Hot,No,No,56.3
+2026-03-31,Tuesday,Lunch,549,430,188.1,Rice Paneer,Normal,No,No,67.3
+2025-12-14,Sunday,Dinner,484,372,147.7,Khichdi,Cloudy,No,No,44.3
+2025-01-31,Friday,lunch,451,348,134,Rice Chole,Normal,No,No,36.7
+2025-05-09,Friday,Dinner,550,423,151.1,Roti Dal,Rainy,No,No,27.7
+2025-04-09,Wednesday,Breakfast,456,321,112.3,Upma,Normal,No,Yes,18.9
+2025-03-26,Wednesday,Breakfast,562,538,180.4,Idli Sambar,Hot,No,No,23
+2026-04-19,Sunday,Lunch,534,426,197.2,Veg Biryani,Normal,No,No,71.3
+2026-04-07,Tuesday,Dinner,598,499,183.1,Roti Paneer,Rainy,No,No,41
+2025-04-21,Monday,Lunch,507,443,176.3,Veg Biryani,Cloudy,No,No,46.7
+2026-07-03,Friday,Lunch,579,485,218.7,Veg Biryani,Rainy,No,No,83.2
+2026-09-22,Tuesday,Dinner,516,405,160.2,Veg Pulao,Hot,No,No,46.2
+2025-04-21,Monday,Lunch,464,390,160.2,Rice Sambar,Rainy,No,No,47.7
+2025-08-06,Wednesday,Dinner,570,453,176.6,Roti Chole,Normal,No,No,37.4
+2026-01-09,Friday,Breakfast,533,461,158.2,Upma,Cloudy,No,No,18.9
+2025-05-13,Tuesday,Dinner,517,409,187.9,Roti Chole,Cloudy,No,Yes,71.5
+2026-10-10,Saturday,Dinner,557,516,196.2,Khichdi,Normal,No,No,41.9
+2025-12-08,Monday,Dinner,450,410,169.2,Roti Dal,Normal,No,No,52
+2025-04-09,Wednesday,Lunch,531,440,180,Rice Dal,Rainy,No,No,45.7
+2025-04-29,Tuesday,Breakfast,518,457,163.5,Poha,Cloudy,No,No,30.5
+2025-03-19,Wednesday,Lunch,484,401,159.6,Rice Dal,Normal,Yes,No,43.4
+2026-08-03,Monday,Dinner,534,430,133.1,Roti Chole,Hot,No,No,10.2
+2025-11-18,Tuesday,Dinner,578,503,220.5,Roti Chole,Normal,No,No,80.6
+2026-01-23,Friday,Dinner,475,428,177.6,Veg Pulao,Normal,No,No,59.9
+2026-08-08,Saturday,Dinner,597,466,163.2,Roti Chole,Normal,No,No,32.3
+2025-06-01,Sunday,Breakfast,571,471,189.4,Dosa,Rainy,No,No,51.6
+2026-10-10,Saturday,Dinner,548,446,176.8,Rice Dal,Rainy,No,No,44.6
+2025-07-13,Sunday,Lunch,515,390,174.5,Rice Chole,Cloudy,No,No,57.7
+2025-08-02,Saturday,Lunch,572,411,174.5,Rice Rajma,Normal,No,No,52.6
+2026-07-12,Sunday,Lunch,515,380,176.6,Rice Dal,Normal,No,No,62.8
+2025-02-08,Saturday,Dinner,466,343,163.3,Rice Dal,Normal,No,No,65.8
+2025-03-13,Thursday,Lunch,539,462,197.3,Rice Rajma,Normal,No,No,59.5
+2026-10-22,Thursday,Breakfast,595,462,221.7,Dosa,Cloudy,No,No,88.4
+2026-09-29,Tuesday,Dinner,568,503,206.5,Rice Dal,Cloudy,No,No,56.9
+2025-09-11,Thursday,Breakfast,553,441,169.1,Idli Sambar,Hot,No,No,33.8
+2026-06-11,Thursday,Dinner,523,432,149.5,Roti Paneer,Hot,No,No,22.4
+2026-06-01,Monday,Lunch,489,383,153.3,Veg Biryani,Normal,No,No,41.5
+2025-11-21,Friday,Dinner,479,405,187,Roti Paneer,Cloudy,Yes,No,70.9
+2025-03-10,Monday,Lunch,549,462,191.4,Rice Sambar,Cloudy,No,No,54.3
+2025-02-18,Tuesday,Breakfast,479,386,123.5,Dosa,Rainy,No,No,14.3
+2026-03-01,Sunday,Breakfast,558,517,195.5,Upma,Rainy,No,No,51.2
+2025-01-12,Sunday,Breakfast,468,424,184.7,Poha,Cloudy,No,No,58.8
+2025-02-18,Tuesday,Dinner,517,447,184.7,Roti Dal,Cloudy,No,No,54.7
+2026-03-05,Thursday,Breakfast,461,364,147.9,Dosa,Cloudy,No,No,38.9
+2026-01-17,Saturday,Breakfast,474,317,124.7,Puri Bhaji,Cloudy,No,No,33.3
+2026-06-02,Tuesday,Lunch,546,413,150.1,Veg Biryani,Cloudy,No,No,32.7
+2025-12-06,Saturday,Dinner,531,382,155.9,Rice Dal,Cloudy,No,No,48.3
+2025-11-26,Wednesday,Dinner,488,368,147.1,Veg Pulao,Cloudy,No,No,44.4
+2026-09-02,Wednesday,Lunch,544,504,198.3,Veg Biryani,Normal,No,No,52.7
+2025-07-01,Tuesday,Lunch,504,471,151.7,Rice Rajma,Hot,Yes,No,12.3
+2025-08-30,Saturday,Breakfast,517,422,175.5,Idli Sambar,Rainy,No,No,57.5
+2025-05-10,Saturday,Lunch,458,371,152.3,Rice Chole,Normal,No,No,44.9
+2025-03-22,Saturday,Breakfast,551,456,175.9,Idli Sambar,Normal,No,No,47.7
+2026-09-15,Tuesday,Lunch,478,381,168.2,Rice Paneer,Normal,Yes,Yes,57.9
+2025-07-06,Sunday,Lunch,510,415,161.7,Rice Dal,Rainy,Yes,No,41.1
+2025-06-11,Wednesday,Breakfast,524,418,180.8,Puri Bhaji,Normal,No,No,64.2
+2025-08-14,Thursday,Lunch,471,407,156.8,Veg Biryani,Hot,No,No,39.4
+2025-03-31,Monday,Dinner,576,465,189.6,Khichdi,Rainy,No,No,48.9
+2025-08-19,Tuesday,Breakfast,522,425,153,Paratha,Hot,No,No,27.8
+2025-09-08,Monday,Breakfast,516,422,173.6,Puri Bhaji,Normal,No,No,48.2
+2025-02-27,Thursday,Lunch,573,466,162.8,Rice Rajma,Normal,No,No,26
+2025-09-22,Monday,Breakfast,511,361,152.8,Poha,Hot,No,No,49.4
+2025-06-30,Monday,Lunch,559,481,189.4,Rice Chole,Rainy,No,No,46.6
+2025-12-10,Wednesday,Lunch,501,368,136.9,Rice Chole,Normal,No,No,28
+2025-01-01,Wednesday,Dinner,524,447,193.3,Rice Dal,Normal,No,No,64.3
+2025-07-09,Wednesday,Breakfast,593,501,216.2,Upma,Normal,No,No,64.5
+2025-06-21,Saturday,Lunch,465,385,151.7,Rice Paneer,Normal,No,No,36.9
+2025-06-14,Saturday,Lunch,597,493,178.5,Rice Chole,Hot,No,No,37
+2025-05-26,Monday,Breakfast,480,443,186.5,Upma,Rainy,No,No,63.8
+2025-07-17,Thursday,Dinner,503,451,141.9,Roti Chole,Normal,No,No,5.8
+2026-05-03,Sunday,Lunch,533,423,174.7,Rice Paneer,Normal,No,No,43.2
+2026-04-04,Saturday,Lunch,456,324,157.5,Rice Paneer,Normal,No,No,62
+2025-08-03,Sunday,Lunch,464,330,129.5,Rice Rajma,Normal,No,No,32.3
+2026-08-27,Thursday,Dinner,452,356,135.5,Roti Dal,Rainy,No,No,31.8
+2025-06-03,Tuesday,Dinner,556,485,186.4,Rice Dal,Normal,No,No,39.7
+2026-10-02,Friday,Dinner,490,428,173.6,Roti Chole,Normal,No,No,45.5
+2025-12-22,Monday,Dinner,461,398,158,Rice Dal,Rainy,No,No,50
+2025-02-06,Thursday,Breakfast,468,395,179.2,Paratha,Normal,No,No,66.2
+2025-06-09,Monday,Lunch,480,419,196.9,Rice Dal,Cloudy,Yes,No,77.4
+2025-02-23,Sunday,Breakfast,472,396,161.6,Dosa,Rainy,No,No,45.7
+2026-09-17,Thursday,Lunch,518,415,166.6,Veg Biryani,Normal,No,No,47.5
+2026-05-17,Sunday,Breakfast,469,384,127.7,Paratha,Cloudy,No,No,13.8
+2026-07-02,Thursday,Breakfast,576,,181.5,Idli Sambar,Rainy,No,No,49.7
+2026-04-18,Saturday,Lunch,523,354,152.7,Rice Rajma,Normal,No,Yes,54.1
+2026-08-02,Sunday,Breakfast,493,338,120.9,Puri Bhaji,Normal,No,Yes,22.4
+2025-12-16,Tuesday,Dinner,521,448,197.7,Khichdi,Normal,No,No,66.9
+2026-08-17,Monday,Lunch,577,489,155.5,Rice Chole,Cloudy,No,No,8.7
+2026-04-16,Thursday,Lunch,586,457,195.7,Rice Paneer,Cloudy,No,No,57.8
+2025-02-20,Thursday,Breakfast,520,445,159.2,Dosa,Rainy,No,No,20.8
+2025-10-30,Thursday,Breakfast,474,419,166.4,Puri Bhaji,Rainy,No,No,50
+2025-05-12,Monday,Breakfast,599,475,221.7,Idli Sambar,Normal,Yes,Yes,80.9
+2025-10-31,Friday,Breakfast,519,467,186.9,Puri Bhaji,Hot,No,No,43.6
+2026-10-24,Saturday,Dinner,504,362,150.6,Roti Paneer,Normal,No,No,45.9
+2026-07-29,Wednesday,Dinner,463,411,194.5,Roti Paneer,Normal,No,No,70.5
+2025-05-21,Wednesday,Lunch,466,353,154.8,Rice Chole,Normal,No,No,52.9
+2026-05-12,Tuesday,Dinner,570,460,167.5,Roti Chole,Hot,No,No,33.2
+2025-10-04,Saturday,Breakfast,527,442,172.1,Puri Bhaji,Cloudy,Yes,No,40.8
+2026-07-26,Sunday,Lunch,581,426,181.7,Rice Paneer,Normal,No,No,49.9
+2025-07-15,Tuesday,Lunch,451,404,184.7,Veg Biryani,Cloudy,No,No,70.2
+2025-12-28,Sunday,Dinner,582,344,119.2,Roti Dal,Normal,No,No,18.7
+2026-10-04,Sunday,Breakfast,583,446,160,Idli Sambar,Hot,No,No,34.3
+2025-10-15,Wednesday,Breakfast,462,437,193.1,Idli Sambar,Cloudy,Yes,No,62.7
+2025-09-18,Thursday,Lunch,582,456,211.5,Rice Paneer,Hot,No,No,79.4
+2025-08-29,Friday,Lunch,528,423,154.4,Rice Dal,Normal,No,No,31.8
+2025-09-21,Sunday,Breakfast,502,313,117.7,Dosa,Cloudy,No,Yes,30.6
+2025-08-01,Friday,Dinner,452,367,144.6,Roti Paneer,Cloudy,No,No,34.5
+2025-09-25,Thursday,Dinner,584,561,208.9,Rice Dal,Rainy,No,No,52.4
+2026-05-31,Sunday,Lunch,600,383,156.2,Rice Chole,Normal,No,No,45.2
+2026-06-09,Tuesday,Lunch,536,449,183.9,Rice Dal,Normal,No,No,57.5
+2025-02-04,Tuesday,Dinner,592,511,188.7,Roti Chole,Normal,No,No,32.1
+2026-07-16,Thursday,Lunch,556,430,181.9,Rice Sambar,Cloudy,Yes,No,54.3
+2025-09-08,Monday,Lunch,567,417,160.4,Rice Sambar,Hot,No,No,37.1
+2026-10-28,Wednesday,Lunch,534,411,165.9,Veg Biryani,Normal,No,No,50.4
+2025-05-24,Saturday,Breakfast,530,417,176,Poha,Normal,No,No,53.5
+2026-06-15,Monday,Dinner,556,453,172.4,Roti Dal,Cloudy,No,No,46.1
+2025-06-10,Tuesday,Lunch,559,400,176.3,Rice Chole,Normal,No,No,56.3
+2025-07-15,Tuesday,Lunch,454,430,203.8,Rice Paneer,Normal,No,No,64.8
+2025-08-13,Wednesday,Breakfast,585,474,182.5,Paratha,Hot,No,No,42.1
+2025-05-28,Wednesday,Dinner,466,352,152.5,Roti Dal,Normal,No,No,54.2
+2025-03-16,Sunday,Lunch,540,452,185.2,Rice Sambar,Rainy,No,No,50.4
+2025-05-11,Sunday,Lunch,498,466,199.6,Rice Chole,Normal,No,No,61.9
+2026-04-05,Sunday,Dinner,581,449,167.5,Rice Dal,Cloudy,No,No,37.6
+2025-03-04,Tuesday,Breakfast,555,387,146.1,Puri Bhaji,Normal,No,Yes,36.9
+2026-06-05,Friday,Dinner,512,389,165,Roti Chole,Hot,No,No,55
+2026-06-03,Wednesday,Dinner,496,404,152.1,Rice Dal,Rainy,No,No,38.7
+2026-10-08,Thursday,Dinner,516,471,176.7,Khichdi,Normal,No,No,44.5
+2025-05-26,Monday,Lunch,488,414,160.7,Rice Paneer,Normal,No,No,37.4
+2026-08-11,Tuesday,Dinner,489,447,173,Veg Pulao,Cloudy,No,No,42.5
+2026-04-05,Sunday,Breakfast,563,418,162.5,Puri Bhaji,Normal,Yes,No,42.6
+2026-01-18,Sunday,Dinner,581,464,166,Roti Paneer,Hot,No,No,26.2
+2025-12-31,Wednesday,Breakfast,506,406,165.3,Idli Sambar,Cloudy,Yes,No,49.2
+2025-07-17,Thursday,Breakfast,549,452,186.9,Paratha,Rainy,No,No,57
+2025-09-24,Wednesday,Breakfast,585,469,177.5,Paratha,Rainy,No,No,45.6
+2026-04-05,Sunday,Lunch,501,427,186.7,Rice Paneer,Normal,No,No,59.8
+2026-06-10,Wednesday,Dinner,521,429,185.2,Roti Paneer,Hot,No,No,60
+2025-02-15,Saturday,Lunch,483,363,129.2,Rice Paneer,Normal,Yes,Yes,18.3
+2026-05-04,Monday,Dinner,533,444,189,Veg Pulao,Rainy,No,No,60.4
+2026-04-05,Sunday,Lunch,549,463,189.8,Veg Biryani,Hot,No,No,59.6
+2025-10-03,Friday,Lunch,575,395,144.9,Rice Dal,Rainy,No,Yes,30.8
+2025-04-10,Thursday,Dinner,598,516,204.7,Khichdi,Rainy,No,No,49.1
+2025-12-17,Wednesday,Lunch,533,,182.9,Rice Chole,Cloudy,No,No,71.4
+2026-07-18,Saturday,Breakfast,571,388,144.6,Dosa,Normal,No,No,30.5
+2026-10-03,Saturday,Lunch,559,491,196.7,Rice Sambar,Normal,No,No,56.3
+2026-07-21,Tuesday,Breakfast,583,480,209.6,Poha,Cloudy,No,No,70.4
+2025-07-14,Monday,Breakfast,544,439,157.3,Dosa,Cloudy,No,No,28.2
+2025-05-17,Saturday,Lunch,516,385,139.7,Rice Dal,Rainy,No,No,30.9
+2025-04-17,Thursday,Lunch,474,330,128.4,Rice Dal,Cloudy,No,Yes,34.9
+2025-02-04,Tuesday,Lunch,541,438,172.5,Veg Biryani,Rainy,No,No,50.4
+2025-11-08,Saturday,Breakfast,542,388,146.1,Upma,Normal,No,No,28.5
+2025-04-28,Monday,Dinner,577,530,192.8,Roti Paneer,Normal,No,No,42.5
+2026-03-25,Wednesday,Lunch,519,455,168.2,Rice Chole,Rainy,No,No,40.1
+2026-10-10,Saturday,Dinner,587,426,183.5,Rice Dal,Rainy,No,No,63.4
+2025-02-10,Monday,Dinner,527,413,183.9,Roti Chole,Normal,Yes,No,60
+2026-02-24,Tuesday,Breakfast,590,421,197.7,Poha,Normal,No,No,65.4
+2026-09-26,Saturday,Dinner,451,362,131.4,Khichdi,Normal,No,No,24.9
+2026-06-07,Sunday,Breakfast,466,359,147.5,Dosa,Hot,No,No,41.8
+2025-01-03,Friday,Lunch,460,425,176.2,Rice Rajma,Normal,No,No,43.2
+2026-04-19,Sunday,Lunch,512,450,182,Rice Paneer,Rainy,No,No,54.3
+2026-01-05,Monday,Lunch,488,463,164,Veg Biryani,Rainy,No,No,32.1
+2025-01-16,Thursday,Lunch,518,446,168.1,Rice Sambar,Cloudy,No,No,44.5
+2025-11-04,Tuesday,Dinner,460,437,182.1,Roti Chole,Normal,No,No,56
+2025-01-03,Friday,Dinner,572,452,202.2,Khichdi,Rainy,No,Yes,73.5
+2026-05-16,Saturday,Dinner,481,322,132,Khichdi,Rainy,No,No,40.1
+2025-10-10,Friday,Dinner,460,388,143.1,Roti Dal,Rainy,No,No,30.2
+2026-09-08,Tuesday,Dinner,471,329,127.8,Veg Pulao,Rainy,No,No,34.4
+2025-10-05,Sunday,Dinner,552,331,148.9,Rice Dal,Normal,No,Yes,57.5
+2025-01-25,Saturday,Breakfast,564,415,168.3,Upma,Cloudy,Yes,Yes,58.6
+2025-06-03,Tuesday,Breakfast,506,424,155.8,Idli Sambar,Normal,No,No,31.4
+2026-01-27,Tuesday,Lunch,507,491,217.5,Veg Biryani,Normal,No,No,71.9
+2026-08-29,Saturday,Breakfast,587,513,193.5,Dosa,Normal,No,No,47.2
+2026-05-21,Thursday,Dinner,461,434,173,Roti Dal,Cloudy,No,No,44.7
+2025-04-29,Tuesday,Dinner,496,434,166.6,Veg Pulao,Normal,No,No,39.5
+2025-04-17,Thursday,Dinner,541,443,156.7,Khichdi,Cloudy,No,No,30.2
+2025-08-21,Thursday,Breakfast,451,353,120.1,Idli Sambar,Normal,No,No,16.2
+2026-02-22,Sunday,Lunch,566,400,144.3,Rice Paneer,Hot,No,Yes,29.3
+2025-07-20,Sunday,Breakfast,586,483,173.5,Idli Sambar,Normal,No,No,28.2
+2025-01-07,Tuesday,Lunch,479,346,152.9,Rice Dal,Normal,No,No,54.8
+2025-08-19,Tuesday,Dinner,518,415,164.4,Veg Pulao,Hot,No,No,46
+2026-03-30,Monday,Lunch,588,576,239.2,Rice Dal,Normal,No,No,73.8
+2025-06-25,Wednesday,Lunch,567,495,178,Rice Rajma,Rainy,No,No,34.2
+2026-01-10,Saturday,Dinner,562,377,139.2,Khichdi,Normal,No,No,29.8
+2026-10-22,Thursday,Breakfast,573,420,164.9,Upma,Cloudy,No,Yes,42.6
+2025-09-14,Sunday,Dinner,538,446,165.6,Roti Paneer,Rainy,No,No,34.8
+2026-05-15,Friday,Lunch,467,411,166.8,Rice Paneer,Rainy,No,No,40
+2025-12-06,Saturday,Dinner,557,420,153.5,Khichdi,Hot,No,No,36.2
+2026-10-02,Friday,Breakfast,579,542,226.8,Upma,Hot,No,No,71.9
+2026-09-30,Wednesday,Breakfast,505,430,158.2,Poha,Normal,No,No,25.8
+2026-10-06,Tuesday,Breakfast,530,451,205.2,Idli Sambar,Cloudy,Yes,No,71.1
+2025-10-07,Tuesday,Dinner,497,342,125.2,Veg Pulao,Rainy,No,Yes,35.8
+2025-09-20,Saturday,Lunch,569,453,184.9,Veg Biryani,Normal,No,No,59
+2025-12-15,Monday,Breakfast,577,482,176.6,Puri Bhaji,Rainy,No,No,40.1
+2025-05-25,Sunday,Lunch,554,355,160.4,Rice Rajma,Normal,No,Yes,63.4
+2026-04-12,Sunday,Breakfast,580,437,184.5,Dosa,Hot,No,No,53.9
+2025-05-21,Wednesday,Lunch,453,321,155.1,Rice Sambar,Normal,No,Yes,62.4
+2025-02-04,Tuesday,Breakfast,572,456,162.1,Puri Bhaji,Normal,No,No,32.8
+2025-12-13,Saturday,Breakfast,586,480,193.4,Idli Sambar,Normal,No,No,50.9
+2026-01-15,Thursday,Dinner,512,383,160.2,Roti Paneer,Normal,No,No,43
+2026-02-08,Sunday,Lunch,585,449,188.6,Rice Paneer,Hot,No,Yes,60.6
+2025-07-02,Wednesday,Lunch,478,414,164.4,Rice Paneer,Normal,No,No,42.1
+2025-05-19,Monday,Dinner,494,484,189.6,Rice Dal,Normal,No,No,45.3
+2026-08-22,Saturday,Lunch,575,379,183.6,Rice Rajma,Normal,No,Yes,78.4
+2025-06-22,Sunday,Lunch,451,348,144.2,Rice Chole,Normal,No,No,39.2
+2026-07-12,Sunday,Breakfast,560,436,176.5,Paratha,Cloudy,No,No,46.1
+2026-08-28,Friday,Breakfast,526,480,187.3,Idli Sambar,Normal,No,No,49.8
+2025-09-16,Tuesday,Lunch,583,481,171.9,Rice Paneer,Rainy,No,No,32.3
+2025-02-08,Saturday,Breakfast,589,466,203.5,Upma,Normal,Yes,No,71.1
+2025-01-24,Friday,Breakfast,463,341,108.9,Paratha,Normal,No,No,14.6
+2025-04-14,Monday,Lunch,539,456,180.5,Rice Dal,Normal,No,No,44.8
+2025-04-02,Wednesday,Lunch,559,425,152.7,Rice Rajma,Normal,No,No,31.1
+2025-06-01,Sunday,Dinner,456,324,127,Khichdi,Cloudy,No,No,37.2
+2025-08-14,Thursday,Breakfast,585,479,182.1,Idli Sambar,Normal,No,No,42.1
+2025-11-27,Thursday,Breakfast,468,346,137,Puri Bhaji,Cloudy,No,No,43.2
+2026-08-25,Tuesday,Lunch,505,438,164.4,Rice Rajma,Normal,No,No,37.6
+2026-05-17,Sunday,Dinner,590,531,214.4,Rice Dal,Rainy,No,No,63.7
+2025-02-19,Wednesday,Dinner,570,408,139.5,Roti Chole,Hot,No,No,26.6
+2026-03-31,Tuesday,Breakfast,524,390,138.5,Dosa,Rainy,Yes,Yes,32.2
+2025-06-19,Thursday,Dinner,552,406,155.3,Roti Chole,Normal,No,No,38.3
+2025-11-01,Saturday,Breakfast,582,402,147.1,Puri Bhaji,Normal,No,Yes,28.5
+2025-12-15,Monday,Lunch,469,398,150.8,Rice Rajma,Cloudy,No,No,35.6
+2025-04-09,Wednesday,Dinner,516,449,203.3,Rice Dal,Hot,No,No,72.3
+2025-02-08,Saturday,Dinner,466,343,163.3,Rice Dal,Normal,No,No,65.8
+2025-10-07,Tuesday,Dinner,590,529,266,Rice Dal,Rainy,No,No,117.5
+2025-01-28,Tuesday,Lunch,534,435,181.2,Rice Sambar,Rainy,No,No,58.5
+2026-05-31,Sunday,Lunch,526,416,184.7,Rice Sambar,Cloudy,No,No,63.3
+2025-11-30,Sunday,Lunch,542,330,161.5,Rice Chole,Normal,Yes,No,61.4
+2025-04-06,Sunday,Dinner,504,365,151.8,Roti Dal,Normal,No,No,47.8
+2025-08-13,Wednesday,Lunch,485,446,169.8,Rice Dal,Cloudy,No,No,42.8
+2025-10-06,Monday,Dinner,480,463,189.7,Veg Pulao,Normal,No,No,55.8
+2025-08-12,Tuesday,Breakfast,462,385,156.3,Idli Sambar,Hot,No,No,44.9
+2026-03-08,Sunday,Lunch,476,330,141.7,Rice Paneer,Normal,No,No,41.1
+2026-02-01,Sunday,Breakfast,544,415,187.9,Dosa,Rainy,No,No,63.3
+2026-08-31,Monday,Breakfast,569,475,189.3,Dosa,Rainy,No,No,45.4
+2026-09-17,Thursday,Breakfast,493,397,156.7,Puri Bhaji,Hot,No,No,47.1
+2025-01-07,Tuesday,Lunch,593,505,179.1,Rice Dal,Normal,No,No,32.7
+2026-01-06,Tuesday,Breakfast,527,416,164.1,Paratha,Normal,No,No,49.7
+2025-08-17,Sunday,Lunch,523,421,198.5,Rice Paneer,Normal,No,No,70.4
+2026-07-11,Saturday,Dinner,590,422,144.2,Veg Pulao,Hot,No,No,21.1
+2025-04-03,Thursday,Breakfast,586,455,178.7,Dosa,Rainy,No,No,49.9
+2026-01-16,Friday,Lunch,502,434,150.8,Rice Paneer,Normal,Yes,No,20.2
+2026-08-21,Friday,Dinner,490,423,180.6,Khichdi,Normal,No,No,57.5
+2025-05-10,Saturday,Dinner,598,469,185.5,Roti Paneer,Normal,No,No,49.4
+2025-03-27,Thursday,Lunch,466,354,137.7,Rice Sambar,Normal,No,No,36.7
+2025-11-22,Saturday,Dinner,597,451,194.6,Rice Dal,Normal,No,No,62.9
+2025-07-14,Monday,Lunch,464,287,124.8,Veg Biryani,Normal,No,Yes,52.2
+2025-01-27,Monday,Lunch,534,407,157.1,Rice Paneer,Normal,No,No,38
+2025-12-02,Tuesday,Dinner,551,434,176,Khichdi,Normal,No,No,53.3
+2026-09-26,Saturday,Dinner,498,441,198.8,Roti Paneer,Normal,No,No,75.3
+2026-01-28,Wednesday,Breakfast,555,401,148.7,Poha,Normal,No,Yes,30.2
+2026-09-21,Monday,Dinner,549,458,173.8,Roti Chole,Normal,No,No,44
+2025-07-22,Tuesday,Lunch,488,386,195.4,Veg Biryani,Hot,No,No,85.2
+2025-08-04,Monday,Lunch,518,460,158.7,Veg Biryani,Rainy,No,No,23.9
+2026-08-18,Tuesday,Lunch,485,376,152,Rice Dal,Rainy,No,No,47.1
+2025-06-09,Monday,Dinner,472,406,166.1,Roti Paneer,Cloudy,No,No,46.1
+2025-05-04,Sunday,lunch,588,433,171.1,Rice Sambar,Normal,No,No,50.1
+2025-08-04,Monday,Lunch,567,494,206.6,Rice Dal,Rainy,No,No,71.1
+2026-03-30,Monday,Dinner,552,360,113.2,Rice Dal,Normal,No,Yes,9.8
+2026-02-08,Sunday,Lunch,540,454,206.1,Rice Paneer,Normal,No,No,69.6
+2026-10-03,Saturday,Lunch,464,303,137.4,Rice Dal,Rainy,No,No,54.9
+2026-01-16,Friday,Dinner,499,421,171.4,Rice Dal,Normal,No,No,48.3
+2025-11-14,Friday,Breakfast,505,436,162.6,Poha,Normal,No,No,34.1
+2026-09-27,Sunday,Lunch,557,488,236,Rice Rajma,Normal,No,No,97.4
+2025-09-26,Friday,Breakfast,498,398,155.6,Upma,Normal,No,No,37.5
+2026-10-06,Tuesday,Dinner,529,429,143.9,Rice Dal,Normal,No,No,11.1
+2026-03-22,Sunday,Lunch,582,457,203.1,Rice Sambar,Normal,No,No,70.5
+2026-07-16,Thursday,Breakfast,451,378,124.9,Poha,Cloudy,No,No,18.2
+2026-10-22,Thursday,Dinner,536,420,190.8,Roti Paneer,Rainy,No,No,66.3
+2025-05-25,Sunday,Lunch,455,361,172.3,Rice Sambar,Normal,No,No,64.6
+2026-03-12,Thursday,Lunch,528,508,229.6,Rice Dal,Normal,No,No,84.9
+2026-07-28,Tuesday,Lunch,464,455,146.2,Rice Rajma,Hot,No,No,16.7
+2025-11-02,Sunday,Breakfast,540,427,157.1,Paratha,Hot,No,No,29.9
+2025-12-30,Tuesday,Breakfast,564,459,165.9,Upma,Rainy,No,No,34.3
+2025-05-23,Friday,Dinner,550,467,185.3,Khichdi,Normal,No,No,50.6
+2025-04-16,Wednesday,Breakfast,469,419,129.2,Dosa,Normal,No,No,8.3
+2025-08-30,Saturday,Breakfast,567,444,177.7,Paratha,Hot,No,No,50.1
+2025-03-25,Tuesday,Lunch,487,456,191.8,Rice Chole,Rainy,No,No,60.2
+2026-05-05,Tuesday,Lunch,555,361,152.6,Veg Biryani,Normal,No,No,52.1
+2026-07-27,Monday,Lunch,597,457,183.1,Rice Dal,Rainy,No,No,54.7
+2025-08-15,Friday,Lunch,552,398,164.2,Rice Dal,Hot,No,No,43.4
+2026-04-11,Saturday,Dinner,484,375,136.8,Khichdi,Hot,No,No,32.2
+2025-08-05,Tuesday,Dinner,493,399,155.8,Roti Dal,Normal,No,No,44.8
+2026-03-18,Wednesday,Lunch,527,423,178.4,Rice Paneer,Rainy,No,No,64.5
+2025-08-30,Saturday,Dinner,549,408,162,Rice Dal,Normal,No,No,37.4
+2025-04-06,Sunday,Lunch,475,334,131.5,Veg Biryani,,No,No,33.1
+2026-09-09,Wednesday,Breakfast,582,506,166.1,Puri Bhaji,Normal,No,No,14.9
+2025-01-17,Friday,Breakfast,543,468,188.5,Paratha,Normal,No,No,53.5
+2025-06-08,Sunday,Lunch,522,458,174.3,Rice Dal,Hot,No,No,45
+2026-08-15,Saturday,Dinner,528,390,170.9,Roti Paneer,Normal,No,Yes,59.4
+2025-12-18,Thursday,Dinner,590,562,192.7,Roti Chole,Normal,No,No,27.4
+2025-11-26,Wednesday,Lunch,540,466,179.7,Rice Chole,Rainy,No,No,51.6
+2025-03-04,Tuesday,Lunch,462,332,154.4,Rice Sambar,Hot,No,Yes,59.6
+2025-11-07,Friday,Dinner,532,478,205,Roti Paneer,Normal,No,No,60.5
+2026-10-03,Saturday,Lunch,564,414,162.7,Rice Dal,Hot,No,No,45.6
+2026-07-30,Thursday,Dinner,587,509,202.3,Roti Paneer,Rainy,No,No,48.9
+2026-03-21,Saturday,Dinner,482,345,139.1,Roti Dal,Normal,No,No,38.8
+2025-12-15,Monday,Breakfast,477,464,179.4,Dosa,Normal,Yes,No,42
+2026-08-17,Monday,Breakfast,501,461,194.4,Upma,Rainy,No,No,65.7
+2025-02-09,Sunday,Lunch,539,428,203.8,Veg Biryani,Normal,No,No,82.3
+2025-05-13,Tuesday,Dinner,461,368,149,Roti Chole,Normal,No,Yes,44.6
+2025-03-16,Sunday,Breakfast,482,400,151.7,Upma,Hot,No,No,37.2
+2025-10-29,Wednesday,Breakfast,550,386,161,Idli Sambar,Normal,No,Yes,55.7
+2026-08-15,Saturday,Breakfast,450,323,129.4,Dosa,Cloudy,No,No,35.8
+2026-09-22,Tuesday,Dinner,571,511,197.8,Veg Pulao,Normal,No,No,53.1
+2026-02-24,Tuesday,Lunch,498,430,177.8,Rice Chole,Rainy,No,No,51.2
+2025-11-26,Wednesday,Lunch,473,324,112.3,Rice Sambar,Normal,No,No,21.8
+2025-05-02,Friday,Breakfast,503,415,172.4,Dosa,Normal,No,No,53.2
+2026-09-21,Monday,Breakfast,488,434,178.1,Upma,Normal,No,No,49.8
+2025-08-06,Wednesday,Lunch,565,495,217.5,Rice Rajma,Normal,No,No,81.9
+2025-01-20,Monday,Breakfast,521,471,197.4,Upma,Rainy,No,No,59.9
+2025-12-31,Wednesday,Lunch,495,477,206.2,Rice Sambar,Rainy,Yes,No,66.2
+2025-06-08,Sunday,Breakfast,468,259,100.1,Dosa,Cloudy,No,Yes,28.6
+2025-03-14,Friday,Dinner,548,430,151.1,Veg Pulao,Hot,No,No,25.1
+2025-02-15,Saturday,Lunch,551,449,184.5,Rice Paneer,Rainy,No,No,54.7
+2026-10-27,Tuesday,Breakfast,583,451,200.5,Poha,Rainy,No,No,66.6
+2025-07-29,Tuesday,Breakfast,486,335,139.5,Puri Bhaji,Cloudy,No,Yes,49.9
+2025-11-14,Friday,Lunch,578,531,217.3,Rice Sambar,Rainy,Yes,No,66.2
+2025-09-02,Tuesday,Lunch,537,480,219.5,Rice Rajma,Cloudy,No,No,79.3
+2025-11-20,Thursday,Breakfast,480,386,144.3,Upma,Normal,No,No,33.4
+2026-03-26,Thursday,Lunch,520,461,163.7,Rice Dal,Normal,No,No,28
+2025-07-13,Sunday,Lunch,455,339,130,Rice Rajma,Normal,No,No,29.5
+2025-05-27,Tuesday,Breakfast,498,380,117,Puri Bhaji,Cloudy,No,No,6
+2025-12-31,Wednesday,Breakfast,539,439,173.9,Idli Sambar,Normal,No,No,43.1
+2026-07-01,Wednesday,Lunch,451,338,156.8,Rice Sambar,Hot,No,No,61.9
+2026-01-31,Saturday,Dinner,528,399,136.6,Roti Dal,Normal,No,No,21
+2026-02-18,Wednesday,Breakfast,595,583,212.2,Idli Sambar,Cloudy,No,No,44.8
+2025-06-14,Saturday,Dinner,467,353,146.8,Veg Pulao,Rainy,No,No,44.2
+2025-03-26,Wednesday,Breakfast,565,483,165.1,Poha,Normal,No,No,28.2
+2026-06-15,Monday,Dinner,450,350,127.6,Roti Chole,Normal,No,No,28.3
+2025-08-10,Sunday,Dinner,522,281,108.4,Khichdi,Normal,No,Yes,36
+2025-08-17,Sunday,Lunch,552,353,148.1,Rice Rajma,Rainy,No,No,53.1
+2026-02-22,Sunday,Dinner,520,430,186.9,Veg Pulao,Normal,No,No,56.3
+2025-10-08,Wednesday,Dinner,519,450,205.9,Rice Dal,Normal,No,No,74.8
+2026-07-19,Sunday,Breakfast,518,444,149.9,Dosa,Cloudy,No,No,22.8
+2026-02-22,Sunday,Lunch,504,375,148.1,Rice Sambar,Normal,No,No,38.3
+2026-08-11,Tuesday,Lunch,525,434,168.8,Rice Dal,Normal,No,No,41.9
+2026-09-02,Wednesday,Dinner,578,566,205.8,Veg Pulao,Normal,No,No,39.9
+2025-01-12,Sunday,Dinner,507,363,148.3,Rice Dal,Normal,No,No,47.8
+2025-07-14,Monday,Lunch,497,465,195.6,Rice Rajma,Normal,Yes,No,61.9
+2025-02-22,Saturday,Lunch,565,282,122.1,Rice Sambar,Rainy,No,Yes,50.5
+2025-11-28,Friday,Lunch,581,471,183.2,Rice Paneer,Normal,No,No,45.6
+2025-10-04,Saturday,Dinner,546,396,161.4,Roti Paneer,Hot,No,No,44.7
+2025-06-12,Thursday,Breakfast,493,455,168.8,Upma,Cloudy,Yes,No,43.7
+2025-05-19,Monday,Lunch,468,387,131.2,Veg Biryani,Normal,No,No,17.5
+2025-12-22,Monday,Lunch,511,454,181.9,Rice Dal,Normal,No,No,47.5
+2026-05-15,Friday,Breakfast,586,549,211.9,Poha,Normal,Yes,No,48.3
+2025-05-11,Sunday,Lunch,476,357,158.8,Rice Rajma,Normal,No,No,51
+2025-07-02,Wednesday,Lunch,456,396,180.4,Rice Paneer,Normal,No,No,62.3
+2026-07-02,Thursday,Breakfast,474,382,140.6,Poha,Rainy,No,No,31.6
+2025-07-25,Friday,Lunch,553,527,227.1,Rice Sambar,Normal,No,No,70.5
+2026-08-31,Monday,Lunch,503,396,187.7,Rice Chole,Normal,No,No,80.2
+2026-01-29,Thursday,Lunch,530,504,183.9,Rice Rajma,Normal,No,No,32.4
+2025-01-01,Wednesday,Dinner,554,453,185.3,Veg Pulao,Normal,No,No,51.7
+2026-05-07,Thursday,Lunch,587,560,205.7,Veg Biryani,Rainy,No,No,40.1
+2025-07-01,Tuesday,Lunch,567,431,168.4,Rice Rajma,Rainy,No,No,44.1
+2025-10-21,Tuesday,Breakfast,545,426,168.8,Poha,Normal,No,No,39.5
+2025-02-27,Thursday,Dinner,529,456,157.3,Roti Paneer,Cloudy,No,No,22.1
+2026-01-21,Wednesday,Dinner,582,448,190.1,Roti Chole,Normal,No,No,55.6
+2026-10-08,Thursday,Breakfast,516,429,192.5,Poha,Rainy,No,No,68.7
+2026-01-28,Wednesday,Dinner,535,404,160.8,Khichdi,Hot,No,No,46.2
+2025-02-15,Saturday,Lunch,488,394,185.8,Rice Rajma,Normal,No,No,66.7
+2025-05-25,Sunday,Breakfast,562,462,152.4,Poha,Rainy,No,No,19.9
+2025-10-16,Thursday,Dinner,549,475,179.4,Roti Chole,Normal,No,No,43.7
+2025-01-29,Wednesday,Dinner,506,408,161.4,Roti Paneer,Cloudy,No,No,36.4
+2025-11-30,Sunday,Dinner,469,348,141.2,Veg Pulao,Normal,No,No,39.5
+2025-07-20,Sunday,Lunch,466,332,124.9,Rice Sambar,Normal,No,No,27.6
+2025-11-01,Saturday,Dinner,598,491,195.7,Khichdi,Cloudy,No,No,47.3
+2026-03-17,Tuesday,Dinner,542,445,172.6,Roti Chole,Hot,No,No,39
+2026-04-05,Sunday,Lunch,589,380,147.5,Rice Sambar,Rainy,No,No,34.6
+2026-10-08,Thursday,Breakfast,577,565,247.2,Upma,Rainy,No,No,82
+2025-09-14,Sunday,Dinner,476,414,160.4,Rice Dal,Normal,No,No,35.8
+2026-07-17,Friday,Dinner,503,,154.9,Rice Dal,Rainy,No,No,24.5
+2026-04-02,Thursday,Breakfast,480,431,176,Dosa,Normal,No,No,46.4
+2026-01-27,Tuesday,Lunch,502,404,153.5,Rice Rajma,Hot,Yes,No,32.4
+2025-10-01,Wednesday,Dinner,452,375,134.9,Veg Pulao,Rainy,No,No,28.4
+2025-08-19,Tuesday,Lunch,585,472,151.2,Rice Sambar,Hot,No,No,12
+2025-06-02,Monday,Breakfast,576,441,155.6,Paratha,Normal,No,No,28.6
+2026-08-24,Monday,Lunch,536,462,168.5,Veg Biryani,Cloudy,No,No,34.9
+2025-12-08,Monday,Breakfast,491,367,142.7,Puri Bhaji,Normal,No,No,33.1
+2025-10-12,Sunday,Dinner,507,439,181.6,Rice Dal,Hot,No,No,51.4
+2026-01-21,Wednesday,Lunch,474,364,146.7,Rice Rajma,Cloudy,No,No,42
+2025-08-17,Sunday,Lunch,566,462,188.9,Rice Rajma,Normal,No,No,53.9
+2026-07-27,Monday,Breakfast,492,432,155,Paratha,Normal,No,No,24.1
+2025-09-04,Thursday,Breakfast,506,432,177.5,Upma,Cloudy,No,No,53.9
+2026-10-17,Saturday,Breakfast,459,351,141.7,Upma,Rainy,No,No,40
+2026-07-29,Wednesday,Lunch,586,468,195.3,Rice Paneer,Normal,No,No,57.2
+2025-05-11,Sunday,Breakfast,529,396,158.5,Puri Bhaji,Normal,No,No,45.4
+2026-09-15,Tuesday,Breakfast,463,332,135.6,Dosa,Cloudy,No,No,42.8
+2026-04-18,Saturday,Lunch,537,494,187.8,Veg Biryani,Hot,No,No,47.3
+2026-07-26,Sunday,Breakfast,572,470,171.4,Upma,Cloudy,No,No,37
+2025-01-20,Monday,Lunch,524,402,148.9,Veg Biryani,Rainy,No,No,33.5
+2025-01-05,Sunday,Lunch,600,465,214.2,Veg Biryani,Normal,No,No,87.5
+2025-08-18,Monday,Breakfast,576,559,183.7,Idli Sambar,Normal,No,No,17.7
+2025-03-27,Thursday,Breakfast,549,430,170.3,Idli Sambar,Normal,No,No,46
+2026-10-05,Monday,Dinner,477,397,159.6,Roti Dal,Cloudy,No,Yes,43.6
+2026-08-27,Thursday,Dinner,573,440,170.2,Roti Paneer,Normal,No,Yes,41.4
+2025-12-14,Sunday,Dinner,571,428,180.5,Roti Chole,Rainy,No,No,55.8
+2025-07-11,Friday,Dinner,498,395,174.1,Veg Pulao,Normal,No,No,58.5
+2026-01-31,Saturday,Breakfast,475,356,141.3,Puri Bhaji,Normal,No,No,40.5
+2026-07-15,Wednesday,Lunch,575,428,189.5,Rice Dal,Hot,No,No,72.3
+2026-06-09,Tuesday,Lunch,473,430,192,Rice Sambar,Normal,No,No,69
+2026-01-25,Sunday,Breakfast,515,353,138.4,Upma,Rainy,No,Yes,42.9
+2026-09-16,Wednesday,Breakfast,495,442,,Upma,Normal,No,No,41.6
+2026-01-11,Sunday,Lunch,470,419,153.2,Veg Biryani,Rainy,No,No,34.2
+2026-01-31,Saturday,Breakfast,581,479,162.3,Poha,Normal,Yes,No,21.1
+2026-07-29,Wednesday,Breakfast,542,395,154.8,Dosa,Rainy,No,No,40.4
+2025-01-02,Thursday,Dinner,497,412,148.9,Rice Dal,Rainy,No,No,24.6
+2026-05-10,Sunday,Lunch,468,357,142.3,Rice Paneer,Normal,No,No,34.4
+2025-04-10,Thursday,Lunch,580,518,217.2,Rice Paneer,Normal,No,No,60.2
+2026-06-05,Friday,Dinner,484,424,175.4,Roti Chole,Normal,No,No,49.6
+2025-07-01,Tuesday,Breakfast,480,437,153.4,Dosa,Normal,Yes,No,23
+2026-10-25,Sunday,Dinner,547,429,186.4,Roti Dal,Normal,No,No,64.6
+2025-04-13,Sunday,Breakfast,599,459,167.8,Paratha,Hot,No,No,33.3
+2025-03-22,Saturday,Lunch,523,440,165.3,Rice Chole,Rainy,No,No,31.6
+2025-08-21,Thursday,Dinner,546,531,211.7,Veg Pulao,Normal,No,No,57.1
+2025-11-22,Saturday,Lunch,472,430,192.4,Rice Paneer,Rainy,No,No,71.1
+2025-01-28,Tuesday,Breakfast,498,403,152.4,Idli Sambar,Rainy,No,No,38
+2026-04-14,Tuesday,Lunch,576,521,196.9,Rice Paneer,Cloudy,No,No,45.2
+2025-01-26,Sunday,Breakfast,531,396,155.6,Puri Bhaji,Rainy,No,No,45
+2026-10-01,Thursday,Dinner,523,383,126.1,Roti Paneer,Cloudy,No,No,11.1
+2025-12-27,Saturday,Lunch,585,458,200.3,Veg Biryani,Hot,No,No,62.4
+2025-09-06,Saturday,Lunch,528,294,108.2,Rice Rajma,Normal,No,Yes,21.4
+2026-09-15,Tuesday,Breakfast,594,480,151.8,Idli Sambar,Cloudy,No,No,8.3
+2025-10-04,Saturday,Breakfast,581,439,170.6,Paratha,Normal,No,No,40.4
+2025-07-05,Saturday,Lunch,558,395,164.5,Rice Chole,Cloudy,No,No,50.8
+2025-07-29,Tuesday,Lunch,524,386,161.5,Rice Paneer,Rainy,No,No,47.6
+2025-02-13,Thursday,Lunch,487,334,112.1,Rice Rajma,Normal,No,Yes,12.7
+2026-05-19,Tuesday,Lunch,569,552,187.5,Rice Rajma,Cloudy,No,No,27.7
+2025-12-29,Monday,Breakfast,584,433,167.6,Dosa,Cloudy,No,No,38.7
+2026-09-05,Saturday,Dinner,590,434,192.9,Rice Dal,Normal,No,No,67.5
+2026-03-02,Monday,Dinner,469,360,163.8,Roti Dal,Normal,No,No,54.5
+2026-04-19,Sunday,Breakfast,588,480,194.4,Puri Bhaji,Rainy,No,No,56.5
+2025-12-10,Wednesday,Dinner,506,444,194.1,Veg Pulao,Normal,Yes,No,66.7
+2025-06-02,Monday,Lunch,526,442,202.1,Rice Paneer,Normal,No,No,73.4
+2025-11-20,Thursday,Lunch,481,414,162.8,Veg Biryani,Rainy,No,No,47.9
+2026-03-15,Sunday,Breakfast,575,458,170.4,Idli Sambar,Cloudy,No,No,38.4
+2026-09-25,Friday,Dinner,576,457,168.5,Roti Paneer,Normal,No,No,35.9
+2026-06-23,Tuesday,Lunch,479,425,192.2,Rice Chole,Cloudy,No,No,61
+2025-07-03,Thursday,Breakfast,543,511,194.8,Puri Bhaji,Rainy,No,No,45.2
+2026-05-28,Thursday,Dinner,525,439,181.8,Veg Pulao,Cloudy,No,No,49.3
+2026-01-24,Saturday,Breakfast,538,441,171.5,Idli Sambar,Normal,No,No,43.1
+2025-01-17,Friday,Lunch,514,361,135.7,Rice Rajma,Normal,No,No,29
+2025-04-24,Thursday,Lunch,488,389,148.5,Rice Chole,Normal,No,No,32.6
+2025-10-20,Monday,Dinner,486,395,188.4,Khichdi,Normal,No,No,69.2
+2025-08-17,Sunday,Dinner,475,374,132,Roti Chole,Normal,Yes,No,28.5
+2026-05-26,Tuesday,Dinner,531,438,168.3,Roti Paneer,Rainy,No,No,39
+2025-05-25,Sunday,Lunch,541,382,159.7,Rice Sambar,Normal,No,No,45.5
+2025-11-20,Thursday,Breakfast,555,429,193.1,Paratha,Normal,No,Yes,70
+2026-08-27,Thursday,Breakfast,469,360,154.6,Dosa,Cloudy,No,No,47.2
+2026-02-23,Monday,Dinner,535,446,175.3,Roti Dal,Normal,No,No,44
+2026-02-21,Saturday,Lunch,530,418,145.5,Rice Sambar,Rainy,No,No,30.2
+2025-11-05,Wednesday,Lunch,503,421,158.6,Rice Chole,Rainy,No,No,29.7
+2025-06-24,Tuesday,Lunch,479,434,202.8,Rice Rajma,Hot,No,No,73.3
+2026-02-05,Thursday,Breakfast,506,465,170.6,Poha,Normal,No,No,32.9
+2026-04-21,Tuesday,Lunch,567,429,142.1,Rice Sambar,Rainy,No,No,20.5
+2025-02-25,Tuesday,Dinner,484,388,151.3,Rice Dal,Normal,No,No,40.1
+2026-03-21,Saturday,Lunch,476,410,158.9,Rice Chole,Rainy,No,No,42.5
+2025-10-28,Tuesday,Breakfast,474,379,142.7,Poha,Cloudy,Yes,No,35.1
+2025-01-07,Tuesday,Lunch,549,485,185.4,Rice Sambar,Normal,No,No,41.9
+2025-01-26,Sunday,Dinner,564,481,198.5,Rice Dal,Normal,No,No,61.6
+2026-08-07,Friday,Lunch,508,433,195,Rice Sambar,Normal,No,No,68.2
+2025-05-09,Friday,Lunch,566,482,210.7,Rice Dal,Rainy,No,No,75.6
+2026-07-31,Friday,Breakfast,465,427,189.9,Poha,Normal,No,No,64.6
+2026-05-26,Tuesday,Dinner,526,472,184.5,Veg Pulao,Cloudy,No,No,45.8
+2026-10-19,Monday,Lunch,484,372,147.1,Rice Chole,Normal,No,No,46.5
+2025-05-26,Monday,Dinner,481,471,185,Roti Chole,Rainy,No,No,45
+2025-12-16,Tuesday,Lunch,552,438,150.6,Rice Paneer,Hot,No,No,22.4
+2025-10-31,Friday,Breakfast,517,489,230.6,Idli Sambar,Normal,No,No,86.2
+2026-01-08,Thursday,Lunch,512,421,166.1,Rice Chole,Hot,No,No,47.2
+2025-02-06,Thursday,Dinner,461,289,121.7,Roti Chole,Normal,No,Yes,40.1
+2025-05-14,Wednesday,Breakfast,575,558,223.1,Puri Bhaji,Hot,No,No,58
+2025-04-16,Wednesday,Breakfast,497,411,145.4,Puri Bhaji,Normal,No,No,23.4
+2026-06-22,Monday,Lunch,580,487,198.4,Rice Chole,Normal,No,No,55.8
+2026-02-15,Sunday,Lunch,588,354,166.7,Rice Sambar,Cloudy,No,Yes,72.3
+2025-10-09,Thursday,Breakfast,535,420,135.4,Dosa,Rainy,No,No,11.8
+2026-05-07,Thursday,Dinner,549,419,156.1,Roti Dal,Rainy,No,No,36.7
+2025-09-10,Wednesday,Lunch,526,456,175.1,Rice Paneer,Rainy,No,No,42
+2025-08-06,Wednesday,Lunch,455,386,140,Rice Dal,Rainy,No,No,24.4
+2026-03-31,Tuesday,Dinner,588,493,189.8,Roti Chole,Hot,No,No,46.5
+2026-07-02,Thursday,Dinner,555,394,168.5,Roti Paneer,Cloudy,No,Yes,56.6
+2025-04-30,Wednesday,Dinner,475,372,151.6,Rice Dal,Rainy,No,No,48.9
+2026-04-15,Wednesday,Breakfast,543,469,,Dosa,Rainy,No,No,26.1
+2025-04-18,Friday,Lunch,550,474,221,Rice Sambar,Normal,No,No,83.8
+2025-07-18,Friday,Lunch,560,467,206.3,Veg Biryani,Hot,No,No,70.2
+2025-04-12,Saturday,Breakfast,551,451,165.6,Paratha,Normal,No,No,31.2
+2025-12-08,Monday,Dinner,487,393,129.9,Rice Dal,Cloudy,No,No,13.1
+2025-02-08,Saturday,Breakfast,580,474,180.8,Poha,Normal,No,No,42
+2026-03-22,Sunday,Dinner,515,369,155.8,Roti Paneer,Rainy,No,No,48.7
+2025-04-14,Monday,Breakfast,515,390,165,Poha,Normal,No,No,52.3
+2025-01-02,Thursday,Breakfast,571,487,193.3,Upma,Normal,No,No,50.8
+2025-01-12,Sunday,Dinner,472,345,131.9,Roti Dal,Rainy,No,No,29.2
+2026-03-17,Tuesday,Dinner,591,476,196.1,Khichdi,Rainy,No,No,61.1
+2025-09-25,Thursday,Dinner,519,472,177.9,Roti Chole,Hot,No,No,42
+2025-08-21,Thursday,Lunch,473,391,141.2,Rice Sambar,Cloudy,No,No,20.6
+2025-06-08,Sunday,Breakfast,561,502,186.7,Poha,Rainy,No,No,35
+2025-03-17,Monday,Lunch,512,359,152.6,Rice Chole,Normal,No,No,48.9
+2025-12-08,Monday,Breakfast,590,504,162.9,Dosa,Normal,No,No,12.3
+2025-04-25,Friday,Dinner,597,520,231.5,Khichdi,Cloudy,No,No,79.5
+2026-08-28,Friday,Dinner,451,420,161.1,Rice Dal,Normal,Yes,No,33.2
+2026-08-30,Sunday,Lunch,584,496,193,Rice Chole,Rainy,No,No,51.5
+2025-10-08,Wednesday,Dinner,592,433,175,Khichdi,Rainy,No,No,50
+2025-05-11,Sunday,Dinner,502,351,127.5,Roti Chole,,No,No,25.2
+2026-02-18,Wednesday,Lunch,566,504,184.4,Rice Sambar,Normal,No,No,38.4
+2026-05-08,Friday,Lunch,542,460,193.6,Rice Dal,Normal,No,No,63.9
+2025-06-17,Tuesday,Lunch,485,411,171.3,Rice Rajma,Normal,No,No,52
+2025-12-25,Thursday,Lunch,596,343,133.4,Rice Rajma,Cloudy,No,Yes,36.3
+2026-05-19,Tuesday,Breakfast,600,458,181.5,Poha,Normal,No,No,49.2
+2026-05-18,Monday,Dinner,595,507,203.9,Roti Paneer,Hot,No,No,54.4
+2026-03-31,Tuesday,Lunch,492,386,116.6,Rice Sambar,Normal,Yes,No,7.7
+2026-01-05,Monday,Lunch,575,444,194.7,Rice Sambar,Hot,No,No,68.4
+2026-05-21,Thursday,Lunch,496,402,165.8,Rice Sambar,Normal,No,No,55.1
+2026-01-30,Friday,Breakfast,572,486,177,Dosa,Normal,No,No,31.8
+2025-08-10,Sunday,Lunch,585,435,171.4,Rice Sambar,Rainy,No,No,46.4
+2025-09-03,Wednesday,Dinner,500,371,170.1,Veg Pulao,Normal,No,Yes,56.6
+2025-03-14,Friday,Lunch,515,430,188.6,Rice Dal,Normal,No,No,60.2
+2026-05-31,Sunday,Lunch,470,336,126.9,Rice Paneer,Cloudy,No,No,37.2
+2025-05-27,Tuesday,Breakfast,555,463,212.4,Idli Sambar,Rainy,No,No,78.3
+2025-04-06,Sunday,Dinner,487,422,179.3,Veg Pulao,Normal,No,No,57.2
+2025-12-22,Monday,Lunch,539,473,190.3,Rice Paneer,Normal,Yes,No,46.1
+2025-04-28,Monday,Dinner,455,363,161.8,Roti Dal,Normal,No,No,58.7
+2025-01-08,Wednesday,Lunch,482,383,149.2,Rice Sambar,Cloudy,No,No,35.1
+2026-01-01,Thursday,Lunch,558,386,147.6,Veg Biryani,Normal,No,No,33.3
+2025-01-15,Wednesday,Dinner,471,412,171,Veg Pulao,Normal,No,No,52.6
+2026-06-19,Friday,Dinner,592,509,224.9,Roti Chole,Cloudy,No,No,72.8
+2025-01-18,Saturday,Dinner,517,410,153.3,Roti Paneer,Normal,No,No,26.4
+2026-02-10,Tuesday,Breakfast,555,418,167.5,Poha,Rainy,No,No,41.5
+2025-10-29,Wednesday,Lunch,578,490,193.1,Rice Chole,Cloudy,Yes,No,45.2
+2026-02-02,Monday,Lunch,521,381,164.8,Veg Biryani,Normal,No,Yes,59.8
+2025-08-13,Wednesday,Lunch,482,311,122.6,Rice Paneer,Hot,No,No,34.2
+2025-11-05,Wednesday,Breakfast,575,494,187.8,Upma,Normal,No,No,48.9
+2026-01-06,Tuesday,Dinner,511,389,154.3,Roti Paneer,Normal,No,No,39.4
+2026-03-05,Thursday,Breakfast,534,438,160.5,Puri Bhaji,Cloudy,Yes,No,37.3
